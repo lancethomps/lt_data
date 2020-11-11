@@ -1,4 +1,492 @@
 date,player,row_id,course,is_event,shot,hole,club,yards_to_pin,surface,carry,distance,bad_shot,ball_speed,ball_direction,club_face,club_path,club_speed,launch_angle,spin_axis,spin_back,spin_side,week,is_dupe,fir,gir
+2020-11-11,Lance Thompson,18525,PGA National Champion,true,21,6,PT,2.0,Green,8.42,,,6.0,0.0,0.0,0.0,5.5,-1.5,0.0,0,0,2020.46,,,
+2020-11-11,Lance Thompson,18524,PGA National Champion,true,20,6,I9,147.0,Fairway,132.61,145.0,true,104.0,5.6,4.7,9.4,82.5,24.1,-18.8,5659,-1926,2020.46,,,
+2020-11-11,Lance Thompson,18523,PGA National Champion,true,19,6,DR,441.0,TEE,260.69,294.0,,153.0,3.2,1.3,4.9,104.8,15.1,-18.0,2378,-772,2020.46,,true,true
+2020-11-11,Lance Thompson,18522,PGA National Champion,true,18,5,PT,12.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,0.4,0.0,0,0,2020.46,,,
+2020-11-11,Lance Thompson,18521,PGA National Champion,true,17,5,I8,158.0,TEE,151.69,146.0,true,109.0,5.5,4.7,9.4,86.5,23.1,-18.8,4311,-1467,2020.46,,,
+2020-11-11,Lance Thompson,18520,PGA National Champion,true,16,5,I8,158.0,TEE,149.74,,,105.0,-2.0,-3.2,2.4,87.5,19.7,-33.6,3558,-2363,2020.46,,,false
+2020-11-11,Lance Thompson,18519,PGA National Champion,true,15,4,PT,6.0,Green,8.42,,,6.0,0.0,4.0,2.0,5.5,1.3,0.0,0,0,2020.46,,,
+2020-11-11,Lance Thompson,18518,PGA National Champion,true,14,4,LW,83.0,Fairway,78.85,77.0,,72.0,0.0,1.5,-2.9,60.0,30.5,5.7,8464,844,2020.46,,,
+2020-11-11,Lance Thompson,18517,PGA National Champion,true,13,4,DR,309.0,TEE,277.51,226.0,true,153.0,13.9,15.7,12.1,104.8,18.5,18.0,2151,698,2020.46,,true,true
+2020-11-11,Lance Thompson,18516,PGA National Champion,true,12,3,PT,10.0,Green,14.03,,,10.0,0.0,0.0,0.0,9.1,0.9,0.0,0,0,2020.46,,,
+2020-11-11,Lance Thompson,18515,PGA National Champion,true,11,3,LW,45.0,HeavyRough,32.73,35.0,true,40.0,2.5,0.5,3.6,37.7,31.3,-12.3,3986,-869,2020.46,,,
+2020-11-11,Lance Thompson,18514,PGA National Champion,true,10,3,W3,207.0,HeavyRough,221.81,252.0,,136.0,3.2,1.3,4.6,94.4,12.8,-16.4,2056,-605,2020.46,,,
+2020-11-11,Lance Thompson,18513,PGA National Champion,true,9,3,DR,496.0,TEE,261.75,289.0,true,157.0,9.0,8.6,11.4,105.9,14.2,-5.7,2764,-275,2020.46,,false,false
+2020-11-11,Lance Thompson,18512,PGA National Champion,true,8,2,PT,7.0,LightRough,8.42,,,6.0,0.0,0.0,0.0,5.5,1.6,0.0,0,0,2020.46,,,
+2020-11-11,Lance Thompson,18511,PGA National Champion,true,7,2,PW,104.0,Fairway,109.18,111.0,,85.0,4.1,2.8,5.7,70.3,25.9,-11.5,6941,-1412,2020.46,,,
+2020-11-11,Lance Thompson,18510,PGA National Champion,true,6,2,DR,394.0,TEE,253.97,290.0,true,154.0,7.3,5.3,9.1,107.7,12.1,-22.9,2175,-918,2020.46,,true,
+2020-11-11,Lance Thompson,18509,PGA National Champion,true,5,1,PT,3.0,Green,7.01,,,5.0,0.0,4.0,3.0,4.6,1.8,0.0,0,0,2020.46,,,
+2020-11-11,Lance Thompson,18508,PGA National Champion,true,4,1,LW,45.0,HeavyRough,44.41,42.0,,47.0,0.0,-1.2,1.9,46.5,32.8,-11.5,4982,-1013,2020.46,,,
+2020-11-11,Lance Thompson,18507,PGA National Champion,true,3,1,DR,317.0,TEE,251.73,272.0,true,153.0,8.1,7.6,8.9,107.2,13.3,-2.5,3211,-140,2020.46,,false,true
+2020-11-11,Lance Thompson,18506,Firethorn Member Tees,,2,,I9,146.0,,142.28,,true,110.0,5.9,4.7,9.0,85.9,23.5,-21.3,5536,-2158,2020.46,,,
+2020-11-11,Lance Thompson,18505,Firethorn Member Tees,,1,,W3,376.0,,199.53,,true,135.0,8.9,7.1,11.7,95.7,13.3,-27.8,1790,-943,2020.46,,,
+2020-10-26,Lance Thompson,18504,Grassy Hill CC Lv1,true,57,1,PT,15.0,GreenFringe,22.45,,,16.0,0.0,2.0,1.0,14.6,3.6,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18503,Grassy Hill CC Lv1,true,56,1,I9,134.0,HeavyRough,125.33,119.0,,96.0,3.7,2.8,7.1,79.3,22.6,-17.2,4774,-1477,2020.44,,,
+2020-10-26,Lance Thompson,18502,Grassy Hill CC Lv1,true,55,1,DR,395.0,TEE,255.53,261.0,,148.0,1.7,0.8,4.6,105.0,14.3,-22.9,1974,-833,2020.44,,false,
+2020-10-26,Lance Thompson,18501,Olympic Country Club F&R,true,54,18,PT,2.0,Green,5.61,,,4.0,0.0,5.0,3.0,3.6,1.8,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18500,Olympic Country Club F&R,true,53,18,LW,64.0,HeavyRough,64.3,66.0,,64.0,0.0,-1.5,2.3,57.7,31.8,-8.2,7399,-1066,2020.44,,,
+2020-10-26,Lance Thompson,18499,Olympic Country Club F&R,true,52,18,DR,285.0,TEE,221.19,221.0,,148.0,-3.7,-5.4,-0.7,107.3,11.1,-32.7,1702,-1092,2020.44,,false,true
+2020-10-26,Lance Thompson,18498,Olympic Country Club F&R,true,51,17,LW,14.0,GreenFringe,5.66,,,17.0,1.8,1.5,4.3,16.0,29.9,-9.8,1772,-306,2020.44,,,
+2020-10-26,Lance Thompson,18497,Olympic Country Club F&R,true,50,17,SW,100.0,TEE,89.84,86.0,,77.0,-4.7,-6.3,-1.4,66.4,29.2,-19.6,7063,-2515,2020.44,,,
+2020-10-26,Lance Thompson,18496,Olympic Country Club F&R,true,49,16,LW,34.0,HeavyRough,30.0,,,38.0,0.0,-1.3,2.1,36.2,38.7,-4.1,4725,-338,2020.44,,,
+2020-10-26,Lance Thompson,18495,Olympic Country Club F&R,true,48,16,DR,307.0,TEE,245.35,273.0,,147.0,-0.5,-1.3,2.4,104.3,12.8,-20.5,2231,-834,2020.44,,false,
+2020-10-26,Lance Thompson,18494,Olympic Country Club F&R,true,47,15,PT,3.0,Green,8.42,,,6.0,0.0,3.0,2.0,5.5,1.3,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18493,Olympic Country Club F&R,true,46,15,LW,19.0,HeavyRough,9.65,16.0,,22.0,0.0,-1.4,3.3,20.8,30.6,-17.2,1936,-599,2020.44,,,
+2020-10-26,Lance Thompson,18492,Olympic Country Club F&R,true,45,15,I9,137.0,Fairway,136.46,118.0,,101.0,2.0,0.8,6.2,82.1,22.2,-27.0,4157,-2118,2020.44,,,
+2020-10-26,Lance Thompson,18491,Olympic Country Club F&R,true,44,15,DR,386.0,TEE,249.6,249.0,,144.0,0.4,-1.2,3.1,102.1,14.6,-24.6,1841,-842,2020.44,,,
+2020-10-26,Lance Thompson,18490,Olympic Country Club F&R,true,43,15,DR,386.0,TEE,213.94,,,139.0,0.0,1.6,-3.5,98.6,11.9,27.0,3076,1567,2020.44,,,false
+2020-10-26,Lance Thompson,18489,Olympic Country Club F&R,true,42,14,PT,3.0,Green,8.42,,,6.0,0.0,4.0,2.0,5.5,1.1,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18488,Olympic Country Club F&R,true,41,14,LW,67.0,LightRough,64.69,64.0,,59.0,-2.1,-3.7,0.0,55.7,30.4,-14.7,5878,-1542,2020.44,,,
+2020-10-26,Lance Thompson,18487,Olympic Country Club F&R,true,40,14,DR,355.0,TEE,266.14,288.0,true,152.0,5.7,5.7,8.6,102.0,16.1,-5.7,2251,-224,2020.44,,false,true
+2020-10-26,Lance Thompson,18486,Olympic Country Club F&R,true,39,13,LW,13.0,Sand,10.51,,,23.0,-2.3,-2.7,0.2,20.9,29.9,-5.7,2419,-268,2020.44,,,
+2020-10-26,Lance Thompson,18485,Olympic Country Club F&R,true,38,13,PW,116.0,TEE,111.79,103.0,,87.0,0.0,-1.5,3.5,71.9,25.1,-18.0,6286,-2042,2020.44,,,
+2020-10-26,Lance Thompson,18484,Olympic Country Club F&R,true,37,12,PT,7.0,Green,9.82,,,7.0,0.0,0.0,0.0,6.4,-0.8,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18483,Olympic Country Club F&R,true,36,12,LW,11.0,HeavyRough,2.42,4.0,,11.0,0.0,1.7,-2.7,10.4,31.4,14.7,2821,740,2020.44,,,
+2020-10-26,Lance Thompson,18482,Olympic Country Club F&R,true,35,12,LW,13.0,HeavyRough,0.05,2.0,,10.0,-4.0,-5.2,-0.9,9.7,0.0,-21.3,1894,-738,2020.44,,,
+2020-10-26,Lance Thompson,18481,Olympic Country Club F&R,true,34,12,PW,121.0,HeavyRough,118.6,108.0,,92.0,0.0,-1.5,3.5,76.0,23.8,-18.0,5680,-1845,2020.44,,,
+2020-10-26,Lance Thompson,18480,Olympic Country Club F&R,true,33,12,W3,414.0,TEE,187.4,293.0,,132.0,1.9,0.8,5.6,95.7,11.3,-33.6,2381,-1581,2020.44,,false,false
+2020-10-26,Lance Thompson,18479,Olympic Country Club F&R,true,32,11,LW,75.0,Fairway,65.93,,,66.0,0.0,-1.4,2.1,62.3,33.5,-12.3,7613,-1659,2020.44,,,
+2020-10-26,Lance Thompson,18478,Olympic Country Club F&R,true,31,11,I4,280.0,TEE,184.44,205.0,true,126.0,6.2,4.4,10.0,95.5,14.8,-33.6,2257,-1499,2020.44,,true,
+2020-10-26,Lance Thompson,18477,Olympic Country Club F&R,true,30,10,PT,6.0,GreenFringe,12.63,,,9.0,0.0,4.0,2.0,8.2,2.8,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18476,Olympic Country Club F&R,true,29,10,LW,33.0,HeavyRough,28.85,27.0,,38.0,0.0,-1.2,2.1,38.0,42.6,-4.1,5390,-386,2020.44,,,
+2020-10-26,Lance Thompson,18475,Olympic Country Club F&R,true,28,10,DR,298.0,TEE,217.86,265.0,,138.0,-1.4,-1.3,0.3,93.4,10.4,-3.3,2139,-123,2020.44,,false,
+2020-10-26,Lance Thompson,18474,Olympic Country Club F&R,true,27,9,PT,3.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-1.0,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18473,Olympic Country Club F&R,true,26,9,I4,210.0,Fairway,183.73,207.0,true,123.0,7.4,5.3,9.9,91.1,14.9,-22.9,2711,-1145,2020.44,,,
+2020-10-26,Lance Thompson,18472,Olympic Country Club F&R,true,25,9,W3,432.0,TEE,186.06,222.0,true,126.0,6.9,5.7,9.4,91.3,12.8,-18.8,2850,-970,2020.44,,true,true
+2020-10-26,Lance Thompson,18471,Olympic Country Club F&R,true,24,8,SW,18.0,Sand,26.28,,,36.0,-2.9,-2.3,-3.2,36.0,43.6,0.8,4807,74,2020.44,,,
+2020-10-26,Lance Thompson,18470,Olympic Country Club F&R,true,23,8,SW,84.0,LightRough,86.77,102.0,true,75.0,8.1,7.6,8.5,62.5,29.7,-0.8,7405,-103,2020.44,,,
+2020-10-26,Lance Thompson,18469,Olympic Country Club F&R,true,22,8,DR,279.0,TEE,209.42,195.0,,145.0,-1.0,-2.1,3.2,105.1,10.2,-31.9,1718,-1069,2020.44,,false,
+2020-10-26,Lance Thompson,18468,Olympic Country Club F&R,true,21,7,PT,2.0,Green,5.61,,,4.0,0.0,7.0,3.0,3.6,2.2,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18467,Olympic Country Club F&R,true,20,7,LW,33.0,HeavyRough,23.04,31.0,true,34.0,3.2,2.3,4.4,30.9,27.7,-4.1,3819,-273,2020.44,,,
+2020-10-26,Lance Thompson,18466,Olympic Country Club F&R,true,19,7,DR,320.0,TEE,260.97,287.0,,148.0,3.8,2.8,6.1,102.8,15.7,-16.4,1942,-571,2020.44,,false,true
+2020-10-26,Lance Thompson,18465,Olympic Country Club F&R,true,18,6,PW,125.0,TEE,121.39,,,94.0,3.9,2.8,6.1,77.7,25.1,-13.1,6298,-1465,2020.44,,,true
+2020-10-26,Lance Thompson,18464,Olympic Country Club F&R,true,17,5,SW,21.0,Sand,28.59,,,37.0,0.0,0.0,0.0,35.2,36.2,0.0,4678,0,2020.44,,,
+2020-10-26,Lance Thompson,18463,Olympic Country Club F&R,true,16,5,DR,292.0,TEE,258.5,271.0,true,150.0,5.4,5.3,4.0,100.6,15.8,2.5,2498,109,2020.44,,false,
+2020-10-26,Lance Thompson,18462,Olympic Country Club F&R,true,15,4,PT,2.0,Green,9.82,,,7.0,0.0,4.0,2.0,6.4,0.8,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18461,Olympic Country Club F&R,true,14,4,PT,14.0,Green,14.03,,,10.0,0.0,4.0,2.0,9.1,1.5,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18460,Olympic Country Club F&R,true,13,4,W3,268.0,TEE,226.01,254.0,true,144.0,8.9,7.6,10.2,100.0,11.8,-13.1,2783,-647,2020.44,,true,true
+2020-10-26,Lance Thompson,18459,Olympic Country Club F&R,true,12,3,PT,6.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,-0.1,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18458,Olympic Country Club F&R,true,11,3,LW,89.0,TEE,80.84,83.0,,74.0,0.0,-1.5,3.1,63.8,31.8,-16.4,7374,-2170,2020.44,,,true
+2020-10-26,Lance Thompson,18457,Olympic Country Club F&R,true,10,2,PT,4.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,0.5,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18456,Olympic Country Club F&R,true,9,2,SW,14.0,HeavyRough,13.59,10.0,,26.0,0.0,-1.6,1.9,24.5,29.7,-6.5,2981,-339,2020.44,,,
+2020-10-26,Lance Thompson,18455,Olympic Country Club F&R,true,8,2,I4,202.0,HeavyRough,171.96,188.0,true,119.0,7.0,5.3,9.9,93.0,13.9,-22.9,2495,-1053,2020.44,,,
+2020-10-26,Lance Thompson,18454,Olympic Country Club F&R,true,7,2,DR,476.0,TEE,233.35,274.0,,146.0,2.4,0.8,5.7,103.6,10.4,-29.5,1814,-1026,2020.44,,false,false
+2020-10-26,Lance Thompson,18453,Olympic Country Club F&R,true,6,1,PT,2.0,Green,9.82,,,7.0,0.0,0.0,0.0,6.4,-0.4,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18452,Olympic Country Club F&R,true,5,1,PT,2.0,Green,8.42,,,6.0,0.0,3.0,2.0,5.5,0.0,0.0,0,0,2020.44,true,,
+2020-10-26,Lance Thompson,18451,Olympic Country Club F&R,true,4,1,PT,4.0,Green,12.63,,,9.0,0.0,2.0,0.0,8.2,2.5,0.0,0,0,2020.44,,,
+2020-10-26,Lance Thompson,18450,Olympic Country Club F&R,true,3,1,PT,4.0,Green,9.82,,,7.0,0.0,2.0,1.0,6.4,-0.6,0.0,0,0,2020.44,true,,
+2020-10-26,Lance Thompson,18449,Olympic Country Club F&R,true,2,1,LW,37.0,Fairway,27.85,33.0,true,37.0,0.0,-1.3,3.7,37.8,33.2,-23.7,2650,-1163,2020.44,,,
+2020-10-26,Lance Thompson,18448,Olympic Country Club F&R,true,1,1,DR,288.0,TEE,178.52,251.0,,140.0,0.1,-1.2,3.8,101.5,7.6,-33.6,1686,-1120,2020.44,,true,true
+2020-10-25,Lance Thompson,18447,Quincy Downs C.C.,true,111,9,SW,32.0,Sand,31.77,,,39.0,0.0,-1.2,2.6,38.6,36.2,-9.0,3305,-581,2020.43,,,
+2020-10-25,Lance Thompson,18446,Quincy Downs C.C.,true,110,9,W3,253.0,TEE,182.88,221.0,,132.0,0.5,-1.2,2.8,91.7,8.4,-9.8,2463,-425,2020.43,,false,
+2020-10-25,Lance Thompson,18445,Quincy Downs C.C.,true,109,8,PT,5.0,Green,8.42,,,6.0,0.0,4.0,2.0,5.5,-0.2,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18444,Quincy Downs C.C.,true,108,8,LW,66.0,Fairway,65.96,61.0,true,60.0,-5.5,-7.3,-2.4,56.6,32.5,-19.6,5701,-2030,2020.43,,,
+2020-10-25,Lance Thompson,18443,Quincy Downs C.C.,true,107,8,PW,173.0,HeavyRough,111.3,107.0,true,88.0,0.0,-1.4,3.1,72.7,28.0,-16.4,6713,-1975,2020.43,,,
+2020-10-25,Lance Thompson,18442,Quincy Downs C.C.,true,106,8,DR,416.0,TEE,242.5,243.0,,147.0,0.2,-1.7,3.4,104.3,11.5,-26.2,1923,-946,2020.43,,false,false
+2020-10-25,Lance Thompson,18441,Quincy Downs C.C.,true,105,7,PT,10.0,Green,11.22,,,8.0,0.0,0.0,0.0,7.3,-0.1,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18440,Quincy Downs C.C.,true,104,7,PW,118.0,TEE,117.42,108.0,,92.0,0.0,-1.3,3.1,78.0,24.2,-20.5,5201,-1944,2020.43,,,true
+2020-10-25,Lance Thompson,18439,Quincy Downs C.C.,true,103,6,PT,2.0,Green,8.42,,,6.0,0.0,6.0,3.0,5.5,3.6,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18438,Quincy Downs C.C.,true,102,6,PT,14.0,Green,12.63,,,9.0,0.0,3.0,2.0,8.2,1.5,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18437,Quincy Downs C.C.,true,101,6,PW,116.0,Fairway,114.7,102.0,,90.0,-2.2,-3.2,1.4,76.3,23.4,-22.9,5208,-2199,2020.43,,,
+2020-10-25,Lance Thompson,18436,Quincy Downs C.C.,true,100,6,I7,285.0,Sand,156.49,169.0,,108.0,2.1,0.8,5.2,87.8,17.8,-22.1,3255,-1321,2020.43,,,
+2020-10-25,Lance Thompson,18435,Quincy Downs C.C.,true,99,6,DR,513.0,TEE,212.65,228.0,,134.0,-2.3,-2.7,0.2,94.1,14.0,-5.7,2961,-295,2020.43,,false,false
+2020-10-25,Lance Thompson,18434,Quincy Downs C.C.,true,98,5,LW,15.0,LightRough,6.47,,,18.0,2.1,0.5,3.4,17.0,31.4,-11.5,1651,-335,2020.43,,,
+2020-10-25,Lance Thompson,18433,Quincy Downs C.C.,true,97,5,I5,192.0,HeavyRough,175.88,177.0,true,118.0,7.3,5.7,9.8,90.1,16.5,-16.4,3498,-1029,2020.43,,,
+2020-10-25,Lance Thompson,18432,Quincy Downs C.C.,true,96,5,DR,410.0,TEE,181.46,218.0,,131.0,-3.7,-2.6,-6.4,92.9,9.3,22.9,3947,1667,2020.43,,false,
+2020-10-25,Lance Thompson,18431,Quincy Downs C.C.,true,95,4,PT,5.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,0.6,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18430,Quincy Downs C.C.,true,94,4,I7,156.0,TEE,154.51,151.0,,110.0,4.4,2.8,7.7,84.0,18.1,-19.6,3924,-1397,2020.43,,,true
+2020-10-25,Lance Thompson,18429,Quincy Downs C.C.,true,93,3,PT,3.0,Green,9.82,,,7.0,0.0,0.0,0.0,6.4,-0.1,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18428,Quincy Downs C.C.,true,92,3,PW,121.0,Fairway,113.25,118.0,,90.0,0.0,-1.4,3.9,74.4,19.5,-19.6,4709,-1676,2020.43,,,
+2020-10-25,Lance Thompson,18427,Quincy Downs C.C.,true,91,3,W3,356.0,TEE,193.19,235.0,,133.0,3.3,1.7,6.5,96.4,12.3,-33.6,2381,-1581,2020.43,,true,true
+2020-10-25,Lance Thompson,18426,Quincy Downs C.C.,true,90,2,PT,4.0,Green,8.42,,,6.0,0.0,4.0,2.0,5.5,-1.7,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18425,Quincy Downs C.C.,true,89,2,I8,148.0,Fairway,144.75,144.0,,108.0,4.1,2.8,6.1,85.7,21.0,-13.1,5287,-1230,2020.43,,,
+2020-10-25,Lance Thompson,18424,Quincy Downs C.C.,true,88,2,DR,393.0,TEE,210.86,245.0,true,135.0,-5.9,-5.7,-7.6,93.8,11.2,6.5,2602,296,2020.43,,true,true
+2020-10-25,Lance Thompson,18423,Quincy Downs C.C.,true,87,1,PT,11.0,Green,16.83,,,12.0,0.0,4.0,2.0,10.9,2.8,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18422,Quincy Downs C.C.,true,86,1,I9,130.0,Fairway,123.61,119.0,,96.0,1.9,0.5,5.0,79.3,21.5,-18.0,5396,-1753,2020.43,,,
+2020-10-25,Lance Thompson,18421,Quincy Downs C.C.,true,85,1,DR,379.0,TEE,236.49,249.0,,142.0,-1.4,-1.3,-0.3,95.0,12.0,-0.9,2024,-31,2020.43,,true,true
+2020-10-25,Lance Thompson,18420,St Andrews - Old Course Tourn.,true,84,18,PT,4.0,Green,5.61,,,4.0,0.0,2.0,1.0,3.6,1.5,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18419,St Andrews - Old Course Tourn.,true,83,18,SW,95.0,Fairway,91.93,91.0,,79.0,0.0,-1.7,2.7,68.1,30.9,-14.7,7237,-1898,2020.43,,,
+2020-10-25,Lance Thompson,18418,St Andrews - Old Course Tourn.,true,82,18,DR,347.0,TEE,200.79,252.0,,134.0,-1.4,-2.3,-0.2,93.1,12.4,-10.6,2223,-416,2020.43,,true,true
+2020-10-25,Lance Thompson,18417,St Andrews - Old Course Tourn.,true,81,17,PT,6.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,0.2,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18416,St Andrews - Old Course Tourn.,true,80,17,SW,13.0,Sand,28.01,19.0,,37.0,-2.9,-2.3,-3.8,37.0,41.4,1.6,5193,161,2020.43,,,
+2020-10-25,Lance Thompson,18415,St Andrews - Old Course Tourn.,true,79,17,I6,171.0,HeavyRough,166.86,158.0,,114.0,3.8,2.6,7.2,89.1,16.6,-22.9,3377,-1426,2020.43,,,
+2020-10-25,Lance Thompson,18414,St Andrews - Old Course Tourn.,true,78,17,DR,439.0,TEE,224.63,268.0,,138.0,-1.4,-2.3,0.5,95.8,12.1,-13.9,2080,-514,2020.43,,false,false
+2020-10-25,Lance Thompson,18413,St Andrews - Old Course Tourn.,true,77,16,PT,6.0,Green,7.01,,,5.0,0.0,2.0,0.0,4.6,-0.1,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18412,St Andrews - Old Course Tourn.,true,76,16,LW,71.0,Fairway,62.72,65.0,,63.0,-2.1,-3.7,-0.2,56.8,30.8,-13.9,7246,-1793,2020.43,,,
+2020-10-25,Lance Thompson,18411,St Andrews - Old Course Tourn.,true,75,16,W3,328.0,TEE,187.72,257.0,,128.0,3.9,2.8,6.1,92.8,13.2,-16.4,2079,-611,2020.43,,true,true
+2020-10-25,Lance Thompson,18410,St Andrews - Old Course Tourn.,true,74,15,PT,11.0,Green,14.03,,,10.0,0.0,2.0,0.0,9.1,2.3,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18409,St Andrews - Old Course Tourn.,true,73,15,PW,103.0,Fairway,104.86,114.0,,83.0,2.0,0.5,4.6,71.6,27.4,-16.4,6396,-1882,2020.43,,,
+2020-10-25,Lance Thompson,18408,St Andrews - Old Course Tourn.,true,72,15,DR,368.0,TEE,228.52,265.0,,142.0,-2.8,-4.0,-1.2,98.6,12.1,-9.8,2698,-466,2020.43,,true,true
+2020-10-25,Lance Thompson,18407,St Andrews - Old Course Tourn.,true,71,14,PT,12.0,Green,16.83,,,12.0,0.0,4.0,2.0,10.9,2.4,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18406,St Andrews - Old Course Tourn.,true,70,14,W3,234.0,Fairway,192.84,222.0,,131.0,4.1,2.8,6.7,91.0,11.4,-19.6,2579,-918,2020.43,,,
+2020-10-25,Lance Thompson,18405,St Andrews - Old Course Tourn.,true,69,14,DR,494.0,TEE,243.92,260.0,,142.0,1.0,0.8,3.1,98.6,14.2,-8.2,2003,-288,2020.43,,true,true
+2020-10-25,Lance Thompson,18404,St Andrews - Old Course Tourn.,true,68,13,PT,3.0,Green,11.22,,,8.0,0.0,2.0,1.0,7.3,2.0,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18403,St Andrews - Old Course Tourn.,true,67,13,LW,15.0,HeavyRough,5.75,12.0,,17.0,1.8,1.5,4.3,16.0,30.9,-9.8,1642,-283,2020.43,,,
+2020-10-25,Lance Thompson,18402,St Andrews - Old Course Tourn.,true,66,13,PW,113.0,HeavyRough,109.85,98.0,,84.0,2.1,1.5,4.3,72.4,23.1,-9.8,7211,-1245,2020.43,,,
+2020-10-25,Lance Thompson,18401,St Andrews - Old Course Tourn.,true,65,13,PW,113.0,HeavyRough,100.11,0.0,true,87.0,25.7,22.4,28.8,75.7,16.6,-31.9,2578,-1604,2020.43,true,,
+2020-10-25,Lance Thompson,18400,St Andrews - Old Course Tourn.,true,64,13,DR,369.0,TEE,249.61,256.0,,143.0,0.3,-1.7,2.6,99.3,15.4,-18.0,1925,-625,2020.43,,false,false
+2020-10-25,Lance Thompson,18399,St Andrews - Old Course Tourn.,true,63,12,PT,8.0,Green,16.83,,,12.0,0.0,2.0,0.0,10.9,2.5,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18398,St Andrews - Old Course Tourn.,true,62,12,LW,29.0,Fairway,24.5,21.0,,34.0,2.5,1.5,4.4,32.4,35.0,-5.7,3788,-378,2020.43,,,
+2020-10-25,Lance Thompson,18397,St Andrews - Old Course Tourn.,true,61,12,DR,295.0,TEE,227.9,266.0,,140.0,0.0,-1.4,2.1,97.2,15.3,-7.4,3070,-398,2020.43,,,
+2020-10-25,Lance Thompson,18396,St Andrews - Old Course Tourn.,true,60,12,DR,295.0,TEE,230.08,,,144.0,-3.8,-5.4,-1.0,102.1,10.8,-26.2,2243,-1103,2020.43,,,false
+2020-10-25,Lance Thompson,18395,St Andrews - Old Course Tourn.,true,59,11,PT,9.0,Green,14.03,,,10.0,0.0,3.0,2.0,9.1,1.3,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18394,St Andrews - Old Course Tourn.,true,58,11,PW,135.0,TEE,121.06,126.0,,94.0,3.9,2.8,6.1,77.7,25.8,-13.1,6084,-1415,2020.43,,,true
+2020-10-25,Lance Thompson,18393,St Andrews - Old Course Tourn.,true,57,10,PT,4.0,Green,8.42,,,6.0,0.0,3.0,2.0,5.5,1.7,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18392,St Andrews - Old Course Tourn.,true,56,10,PT,19.0,Green,15.43,,,11.0,0.0,0.0,0.0,10.0,3.1,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18391,St Andrews - Old Course Tourn.,true,55,10,DR,293.0,TEE,239.22,274.0,,146.0,-2.9,-4.0,-1.9,99.9,12.2,-4.1,2612,-187,2020.43,,true,true
+2020-10-25,Lance Thompson,18390,St Andrews - Old Course Tourn.,true,54,9,PT,3.0,Green,8.42,,,6.0,0.0,3.0,1.0,5.5,1.8,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18389,St Andrews - Old Course Tourn.,true,53,9,PT,16.0,Green,16.83,,,12.0,0.0,1.0,0.0,10.9,2.1,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18388,St Andrews - Old Course Tourn.,true,52,9,W3,260.0,TEE,217.95,244.0,,137.0,3.6,2.6,6.7,97.2,9.6,-24.6,2382,-1090,2020.43,,true,true
+2020-10-25,Lance Thompson,18387,St Andrews - Old Course Tourn.,true,51,8,PT,2.0,Green,8.42,,,6.0,0.0,4.0,2.0,5.5,1.3,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18386,St Andrews - Old Course Tourn.,true,50,8,LW,12.0,LightRough,7.33,10.0,,19.0,0.0,1.7,-2.9,17.3,31.8,5.7,2331,232,2020.43,,,
+2020-10-25,Lance Thompson,18385,St Andrews - Old Course Tourn.,true,49,8,I9,143.0,TEE,125.72,131.0,,97.0,2.0,0.5,4.6,82.2,22.1,-20.5,4918,-1838,2020.43,,,false
+2020-10-25,Lance Thompson,18384,St Andrews - Old Course Tourn.,true,48,7,PT,10.0,Green,14.03,,,10.0,0.0,2.0,0.0,9.1,2.3,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18383,St Andrews - Old Course Tourn.,true,47,7,LW,37.0,Fairway,36.37,27.0,,42.0,0.0,-1.6,2.6,41.6,33.6,-9.0,4575,-724,2020.43,,,
+2020-10-25,Lance Thompson,18382,St Andrews - Old Course Tourn.,true,46,7,DR,317.0,TEE,237.05,280.0,,140.0,-1.8,-1.5,-2.4,97.9,13.6,0.8,2143,29,2020.43,,true,true
+2020-10-25,Lance Thompson,18381,St Andrews - Old Course Tourn.,true,45,6,PT,3.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,1.0,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18380,St Andrews - Old Course Tourn.,true,44,6,LW,46.0,Fairway,30.93,43.0,true,39.0,0.0,-1.3,2.3,36.8,29.2,-8.2,4376,-630,2020.43,,,
+2020-10-25,Lance Thompson,18379,St Andrews - Old Course Tourn.,true,43,6,DR,327.0,TEE,254.39,281.0,,148.0,1.2,-0.2,3.4,102.8,13.7,-18.0,1981,-643,2020.43,,true,true
+2020-10-25,Lance Thompson,18378,St Andrews - Old Course Tourn.,true,42,5,PT,3.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-0.3,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18377,St Andrews - Old Course Tourn.,true,41,5,SW,18.0,Sand,21.57,21.0,,32.0,0.0,-1.3,2.6,31.7,35.2,-9.0,2947,-518,2020.43,,,
+2020-10-25,Lance Thompson,18376,St Andrews - Old Course Tourn.,true,40,5,PW,132.0,Fairway,129.2,114.0,,99.0,0.0,-1.6,2.9,81.8,23.2,-15.6,6611,-1845,2020.43,,,
+2020-10-25,Lance Thompson,18375,St Andrews - Old Course Tourn.,true,39,5,DR,427.0,TEE,268.52,295.0,true,152.0,5.7,6.3,5.1,103.5,14.5,2.5,2022,88,2020.43,,true,false
+2020-10-25,Lance Thompson,18374,St Andrews - Old Course Tourn.,true,38,4,PT,8.0,Green,14.03,,,10.0,0.0,4.0,3.0,9.1,2.5,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18373,St Andrews - Old Course Tourn.,true,37,4,I7,167.0,Fairway,147.97,159.0,,107.0,4.9,4.8,7.1,84.9,18.0,-8.2,4649,-669,2020.43,,,
+2020-10-25,Lance Thompson,18372,St Andrews - Old Course Tourn.,true,36,4,DR,412.0,TEE,225.82,245.0,,143.0,-1.1,-2.1,2.6,103.6,10.3,-32.7,1869,-1199,2020.43,,true,true
+2020-10-25,Lance Thompson,18371,St Andrews - Old Course Tourn.,true,35,3,PT,8.0,Fairway,8.42,,,6.0,0.0,2.0,0.0,5.5,0.1,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18370,St Andrews - Old Course Tourn.,true,34,3,LW,56.0,HeavyRough,60.12,64.0,,62.0,-2.5,-3.7,-0.8,58.5,33.3,-11.5,7218,-1468,2020.43,,,
+2020-10-25,Lance Thompson,18369,St Andrews - Old Course Tourn.,true,33,3,DR,310.0,TEE,239.28,254.0,,147.0,2.6,5.0,2.9,102.1,13.7,10.6,3276,613,2020.43,,false,
+2020-10-25,Lance Thompson,18368,St Andrews - Old Course Tourn.,true,32,2,PT,2.0,Green,7.01,,,5.0,0.0,4.0,2.0,4.6,1.9,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18367,St Andrews - Old Course Tourn.,true,31,2,PT,9.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,0.4,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18366,St Andrews - Old Course Tourn.,true,30,2,PW,116.0,HeavyRough,120.72,125.0,,94.0,1.9,0.5,4.6,77.7,25.5,-16.4,5824,-1714,2020.43,,,
+2020-10-25,Lance Thompson,18365,St Andrews - Old Course Tourn.,true,29,2,DR,382.0,TEE,241.55,266.0,,149.0,3.6,2.6,7.3,108.0,14.5,-32.7,2804,-1800,2020.43,,false,true
+2020-10-25,Lance Thompson,18364,St Andrews - Old Course Tourn.,true,28,1,PT,2.0,Green,8.42,,,6.0,0.0,-2.0,0.0,5.5,0.8,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18363,St Andrews - Old Course Tourn.,true,27,1,LW,31.0,Fairway,24.59,29.0,true,34.0,-2.6,-2.3,-3.6,32.4,33.9,2.5,5697,248,2020.43,,,
+2020-10-25,Lance Thompson,18362,St Andrews - Old Course Tourn.,true,26,1,DR,316.0,TEE,252.06,285.0,,148.0,2.9,1.3,3.4,102.8,13.3,-10.6,2106,-394,2020.43,,true,true
+2020-10-25,Lance Thompson,18361,Friendly Hills Country Club,true,25,12,PT,2.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,2.4,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18360,Friendly Hills Country Club,true,24,12,LW,10.0,LightRough,5.01,8.0,,16.0,0.0,-1.4,0.9,14.6,29.8,-0.8,2017,-28,2020.43,,,
+2020-10-25,Lance Thompson,18359,Friendly Hills Country Club,true,23,12,LW,87.0,Fairway,83.36,77.0,,76.0,0.0,-1.3,2.3,68.5,32.4,-13.1,8254,-1920,2020.43,,,
+2020-10-25,Lance Thompson,18358,Friendly Hills Country Club,true,22,12,DR,359.0,TEE,245.26,272.0,,146.0,-0.9,-1.2,1.4,101.4,12.3,-18.8,1916,-652,2020.43,,true,false
+2020-10-25,Lance Thompson,18357,Friendly Hills Country Club,true,21,11,PT,11.0,Green,12.63,,,9.0,0.0,5.0,3.0,8.2,3.9,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18356,Friendly Hills Country Club,true,20,11,SW,13.0,Sand,29.88,24.0,,39.0,-5.7,-6.3,-4.5,39.0,46.1,-3.6,4137,-289,2020.43,,,
+2020-10-25,Lance Thompson,18355,Friendly Hills Country Club,true,19,11,I7,163.0,LightRough,162.66,150.0,,112.0,1.9,0.8,6.7,87.5,17.9,-29.5,3483,-1970,2020.43,,,
+2020-10-25,Lance Thompson,18354,Friendly Hills Country Club,true,18,11,W3,378.0,TEE,199.24,215.0,,134.0,1.8,0.8,5.6,97.1,11.9,-33.6,2480,-1647,2020.43,,false,false
+2020-10-25,Lance Thompson,18353,Friendly Hills Country Club,true,17,10,PT,3.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,2.0,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18352,Friendly Hills Country Club,true,16,10,LW,22.0,HeavyRough,12.88,19.0,,25.0,0.0,-1.2,2.1,22.7,31.8,-4.1,3001,-215,2020.43,,,
+2020-10-25,Lance Thompson,18351,Friendly Hills Country Club,true,15,10,I7,137.0,HeavyRough,142.17,159.0,true,104.0,5.4,3.8,7.9,82.5,18.3,-16.4,4152,-1222,2020.43,,,
+2020-10-25,Lance Thompson,18350,Friendly Hills Country Club,true,14,10,DR,341.0,TEE,196.12,204.0,,136.0,3.9,3.8,6.1,94.4,10.3,-8.2,4831,-696,2020.43,,false,false
+2020-10-25,Lance Thompson,18349,Friendly Hills Country Club,true,13,9,LW,16.0,Sand,15.29,,,27.0,0.0,-1.6,2.6,26.7,33.7,-9.0,2807,-494,2020.43,,,
+2020-10-25,Lance Thompson,18348,Friendly Hills Country Club,true,12,9,I8,83.0,Fairway,87.19,99.0,,75.0,-2.1,-3.7,1.0,67.6,32.6,-18.8,6958,-2368,2020.43,,,
+2020-10-25,Lance Thompson,18347,Friendly Hills Country Club,true,11,9,DR,372.0,TEE,262.98,289.0,,147.0,3.1,4.0,1.5,100.8,16.6,4.9,2016,172,2020.43,,true,
+2020-10-25,Lance Thompson,18346,Friendly Hills Country Club,true,10,8,PT,3.0,Green,7.01,,,5.0,0.0,2.0,1.0,4.6,0.6,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18345,Friendly Hills Country Club,true,9,8,LW,24.0,Mulch,23.77,21.0,,34.0,0.0,1.7,-1.5,34.0,43.1,1.6,5073,141,2020.43,,,
+2020-10-25,Lance Thompson,18344,Friendly Hills Country Club,true,8,8,I9,172.0,TEE,127.12,148.0,true,96.0,2.0,0.8,6.4,83.5,21.7,-33.6,3819,-2537,2020.43,,,false
+2020-10-25,Lance Thompson,18343,Friendly Hills Country Club,true,7,7,PT,9.0,Green,14.03,,,10.0,0.0,4.0,3.0,9.1,2.2,0.0,0,0,2020.43,,,
+2020-10-25,Lance Thompson,18342,Friendly Hills Country Club,true,6,7,LW,84.0,HeavyRough,76.89,75.0,,68.0,0.0,-1.6,2.7,64.2,33.1,-14.7,6618,-1736,2020.43,,,
+2020-10-25,Lance Thompson,18341,Friendly Hills Country Club,true,5,7,PW,177.0,HeavyRough,118.57,93.0,true,92.0,5.2,3.8,6.6,76.0,26.0,-11.5,6191,-1259,2020.43,,,
+2020-10-25,Lance Thompson,18340,Friendly Hills Country Club,true,4,7,DR,397.0,TEE,177.58,220.0,,128.0,-2.0,-3.2,1.5,97.0,11.6,-32.7,1823,-1170,2020.43,,false,false
+2020-10-25,Lance Thompson,18339,Friendly Hills Country Club,true,3,6,SW,24.0,Sand,25.92,,,35.0,0.0,-1.7,2.5,33.3,37.6,-4.9,3194,-304,2020.43,,,
+2020-10-25,Lance Thompson,18338,Friendly Hills Country Club,true,2,6,I8,161.0,HeavyRough,130.69,137.0,,97.0,2.0,0.5,3.8,80.2,19.0,-13.1,3924,-913,2020.43,,,
+2020-10-25,Lance Thompson,18337,Friendly Hills Country Club,true,1,6,DR,440.0,TEE,227.29,279.0,,138.0,1.1,-0.2,2.1,95.8,13.7,-11.5,2450,-498,2020.43,,false,
+2020-10-24,Lance Thompson,18336,Friendly Hills Country Club,true,24,5,PT,18.0,Green,23.85,,,17.0,0.0,4.0,2.0,15.5,3.1,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18335,Friendly Hills Country Club,true,23,5,LW,22.0,GreenFringe,12.35,4.0,,24.0,12.7,12.4,14.7,23.8,37.3,-8.2,2612,-376,2020.43,,,
+2020-10-24,Lance Thompson,18334,Friendly Hills Country Club,true,22,5,PT,4.0,LightRough,11.22,,,8.0,0.0,6.0,3.0,7.3,1.0,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18333,Friendly Hills Country Club,true,21,5,LW,8.0,HeavyRough,1.83,4.0,,11.0,10.2,8.5,11.6,10.4,21.3,-12.3,1986,-433,2020.43,,,
+2020-10-24,Lance Thompson,18332,Friendly Hills Country Club,true,20,5,LW,63.0,HeavyRough,71.37,71.0,,69.0,-2.0,-3.7,-0.2,65.1,33.0,-13.9,7415,-1835,2020.43,,,
+2020-10-24,Lance Thompson,18331,Friendly Hills Country Club,true,19,5,W3,288.0,TEE,193.13,225.0,,130.0,4.4,2.6,7.4,94.2,14.5,-33.6,1786,-1186,2020.43,,false,false
+2020-10-24,Lance Thompson,18330,Friendly Hills Country Club,true,18,4,LW,8.0,LightRough,3.86,,,15.0,0.0,1.4,-1.5,13.6,24.3,1.6,1951,54,2020.43,,,
+2020-10-24,Lance Thompson,18329,Friendly Hills Country Club,true,17,4,PW,120.0,Fairway,113.63,112.0,true,89.0,7.0,6.7,9.0,73.6,27.8,-8.2,6543,-942,2020.43,,,
+2020-10-24,Lance Thompson,18328,Friendly Hills Country Club,true,16,4,I4,191.0,HeavyRough,54.77,71.0,true,56.0,8.4,7.6,9.1,50.9,22.8,-1.6,7104,-198,2020.43,,,
+2020-10-24,Lance Thompson,18327,Friendly Hills Country Club,true,15,4,DR,468.0,TEE,241.71,277.0,,144.0,-1.2,-2.1,2.3,102.1,12.6,-26.2,1816,-893,2020.43,,false,false
+2020-10-24,Lance Thompson,18326,Friendly Hills Country Club,true,14,3,PT,4.0,Green,11.22,,,8.0,0.0,4.0,2.0,7.3,3.6,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18325,Friendly Hills Country Club,true,13,3,PT,7.0,GreenFringe,8.42,,,6.0,0.0,3.0,2.0,5.5,1.5,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18324,Friendly Hills Country Club,true,12,3,SW,22.0,Sand,43.08,29.0,,48.0,-2.9,-4.0,-1.9,50.0,43.9,-7.4,4580,-660,2020.43,,,
+2020-10-24,Lance Thompson,18323,Friendly Hills Country Club,true,11,3,PW,140.0,Sand,123.82,118.0,,98.0,2.0,0.5,3.4,81.0,28.3,-11.5,6640,-1350,2020.43,,,
+2020-10-24,Lance Thompson,18322,Friendly Hills Country Club,true,10,3,I8,140.0,Sand,151.14,280.0,,108.0,2.2,0.8,6.9,90.0,22.6,-30.3,3860,-2255,2020.43,true,,
+2020-10-24,Lance Thompson,18321,Friendly Hills Country Club,true,9,3,DR,364.0,TEE,246.96,224.0,,147.0,2.8,1.7,5.5,104.3,12.6,-22.9,1919,-810,2020.43,,false,false
+2020-10-24,Lance Thompson,18320,Friendly Hills Country Club,true,8,2,PT,2.0,Green,8.42,,,6.0,0.0,3.0,2.0,5.5,0.7,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18319,Friendly Hills Country Club,true,7,2,LW,12.0,Fairway,6.79,10.0,,18.0,1.7,3.7,-0.4,17.8,34.8,16.4,2083,613,2020.43,,,
+2020-10-24,Lance Thompson,18318,Friendly Hills Country Club,true,6,2,PT,12.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-0.2,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18317,Friendly Hills Country Club,true,5,2,I5,182.0,TEE,182.91,194.0,true,123.0,8.2,6.6,10.1,89.1,20.5,-13.9,3797,-939,2020.43,,,true
+2020-10-24,Lance Thompson,18316,Friendly Hills Country Club,true,4,1,W3,17.0,Fairway,11.85,,,24.0,1.9,0.5,3.7,23.8,32.8,-15.6,2265,-632,2020.43,,,
+2020-10-24,Lance Thompson,18315,Friendly Hills Country Club,true,3,1,I6,163.0,HeavyRough,164.8,180.0,true,116.0,6.5,4.7,9.2,88.6,19.5,-18.0,4251,-1381,2020.43,,,
+2020-10-24,Lance Thompson,18314,Friendly Hills Country Club,true,2,1,W3,377.0,HeavyRough,242.23,214.0,,148.0,4.0,2.8,6.6,102.8,11.9,-18.8,2254,-767,2020.43,,,
+2020-10-24,Lance Thompson,18313,Friendly Hills Country Club,true,1,1,DR,563.0,TEE,192.05,186.0,,134.0,-1.6,-3.2,1.2,95.0,8.6,-26.2,3312,-1629,2020.43,,false,false
+2020-10-24,Lance Thompson,18312,Bandon Dunes 2019 Lidar,,91,,LW,40.0,,33.16,,,40.0,0.0,-1.3,2.8,39.6,34.8,-9.8,4175,-721,2020.43,,,
+2020-10-24,Lance Thompson,18309,Bandon Dunes 2019 Lidar,,88,,LW,40.0,,22.84,,true,33.0,2.5,1.5,4.3,32.7,33.7,-9.8,3328,-574,2020.43,true,,
+2020-10-24,Lance Thompson,18306,Bandon Dunes 2019 Lidar,,85,,DR,303.0,,259.16,,,150.0,2.7,1.7,5.8,104.9,13.6,-24.6,1841,-842,2020.43,,,
+2020-10-24,Lance Thompson,18304,Bandon Dunes 2019 Lidar,,83,,PT,10.0,,15.43,,,11.0,0.0,4.0,2.0,10.0,2.7,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18301,Bandon Dunes 2019 Lidar,,80,,W3,252.0,,223.87,,true,139.0,6.9,5.3,9.0,98.6,12.4,-22.1,2096,-851,2020.43,,,
+2020-10-24,Lance Thompson,18299,Bandon Dunes 2019 Lidar,,78,,DR,531.0,,241.54,,,139.0,2.1,0.8,5.3,98.6,15.9,-27.0,1803,-918,2020.43,,,
+2020-10-24,Lance Thompson,18297,Bandon Dunes 2019 Lidar,,76,,LW,8.0,,2.5,,,11.0,0.0,-1.6,2.6,10.9,34.1,-9.0,1248,-197,2020.43,,,
+2020-10-24,Lance Thompson,18296,Bandon Dunes 2019 Lidar,,75,,LW,8.0,,4.47,,,15.0,28.7,26.6,30.9,14.2,30.7,-17.2,9895,-3063,2020.43,true,,
+2020-10-24,Lance Thompson,18293,Bandon Dunes 2019 Lidar,,72,,LW,8.0,,3.06,,,12.0,17.7,18.9,17.7,11.4,35.9,2.5,2022,88,2020.43,true,,
+2020-10-24,Lance Thompson,18292,Bandon Dunes 2019 Lidar,,71,,LW,33.0,,38.84,,,47.0,-2.3,-1.5,-2.4,47.0,44.7,0.8,6513,90,2020.43,,,
+2020-10-24,Lance Thompson,18291,Bandon Dunes 2019 Lidar,,70,,PW,136.0,,139.17,,,104.0,0.0,-1.6,3.7,84.6,21.2,-23.7,4755,-2087,2020.43,,,
+2020-10-24,Lance Thompson,18289,Bandon Dunes 2019 Lidar,,68,,PT,4.0,,9.82,,,7.0,0.0,2.0,1.0,6.4,1.7,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18288,Bandon Dunes 2019 Lidar,,67,,PT,13.0,,16.83,,,12.0,0.0,4.0,3.0,10.9,3.3,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18286,Bandon Dunes 2019 Lidar,,65,,PT,13.0,,14.03,,,10.0,0.0,4.0,3.0,9.1,3.6,0.0,0,0,2020.43,true,,
+2020-10-24,Lance Thompson,18284,Bandon Dunes 2019 Lidar,,63,,I8,151.0,,143.71,,,104.0,3.8,2.8,6.9,84.6,20.8,-20.5,4008,-1498,2020.43,,,
+2020-10-24,Lance Thompson,18282,Bandon Dunes 2019 Lidar,,61,,DR,362.0,,182.1,,,136.0,-0.6,-1.8,1.6,94.4,5.5,-19.6,1906,-678,2020.43,,,
+2020-10-24,Lance Thompson,18280,Bandon Dunes 2019 Lidar,,59,,PT,3.0,,4.21,,,3.0,0.0,6.0,3.0,2.7,1.7,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18278,Bandon Dunes 2019 Lidar,,57,,PT,16.0,,19.64,,,14.0,0.0,4.0,3.0,12.7,2.5,0.0,0,0,2020.43,,,
+2020-10-24,Lance Thompson,18276,Bandon Dunes 2019 Lidar,,55,,PW,113.0,,112.77,,,89.0,2.1,0.5,4.6,73.6,27.4,-16.4,6584,-1937,2020.43,,,
+2020-10-24,Lance Thompson,18274,Bandon Dunes 2019 Lidar,,53,,DR,337.0,,230.22,,,144.0,0.7,1.5,-2.3,102.1,14.0,26.2,3632,1787,2020.43,,,
+2020-10-24,Lance Thompson,18271,Pine Valley GC Lidar,,50,,PT,9.0,,8.42,,,6.0,0.0,0.0,0.0,5.5,0.1,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18269,Pine Valley GC Lidar,,48,,LW,59.0,,70.8,,,69.0,0.0,-1.2,2.8,65.1,33.7,-9.8,7839,-1354,2020.43,,,
+2020-10-23,Lance Thompson,18268,Pine Valley GC Lidar,,47,,I8,125.0,,129.81,,,98.0,3.5,2.8,7.1,81.0,18.9,-17.2,4401,-1362,2020.43,,,
+2020-10-23,Lance Thompson,18265,Pine Valley GC Lidar,,44,,DR,327.0,,194.02,,,133.0,4.3,5.4,0.2,96.4,11.2,31.1,4383,2643,2020.43,,,
+2020-10-23,Lance Thompson,18262,Pine Valley GC Lidar,,41,,PT,7.0,,11.22,,,8.0,0.0,4.0,2.0,7.3,2.6,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18258,Pine Valley GC Lidar,,37,,I4,204.0,,164.44,,,119.0,2.0,1.5,4.3,90.8,12.6,-9.8,1994,-344,2020.43,,,
+2020-10-23,Lance Thompson,18256,Pine Valley GC Lidar,,35,,PT,3.0,,8.42,,,6.0,0.0,2.0,0.0,5.5,1.9,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18254,Pine Valley GC Lidar,,33,,I9,147.0,,127.81,,true,99.0,5.2,3.8,7.0,81.8,24.4,-13.1,5398,-1256,2020.43,,,
+2020-10-23,Lance Thompson,18252,Pine Valley GC Lidar,,31,,I9,293.0,,138.24,,,105.0,1.9,0.5,4.8,85.4,22.4,-21.3,5163,-2012,2020.43,,,
+2020-10-23,Lance Thompson,18250,Pine Valley GC Lidar,,29,,W3,426.0,,128.56,,,118.0,1.8,0.5,4.1,90.1,7.1,-18.0,1981,-643,2020.43,,,
+2020-10-23,Lance Thompson,18247,Pine Valley GC Lidar,,26,,PT,9.0,,14.03,,,10.0,0.0,8.0,3.0,9.1,5.1,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18245,Pine Valley GC Lidar,,24,,I7,176.0,,150.2,,,108.0,4.7,3.8,8.0,87.8,18.5,-21.3,3951,-1540,2020.43,,,
+2020-10-23,Lance Thompson,18244,Pine Valley GC Lidar,,23,,PT,2.0,,8.42,,,6.0,0.0,2.0,0.0,5.5,-0.2,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18243,Pine Valley GC Lidar,,22,,PT,2.0,,9.82,,,7.0,0.0,0.0,0.0,6.4,0.8,0.0,0,0,2020.43,true,,
+2020-10-23,Lance Thompson,18239,Pine Valley GC Lidar,,18,,LW,14.0,,8.72,,,21.0,2.0,0.5,4.2,19.8,30.5,-14.7,1960,-514,2020.43,,,
+2020-10-23,Lance Thompson,18238,Pine Valley GC Lidar,,17,,PW,87.0,,106.04,,true,83.0,5.4,4.8,6.2,69.2,28.5,-1.6,7108,-198,2020.43,,,
+2020-10-23,Lance Thompson,18237,Pine Valley GC Lidar,,16,,DR,358.0,,252.08,,true,149.0,5.8,4.7,7.0,103.5,13.0,-11.5,2100,-427,2020.43,,,
+2020-10-23,Lance Thompson,18233,Pine Valley GC Lidar,,12,,DR,358.0,,243.46,,true,149.0,5.8,7.6,3.8,105.7,13.0,22.9,3618,1528,2020.43,,,
+2020-10-23,Lance Thompson,18231,Pine Valley GC Lidar,,10,,PT,6.0,,11.22,,,8.0,0.0,4.0,2.0,7.3,2.4,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18228,Pine Valley GC Lidar,,7,,LW,22.0,,30.77,,,40.0,0.0,1.8,-2.5,40.0,41.4,4.9,7277,623,2020.43,,,
+2020-10-23,Lance Thompson,18227,Pine Valley GC Lidar,,6,,PW,126.0,,115.7,,,90.0,2.0,0.8,7.2,78.3,23.9,-31.9,4036,-2512,2020.43,,,
+2020-10-23,Lance Thompson,18222,Pine Valley GC Lidar,,1,,DR,343.0,,247.82,,,145.0,1.7,0.5,3.3,100.7,13.6,-13.9,1964,-486,2020.43,,,
+2020-10-23,Lance Thompson,18204,Friendly Hills Country Club,true,66,18,I7,90.0,HeavyRough,75.62,,,74.0,3.3,1.3,6.0,63.8,16.2,-18.8,2240,-762,2020.43,,,
+2020-10-23,Lance Thompson,18203,Friendly Hills Country Club,true,65,18,I5,191.0,HeavyRough,126.65,101.0,true,100.0,13.7,11.6,17.1,83.3,0.9,-32.7,9620,-6175,2020.43,,,
+2020-10-23,Lance Thompson,18202,Friendly Hills Country Club,true,64,18,W3,396.0,TEE,191.2,205.0,true,125.0,8.3,8.4,6.4,88.0,13.8,4.1,3325,238,2020.43,,false,
+2020-10-23,Lance Thompson,18201,Friendly Hills Country Club,true,63,17,PT,9.0,Green,14.03,,,10.0,0.0,2.0,0.0,9.1,3.0,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18200,Friendly Hills Country Club,true,62,17,LW,74.0,Fairway,66.2,65.0,,66.0,-1.8,-2.7,0.1,62.3,33.4,-9.8,8040,-1388,2020.43,,,
+2020-10-23,Lance Thompson,18199,Friendly Hills Country Club,true,61,17,DR,370.0,TEE,255.2,296.0,,146.0,2.5,2.7,1.2,101.2,14.5,1.6,2023,56,2020.43,,true,true
+2020-10-23,Lance Thompson,18198,Friendly Hills Country Club,true,60,16,PT,3.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,2.3,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18197,Friendly Hills Country Club,true,59,16,SW,20.0,Sand,15.56,17.0,,27.0,0.0,-1.2,2.3,26.7,36.1,-8.2,2531,-405,2020.43,,,
+2020-10-23,Lance Thompson,18196,Friendly Hills Country Club,true,58,16,I4,224.0,TEE,143.5,204.0,true,112.0,4.8,3.5,9.7,89.6,12.4,-31.1,1893,-1141,2020.43,,false,true
+2020-10-23,Lance Thompson,18195,Friendly Hills Country Club,true,57,15,PT,2.0,Green,8.42,,,6.0,0.0,3.0,2.0,5.5,-0.6,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18194,Friendly Hills Country Club,true,56,15,PT,27.0,Green,30.86,,,22.0,0.0,5.0,3.0,20.0,4.7,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18193,Friendly Hills Country Club,true,55,15,LW,56.0,HeavyRough,49.19,29.0,,54.0,0.0,-1.6,1.5,51.4,37.2,-1.6,7042,-196,2020.43,,,
+2020-10-23,Lance Thompson,18192,Friendly Hills Country Club,true,54,15,W3,241.0,Fairway,173.62,185.0,,119.0,0.0,-1.6,1.6,90.8,14.9,-13.1,2110,-491,2020.43,,,
+2020-10-23,Lance Thompson,18191,Friendly Hills Country Club,true,53,15,DR,488.0,TEE,251.86,247.0,true,144.0,6.1,4.7,7.8,100.0,16.0,-15.6,1950,-544,2020.43,,true,false
+2020-10-23,Lance Thompson,18190,Friendly Hills Country Club,true,52,14,PT,11.0,Green,21.04,,,15.0,0.0,0.0,0.0,13.6,4.3,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18189,Friendly Hills Country Club,true,51,14,PW,117.0,HeavyRough,116.53,106.0,,89.0,1.9,1.5,4.0,71.2,25.9,-4.9,5916,-507,2020.43,,,
+2020-10-23,Lance Thompson,18188,Friendly Hills Country Club,true,50,14,DR,401.0,TEE,234.97,284.0,,143.0,3.6,4.2,2.3,99.3,12.5,6.5,2484,283,2020.43,,false,true
+2020-10-23,Lance Thompson,18187,Friendly Hills Country Club,true,49,13,PT,2.0,Green,8.42,,,6.0,0.0,2.0,1.0,5.5,-1.9,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18186,Friendly Hills Country Club,true,48,13,SW,16.0,Sand,14.36,14.0,,26.0,0.0,-1.6,1.9,25.7,35.5,-6.5,2415,-305,2020.43,,,
+2020-10-23,Lance Thompson,18185,Friendly Hills Country Club,true,47,13,I4,206.0,TEE,174.31,190.0,true,124.0,5.2,3.5,9.1,93.9,11.9,-33.6,2453,-1629,2020.43,,,false
+2020-10-23,Lance Thompson,18184,Friendly Hills Country Club,true,46,12,PT,5.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-1.0,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18183,Friendly Hills Country Club,true,45,12,LW,73.0,Fairway,70.72,68.0,,64.0,0.0,-1.2,2.1,60.4,32.7,-12.3,6705,-1461,2020.43,,,
+2020-10-23,Lance Thompson,18182,Friendly Hills Country Club,true,44,12,DR,359.0,TEE,251.59,286.0,,147.0,4.6,3.8,7.5,102.1,13.7,-18.8,1916,-652,2020.43,,true,true
+2020-10-23,Lance Thompson,18181,Friendly Hills Country Club,true,43,11,PT,3.0,Green,9.82,,,7.0,0.0,2.0,0.0,6.4,0.3,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18180,Friendly Hills Country Club,true,42,11,LW,9.0,LightRough,3.59,6.0,,13.0,15.0,14.3,17.1,12.4,35.4,-5.7,3018,-301,2020.43,,,
+2020-10-23,Lance Thompson,18179,Friendly Hills Country Club,true,41,11,I7,161.0,HeavyRough,162.09,170.0,,111.0,3.2,1.7,6.6,86.7,17.9,-24.6,3340,-1529,2020.43,,,
+2020-10-23,Lance Thompson,18178,Friendly Hills Country Club,true,40,11,W3,378.0,TEE,215.44,217.0,,139.0,4.6,6.3,4.0,96.5,10.0,11.5,2450,498,2020.43,,false,false
+2020-10-23,Lance Thompson,18177,Friendly Hills Country Club,true,39,10,SW,17.0,Sand,20.57,,,31.0,0.0,-1.5,2.5,29.5,37.0,-4.9,3249,-309,2020.43,,,
+2020-10-23,Lance Thompson,18176,Friendly Hills Country Club,true,38,10,SW,90.0,HeavyRough,103.81,107.0,,82.0,-3.8,-5.4,-0.5,72.6,26.6,-24.6,5761,-2637,2020.43,,,
+2020-10-23,Lance Thompson,18175,Friendly Hills Country Club,true,37,10,DR,341.0,TEE,225.69,251.0,,138.0,1.2,-0.2,3.2,97.9,12.6,-20.5,2008,-750,2020.43,,false,
+2020-10-23,Lance Thompson,18174,Friendly Hills Country Club,true,36,9,PT,3.0,Green,7.01,,,5.0,0.0,4.0,2.0,4.6,0.0,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18173,Friendly Hills Country Club,true,35,9,LW,17.0,HeavyRough,9.19,14.0,,21.0,2.1,0.5,5.4,20.8,33.6,-19.6,2049,-729,2020.43,,,
+2020-10-23,Lance Thompson,18172,Friendly Hills Country Club,true,34,9,PW,118.0,HeavyRough,113.08,101.0,true,87.0,9.2,9.5,7.0,69.6,22.1,4.9,5228,448,2020.43,,,
+2020-10-23,Lance Thompson,18171,Friendly Hills Country Club,true,33,9,DR,372.0,TEE,210.1,254.0,,140.0,-1.2,-2.1,2.6,101.5,12.5,-32.7,1702,-1092,2020.43,,false,false
+2020-10-23,Lance Thompson,18170,Friendly Hills Country Club,true,32,8,PT,11.0,Green,16.83,,,12.0,0.0,0.0,0.0,10.9,3.4,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18169,Friendly Hills Country Club,true,31,8,I9,172.0,TEE,126.99,161.0,true,96.0,6.4,4.7,7.4,79.3,21.3,-10.6,4661,-872,2020.43,,,true
+2020-10-23,Lance Thompson,18168,Friendly Hills Country Club,true,30,7,PT,2.0,Green,9.82,,,7.0,0.0,0.0,0.0,6.4,-0.1,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18167,Friendly Hills Country Club,true,29,7,PT,7.0,Green,14.03,,,10.0,0.0,2.0,0.0,9.1,3.3,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18166,Friendly Hills Country Club,true,28,7,I5,194.0,LightRough,180.78,187.0,true,121.0,6.3,4.4,8.8,89.6,16.4,-22.1,3446,-1399,2020.43,,,
+2020-10-23,Lance Thompson,18165,Friendly Hills Country Club,true,27,7,DR,397.0,TEE,241.97,203.0,,144.0,2.7,5.0,2.4,100.0,13.2,13.1,2203,512,2020.43,,,
+2020-10-23,Lance Thompson,18164,Friendly Hills Country Club,true,26,7,DR,397.0,TEE,243.38,,,146.0,1.6,0.8,4.9,103.6,12.1,-24.6,1841,-842,2020.43,,,false
+2020-10-23,Lance Thompson,18163,Friendly Hills Country Club,true,25,6,SW,26.0,Sand,34.95,,true,43.0,-2.5,-2.7,-1.8,43.0,45.7,-0.8,4796,-74,2020.43,,,
+2020-10-23,Lance Thompson,18162,Friendly Hills Country Club,true,24,6,I6,192.0,HeavyRough,168.1,166.0,,114.0,4.8,3.8,7.9,89.1,16.6,-20.5,3123,-1167,2020.43,,,
+2020-10-23,Lance Thompson,18161,Friendly Hills Country Club,true,23,6,DR,440.0,TEE,134.36,248.0,true,116.0,-6.1,-7.3,-4.4,88.6,5.4,-14.7,3318,-870,2020.43,,false,
+2020-10-23,Lance Thompson,18160,Friendly Hills Country Club,true,22,5,PT,3.0,Green,4.21,,,3.0,0.0,0.0,0.0,2.7,1.1,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18159,Friendly Hills Country Club,true,21,5,LW,6.0,HeavyRough,1.4,3.0,,8.0,0.0,-1.8,2.8,8.3,43.2,-9.8,2011,-347,2020.43,,,
+2020-10-23,Lance Thompson,18158,Friendly Hills Country Club,true,20,5,LW,22.0,HeavyRough,11.54,16.0,,23.0,0.0,1.4,-1.9,24.0,41.5,6.5,4148,472,2020.43,,,
+2020-10-23,Lance Thompson,18157,Friendly Hills Country Club,true,19,5,PW,65.0,HeavyRough,102.61,87.0,true,85.0,-1.8,-3.2,1.2,72.0,17.9,-22.1,4515,-1833,2020.43,,,
+2020-10-23,Lance Thompson,18156,Friendly Hills Country Club,true,18,5,DR,288.0,TEE,244.98,223.0,,143.0,3.4,4.0,1.2,99.3,14.2,9.8,2111,364,2020.43,,false,false
+2020-10-23,Lance Thompson,18155,Friendly Hills Country Club,true,17,4,PT,7.0,Green,14.03,,,10.0,0.0,4.0,2.0,9.1,3.4,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18154,Friendly Hills Country Club,true,16,4,I8,169.0,Fairway,139.35,162.0,true,106.0,8.0,6.6,9.3,84.1,24.6,-10.6,5405,-1011,2020.43,,,
+2020-10-23,Lance Thompson,18153,Friendly Hills Country Club,true,15,4,DR,468.0,TEE,245.05,299.0,,144.0,4.3,2.8,6.7,100.0,13.8,-19.6,1906,-678,2020.43,,true,true
+2020-10-23,Lance Thompson,18152,Friendly Hills Country Club,true,14,3,PT,3.0,Green,9.82,,,7.0,0.0,4.0,2.0,6.4,0.3,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18151,Friendly Hills Country Club,true,13,3,PT,13.0,Green,14.03,,,10.0,0.0,3.0,2.0,9.1,4.4,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18150,Friendly Hills Country Club,true,12,3,I5,181.0,Fairway,183.6,194.0,true,120.0,7.7,6.6,10.7,87.0,18.7,-16.4,3263,-960,2020.43,,,
+2020-10-23,Lance Thompson,18149,Friendly Hills Country Club,true,11,3,DR,364.0,TEE,192.99,183.0,,131.0,3.0,4.0,1.9,91.0,12.4,7.4,2007,260,2020.43,,true,true
+2020-10-23,Lance Thompson,18148,Friendly Hills Country Club,true,10,2,PT,2.0,Green,8.42,,,6.0,0.0,-1.0,0.0,5.5,-0.7,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18147,Friendly Hills Country Club,true,9,2,LW,11.0,Fairway,7.7,9.0,,19.0,10.6,10.5,12.9,18.1,35.7,-4.9,2181,-186,2020.43,,,
+2020-10-23,Lance Thompson,18146,Friendly Hills Country Club,true,8,2,I5,182.0,TEE,148.09,171.0,true,107.0,5.3,3.5,9.1,87.0,16.6,-27.8,2211,-1165,2020.43,,,false
+2020-10-23,Lance Thompson,18145,Friendly Hills Country Club,true,7,1,PT,6.0,Green,14.03,,,10.0,0.0,4.0,2.0,9.1,2.2,0.0,0,0,2020.43,,,
+2020-10-23,Lance Thompson,18144,Friendly Hills Country Club,true,6,1,I9,18.0,Fairway,8.89,12.0,,21.0,0.0,-1.7,2.1,19.1,30.6,-4.1,2573,-184,2020.43,,,
+2020-10-23,Lance Thompson,18143,Friendly Hills Country Club,true,5,1,I9,17.0,Fairway,5.91,-1.0,,17.0,3.1,4.0,2.7,16.2,32.8,2.5,1446,63,2020.43,,,
+2020-10-23,Lance Thompson,18142,Friendly Hills Country Club,true,4,1,W3,193.0,Fairway,148.02,176.0,true,105.0,6.7,5.3,10.2,85.4,18.7,-29.5,1862,-1053,2020.43,,,
+2020-10-23,Lance Thompson,18141,Friendly Hills Country Club,true,3,1,I7,310.0,Sand,125.16,117.0,,94.0,3.3,1.7,7.1,79.7,18.0,-27.0,3018,-1537,2020.43,,,
+2020-10-23,Lance Thompson,18140,Friendly Hills Country Club,true,2,1,W3,312.0,Sand,234.16,2.0,true,139.0,7.2,8.3,5.1,96.5,13.6,16.4,1942,571,2020.43,,,
+2020-10-23,Lance Thompson,18139,Friendly Hills Country Club,true,1,1,W3,315.0,Sand,179.19,3.0,,124.0,0.0,1.2,-1.3,87.3,12.9,2.5,2022,88,2020.43,,,
+2020-10-22,Lance Thompson,18138,Friendly Hills Country Club,true,24,1,DR,563.0,TEE,246.9,248.0,true,149.0,5.3,4.8,6.8,102.1,11.6,-4.1,2256,-161,2020.43,,false,false
+2020-10-22,Lance Thompson,18137,Lake Of Isles North V2L,true,23,18,PT,11.0,Green,15.43,,,11.0,0.0,2.0,1.0,10.0,2.6,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18136,Lake Of Isles North V2L,true,22,18,PW,102.0,LightRough,91.11,91.0,,74.0,0.0,-1.1,3.5,63.8,25.9,-18.0,5360,-1741,2020.43,,,
+2020-10-22,Lance Thompson,18135,Lake Of Isles North V2L,true,21,18,DR,346.0,TEE,231.39,244.0,,141.0,-1.6,-0.5,-3.3,97.9,13.1,13.9,2427,600,2020.43,,false,true
+2020-10-22,Lance Thompson,18134,Lake Of Isles North V2L,true,20,17,PT,9.0,Green,14.03,,,10.0,0.0,0.0,0.0,9.1,2.4,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18133,Lake Of Isles North V2L,true,19,17,I8,85.0,LightRough,75.64,76.0,,71.0,0.0,-1.8,2.8,61.2,31.7,-9.8,8126,-1403,2020.43,,,
+2020-10-22,Lance Thompson,18132,Lake Of Isles North V2L,true,18,17,DR,343.0,TEE,226.37,258.0,,140.0,3.4,4.0,1.1,94.9,11.6,5.7,2369,236,2020.43,,,
+2020-10-22,Lance Thompson,18131,Lake Of Isles North V2L,true,17,17,DR,343.0,TEE,247.82,,,144.0,3.0,2.3,4.9,100.0,14.6,-9.0,2116,-335,2020.43,,,false
+2020-10-22,Lance Thompson,18130,Lake Of Isles North V2L,true,16,16,PT,13.0,Green,18.24,,,13.0,0.0,2.0,1.0,11.8,2.8,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18129,Lake Of Isles North V2L,true,15,16,I9,163.0,TEE,124.95,150.0,true,97.0,3.6,2.8,7.1,80.2,20.3,-17.2,5417,-1676,2020.43,,,true
+2020-10-22,Lance Thompson,18128,Lake Of Isles North V2L,true,14,15,PT,3.0,Green,8.42,,,6.0,0.0,-1.0,0.0,5.5,-0.4,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18127,Lake Of Isles North V2L,true,13,15,LW,33.0,LightRough,28.64,30.0,,37.0,2.3,0.5,3.4,36.6,35.6,-11.5,3740,-760,2020.43,,,
+2020-10-22,Lance Thompson,18126,Lake Of Isles North V2L,true,12,15,I6,192.0,Fairway,154.46,159.0,true,109.0,6.2,4.4,10.1,88.6,16.6,-28.6,3222,-1756,2020.43,,,
+2020-10-22,Lance Thompson,18125,Lake Of Isles North V2L,true,11,15,I9,306.0,LightRough,111.28,114.0,,88.0,4.9,3.8,7.9,74.6,23.7,-20.5,4448,-1663,2020.43,,,
+2020-10-22,Lance Thompson,18124,Lake Of Isles North V2L,true,10,15,DR,505.0,TEE,233.83,199.0,,135.0,1.9,3.7,1.0,93.8,16.2,13.1,1971,458,2020.43,,false,false
+2020-10-22,Lance Thompson,18123,Lake Of Isles North V2L,true,9,14,PT,6.0,Green,11.22,,,8.0,0.0,3.0,2.0,7.3,1.9,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18122,Lake Of Isles North V2L,true,8,14,PW,121.0,LightRough,110.13,115.0,,88.0,1.7,0.8,5.7,74.6,24.0,-24.6,4862,-2225,2020.43,,,
+2020-10-22,Lance Thompson,18121,Lake Of Isles North V2L,true,7,14,DR,377.0,TEE,242.49,256.0,,144.0,2.8,1.3,3.9,100.0,12.9,-13.1,1971,-458,2020.43,,false,true
+2020-10-22,Lance Thompson,18120,Lake Of Isles North V2L,true,6,13,PT,8.0,Green,14.03,,,10.0,0.0,6.0,3.0,9.1,4.0,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18119,Lake Of Isles North V2L,true,5,13,LW,49.0,LightRough,45.68,41.0,,48.0,0.0,-1.8,1.9,47.5,33.5,-6.5,6040,-688,2020.43,,,
+2020-10-22,Lance Thompson,18118,Lake Of Isles North V2L,true,4,13,I6,174.0,Fairway,130.79,125.0,true,96.0,3.4,4.0,1.4,79.3,15.1,9.0,10262,1625,2020.43,,,
+2020-10-22,Lance Thompson,18117,Lake Of Isles North V2L,true,3,13,DR,398.0,TEE,189.18,224.0,,129.0,-2.4,-0.5,-3.2,93.5,11.2,13.1,2551,593,2020.43,,true,false
+2020-10-22,Lance Thompson,18116,Lake Of Isles North V2L,true,2,12,PT,2.0,Green,8.42,,,6.0,0.0,3.0,2.0,5.5,0.9,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18115,Lake Of Isles North V2L,true,1,12,LW,14.0,LightRough,8.55,12.0,,20.0,1.9,1.5,3.2,19.1,35.5,-3.3,2666,-153,2020.43,,,
+2020-10-22,Lance Thompson,18114,Lake Of Isles North V2L,true,6,12,LW,90.0,Fairway,89.18,76.0,true,73.0,-5.8,-7.6,-2.9,64.6,31.1,-23.7,6178,-2711,2020.43,,,
+2020-10-22,Lance Thompson,18113,Lake Of Isles North V2L,true,5,12,DR,308.0,TEE,231.95,218.0,,140.0,-2.3,-2.7,-1.4,95.0,9.5,-2.5,2022,-88,2020.43,,true,false
+2020-10-22,Lance Thompson,18112,Lake Of Isles North V2L,true,4,11,PT,13.0,Green,16.83,,,12.0,0.0,0.0,0.0,10.9,3.7,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18111,Lake Of Isles North V2L,true,3,11,I7,184.0,TEE,170.15,171.0,,115.0,1.8,0.8,5.7,89.8,18.1,-24.6,3558,-1628,2020.43,,,true
+2020-10-22,Lance Thompson,18110,Lake Of Isles North V2L,true,2,10,PT,4.0,Green,12.63,,,9.0,0.0,2.0,0.0,8.2,1.7,0.0,0,0,2020.43,,,
+2020-10-22,Lance Thompson,18109,Lake Of Isles North V2L,true,1,10,PW,16.0,LightRough,12.27,12.0,,24.0,3.5,3.8,6.1,23.8,35.7,-8.2,2709,-390,2020.43,,,
+2020-10-21,Lance Thompson,18108,Lake Of Isles North V2L,true,171,10,SW,127.0,Sand,132.19,143.0,,100.0,0.0,-1.2,3.1,81.3,23.8,-20.5,4801,-1795,2020.43,,,
+2020-10-21,Lance Thompson,18107,Lake Of Isles North V2L,true,170,10,I9,128.0,Sand,116.69,1.0,,92.0,1.9,0.5,4.6,76.0,18.5,-16.4,4797,-1411,2020.43,,,
+2020-10-21,Lance Thompson,18106,Lake Of Isles North V2L,true,169,10,I9,133.0,Sand,123.27,5.0,true,93.0,6.8,7.3,5.3,74.4,19.9,4.2,5540,406,2020.43,,,
+2020-10-21,Lance Thompson,18105,Lake Of Isles North V2L,true,168,10,I7,282.0,Sand,155.02,149.0,,108.0,3.4,1.7,6.9,87.8,17.3,-26.2,3079,-1515,2020.43,,,
+2020-10-21,Lance Thompson,18104,Lake Of Isles North V2L,true,167,10,W3,284.0,Sand,223.95,2.0,,149.0,-1.5,-3.2,1.6,108.0,11.4,-33.6,1686,-1120,2020.43,,,
+2020-10-21,Lance Thompson,18103,Lake Of Isles North V2L,true,166,10,DR,545.0,TEE,254.16,261.0,,148.0,2.0,0.8,5.0,105.0,13.5,-25.4,1829,-868,2020.43,,false,false
+2020-10-21,Lance Thompson,18102,Lake Of Isles North V2L,true,165,9,PT,2.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-2.0,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18101,Lake Of Isles North V2L,true,164,9,LW,14.0,LightRough,6.66,12.0,,18.0,1.9,1.5,4.0,17.1,32.9,-4.9,2203,-188,2020.43,,,
+2020-10-21,Lance Thompson,18100,Lake Of Isles North V2L,true,163,9,PW,106.0,LightRough,103.88,92.0,,82.0,0.0,-1.4,3.5,70.7,26.7,-18.0,6105,-1983,2020.43,,,
+2020-10-21,Lance Thompson,18099,Lake Of Isles North V2L,true,162,9,DR,349.0,TEE,259.95,243.0,,150.0,2.8,1.3,4.9,104.9,13.9,-21.3,1886,-735,2020.43,,false,false
+2020-10-21,Lance Thompson,18098,Lake Of Isles North V2L,true,161,8,PT,5.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,0.8,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18097,Lake Of Isles North V2L,true,160,8,I7,89.0,LightRough,64.75,84.0,true,67.0,5.0,3.8,6.4,60.4,16.6,-10.6,2483,-464,2020.43,,,
+2020-10-21,Lance Thompson,18096,Lake Of Isles North V2L,true,159,8,DR,314.0,TEE,232.25,225.0,,147.0,-1.6,-3.2,1.5,106.5,10.6,-32.7,3505,-2250,2020.43,,false,true
+2020-10-21,Lance Thompson,18095,Lake Of Isles North V2L,true,158,7,PT,9.0,Green,12.63,,,9.0,0.0,5.0,3.0,8.2,2.7,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18094,Lake Of Isles North V2L,true,157,7,I7,178.0,TEE,150.83,169.0,,106.0,3.8,2.6,9.0,88.3,17.8,-31.9,2768,-1722,2020.43,,,true
+2020-10-21,Lance Thompson,18093,Lake Of Isles North V2L,true,156,6,PT,2.0,Green,8.42,,,6.0,0.0,1.0,0.0,5.5,-0.9,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18092,Lake Of Isles North V2L,true,155,6,LW,11.0,LightRough,4.96,9.0,,15.0,0.0,-1.6,2.7,15.6,42.9,-14.7,1988,-521,2020.43,,,
+2020-10-21,Lance Thompson,18091,Lake Of Isles North V2L,true,154,6,LW,29.0,LightRough,17.76,18.0,true,29.0,5.1,4.8,5.6,27.6,33.3,-0.8,3592,-50,2020.43,,,
+2020-10-21,Lance Thompson,18090,Lake Of Isles North V2L,true,153,6,I4,172.0,LightRough,114.44,143.0,true,106.0,-4.0,-5.2,-1.1,84.1,8.8,-16.4,2100,-618,2020.43,,,
+2020-10-21,Lance Thompson,18089,Lake Of Isles North V2L,true,152,6,DR,367.0,TEE,223.54,195.0,,143.0,-1.3,0.1,-4.8,101.4,12.4,29.5,3420,1934,2020.43,,false,false
+2020-10-21,Lance Thompson,18088,Lake Of Isles North V2L,true,151,5,PT,7.0,Green,9.82,,,7.0,0.0,6.0,3.0,6.4,2.7,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18087,Lake Of Isles North V2L,true,150,5,I5,194.0,LightRough,186.35,187.0,true,123.0,5.0,3.5,9.7,93.2,16.4,-31.1,2520,-1520,2020.43,,,
+2020-10-21,Lance Thompson,18086,Lake Of Isles North V2L,true,149,5,DR,372.0,TEE,229.17,178.0,,142.0,-0.6,-1.2,2.1,100.7,11.1,-25.4,1829,-868,2020.43,,false,true
+2020-10-21,Lance Thompson,18085,Lake Of Isles North V2L,true,148,4,PT,2.0,Green,8.42,,,6.0,0.0,2.0,1.0,5.5,-1.3,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18084,Lake Of Isles North V2L,true,147,4,PT,9.0,Green,8.42,,,6.0,0.0,3.0,2.0,5.5,-0.4,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18083,Lake Of Isles North V2L,true,146,4,PW,90.0,Sand,106.24,99.0,,84.0,1.8,0.5,4.6,72.4,27.2,-16.4,6049,-1780,2020.43,,,
+2020-10-21,Lance Thompson,18082,Lake Of Isles North V2L,true,145,4,DR,310.0,TEE,218.03,220.0,,140.0,0.8,-1.4,3.3,99.3,10.3,-21.3,2219,-865,2020.43,,false,true
+2020-10-21,Lance Thompson,18081,Lake Of Isles North V2L,true,144,3,PT,3.0,Green,7.01,,,5.0,0.0,6.0,3.0,4.6,1.6,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18080,Lake Of Isles North V2L,true,143,3,SW,25.0,Sand,41.31,28.0,true,46.0,0.0,-1.5,1.3,46.0,40.1,-2.5,5182,-251,2020.43,,,
+2020-10-21,Lance Thompson,18079,Lake Of Isles North V2L,true,142,3,LW,41.0,LightRough,21.31,16.0,true,32.0,4.7,4.8,6.9,31.7,35.2,-7.4,2314,-300,2020.43,,,
+2020-10-21,Lance Thompson,18078,Lake Of Isles North V2L,true,141,3,W3,206.0,Fairway,157.71,165.0,true,120.0,3.4,2.3,4.9,87.0,8.4,-9.0,2854,-452,2020.43,,,
+2020-10-21,Lance Thompson,18077,Lake Of Isles North V2L,true,140,3,DR,458.0,TEE,220.69,252.0,,148.0,0.6,-1.4,1.9,102.8,8.8,-10.6,4095,-766,2020.43,,true,false
+2020-10-21,Lance Thompson,18076,Lake Of Isles North V2L,true,139,2,PT,5.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,2.3,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18075,Lake Of Isles North V2L,true,138,2,I8,154.0,TEE,130.98,149.0,,100.0,3.4,1.3,4.8,79.4,18.0,-13.9,5069,-1254,2020.43,,,true
+2020-10-21,Lance Thompson,18074,Lake Of Isles North V2L,true,137,1,PT,3.0,Green,11.22,,,8.0,0.0,3.0,2.0,7.3,2.3,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18073,Lake Of Isles North V2L,true,136,1,PT,4.0,Green,7.01,,,5.0,0.0,2.0,0.0,4.6,0.0,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18072,Lake Of Isles North V2L,true,135,1,I9,135.0,Fairway,129.62,131.0,,100.0,1.8,0.8,5.7,81.3,22.6,-24.6,5049,-2311,2020.43,,,
+2020-10-21,Lance Thompson,18071,Lake Of Isles North V2L,true,134,1,DR,395.0,TEE,225.1,260.0,,139.0,4.3,2.8,4.9,96.5,9.5,-10.6,2457,-459,2020.43,,true,true
+2020-10-21,Lance Thompson,18070,Lahontan Country Club,true,133,18,PT,10.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,1.6,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18069,Lahontan Country Club,true,132,18,I6,167.0,HeavyRough,178.44,177.0,true,119.0,7.4,5.7,10.6,90.8,18.5,-19.6,3610,-1285,2020.43,,,
+2020-10-21,Lance Thompson,18068,Lahontan Country Club,true,131,18,DR,406.0,TEE,245.09,239.0,,147.0,0.1,-1.4,3.8,106.5,9.3,-33.6,1885,-1252,2020.43,,false,true
+2020-10-21,Lance Thompson,18067,Lahontan Country Club,true,130,17,PT,5.0,Green,9.82,,,7.0,0.0,4.0,2.0,6.4,1.5,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18066,Lahontan Country Club,true,129,17,SW,27.0,Sand,22.68,22.0,,33.0,0.0,-1.7,2.1,32.7,33.0,-12.3,2951,-714,2020.43,,,
+2020-10-21,Lance Thompson,18065,Lahontan Country Club,true,128,17,I4,192.0,LightRough,196.06,219.0,true,128.0,6.4,4.4,10.0,94.8,16.2,-27.8,2928,-1543,2020.43,,,
+2020-10-21,Lance Thompson,18064,Lahontan Country Club,true,127,17,DR,470.0,TEE,259.04,278.0,,152.0,2.0,2.7,1.4,105.7,12.1,2.5,2081,90,2020.43,,false,false
+2020-10-21,Lance Thompson,18063,Lahontan Country Club,true,126,16,PW,17.0,LightRough,10.71,,,23.0,3.6,3.8,6.4,21.7,31.1,-9.0,2461,-389,2020.43,,,
+2020-10-21,Lance Thompson,18062,Lahontan Country Club,true,125,16,PW,127.0,TEE,109.94,110.0,,86.0,-1.9,-3.7,1.0,71.1,26.2,-18.8,6094,-2074,2020.43,,,
+2020-10-21,Lance Thompson,18061,Lahontan Country Club,true,124,15,PT,4.0,Green,8.42,,,6.0,0.0,4.0,2.0,5.5,0.9,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18060,Lahontan Country Club,true,123,15,I8,167.0,TEE,148.94,163.0,,108.0,4.9,3.8,8.1,85.7,21.5,-17.2,4524,-1400,2020.43,,,true
+2020-10-21,Lance Thompson,18059,Lahontan Country Club,true,122,14,PT,2.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-0.7,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18058,Lahontan Country Club,true,121,14,LW,50.0,LightRough,47.68,48.0,,49.0,-2.2,-2.7,-1.0,44.6,32.0,-3.3,6240,-359,2020.43,,,
+2020-10-21,Lance Thompson,18057,Lahontan Country Club,true,120,14,DR,301.0,TEE,217.04,251.0,,146.0,1.4,-0.1,4.6,105.8,11.4,-32.7,1702,-1092,2020.43,,,
+2020-10-21,Lance Thompson,18056,Lahontan Country Club,true,119,14,DR,301.0,TEE,244.9,,true,150.0,9.4,9.5,8.2,103.2,11.3,2.5,2498,109,2020.43,,,
+2020-10-21,Lance Thompson,18055,Lahontan Country Club,true,118,14,DR,301.0,TEE,217.02,,,148.0,0.5,-1.3,4.2,107.3,10.4,-31.1,1733,-1045,2020.43,,,false
+2020-10-21,Lance Thompson,18054,Lahontan Country Club,true,117,13,PT,2.0,Green,8.42,,,6.0,0.0,3.0,1.0,5.5,-0.8,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18053,Lahontan Country Club,true,116,13,LW,16.0,LightRough,7.49,14.0,,19.0,1.7,2.7,0.6,18.1,33.3,4.1,2231,159,2020.43,,,
+2020-10-21,Lance Thompson,18052,Lahontan Country Club,true,115,13,I9,114.0,Sand,124.88,130.0,,97.0,0.0,-1.5,3.7,80.2,19.0,-18.8,5389,-1834,2020.43,,,
+2020-10-21,Lance Thompson,18051,Lahontan Country Club,true,114,13,W3,246.0,TEE,106.08,132.0,,131.0,2.6,1.3,4.6,91.0,1.1,-16.4,2627,-773,2020.43,,false,false
+2020-10-21,Lance Thompson,18050,Lahontan Country Club,true,113,12,PT,2.0,Green,8.42,,,6.0,0.0,3.0,1.0,5.5,-1.3,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18049,Lahontan Country Club,true,112,12,PT,9.0,Green,15.43,,,11.0,0.0,3.0,2.0,10.0,3.2,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18048,Lahontan Country Club,true,111,12,I8,177.0,Fairway,146.71,168.0,true,111.0,5.2,3.8,7.7,84.7,21.0,-15.6,5571,-1555,2020.43,,,
+2020-10-21,Lance Thompson,18047,Lahontan Country Club,true,110,12,DR,478.0,TEE,243.75,301.0,true,149.0,5.3,3.8,7.7,103.5,11.0,-19.6,1906,-678,2020.43,,true,true
+2020-10-21,Lance Thompson,18046,Lahontan Country Club,true,109,11,PT,5.0,LightRough,11.22,,,8.0,0.0,5.0,3.0,7.3,2.0,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18045,Lahontan Country Club,true,108,11,SW,22.0,Sand,36.35,27.0,,42.0,-2.5,-2.7,-0.8,41.6,35.1,-6.5,4729,-598,2020.43,,,
+2020-10-21,Lance Thompson,18044,Lahontan Country Club,true,107,11,I9,146.0,TEE,139.52,124.0,,105.0,1.8,0.8,5.7,85.4,22.7,-24.6,4886,-2236,2020.43,,,
+2020-10-21,Lance Thompson,18043,Lahontan Country Club,true,106,10,PT,7.0,Fairway,11.22,,,8.0,0.0,3.0,2.0,7.3,1.9,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18042,Lahontan Country Club,true,105,10,LW,62.0,Fairway,68.59,69.0,,62.0,-1.9,-1.5,-2.4,56.4,32.8,0.8,6770,94,2020.43,,,
+2020-10-21,Lance Thompson,18041,Lahontan Country Club,true,104,10,DR,298.0,TEE,229.17,236.0,,151.0,1.8,0.8,5.6,107.9,11.6,-33.6,1736,-1153,2020.43,,true,
+2020-10-21,Lance Thompson,18040,Lahontan Country Club,true,103,9,PT,4.0,Green,7.01,,,5.0,0.0,4.0,2.0,4.6,0.5,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,18039,Lahontan Country Club,true,102,9,LW,29.0,Fairway,25.78,25.0,,35.0,0.0,-1.8,2.1,34.7,35.7,-12.3,3420,-745,2020.43,,,
+2020-10-21,Lance Thompson,18038,Lahontan Country Club,true,101,9,W3,258.0,TEE,161.33,229.0,true,119.0,6.6,5.3,10.6,95.2,12.6,-31.9,2210,-1375,2020.43,,,
+2020-10-21,Lance Thompson,18037,Lahontan Country Club,true,100,9,W3,258.0,TEE,179.76,,true,128.0,6.2,7.6,3.8,94.8,12.3,22.9,5592,2362,2020.43,,,false
+2020-10-21,Lance Thompson,17944,Lahontan Country Club,true,7,8,PW,15.0,Fairway,7.42,,,19.0,1.7,1.5,2.8,18.1,32.5,-2.5,2209,-96,2020.43,,,
+2020-10-21,Lance Thompson,17943,Lahontan Country Club,true,6,8,PW,95.0,LightRough,99.38,110.0,,78.0,-1.8,-3.7,0.0,67.2,24.4,-14.7,5944,-1559,2020.43,,,
+2020-10-21,Lance Thompson,17942,Lahontan Country Club,true,5,8,I6,187.0,Fairway,101.32,92.0,true,88.0,20.5,18.0,22.1,72.7,0.8,-16.4,8975,-2641,2020.43,,,
+2020-10-21,Lance Thompson,17941,Lahontan Country Club,true,4,8,W3,338.0,TEE,147.63,151.0,true,107.0,5.0,5.3,4.4,82.3,15.5,0.8,9099,127,2020.43,,true,false
+2020-10-21,Lance Thompson,17940,Lahontan Country Club,true,3,7,PT,6.0,Green,8.42,,,6.0,0.0,2.0,1.0,5.5,-1.2,0.0,0,0,2020.43,,,
+2020-10-21,Lance Thompson,17939,Lahontan Country Club,true,2,7,I8,156.0,Fairway,145.88,150.0,,108.0,3.7,2.8,7.1,85.7,22.7,-17.2,4929,-1525,2020.43,,,
+2020-10-21,Lance Thompson,17938,Lahontan Country Club,true,1,7,DR,426.0,TEE,249.23,270.0,,140.0,4.0,3.8,6.4,97.2,18.0,-9.0,1999,-316,2020.43,,true,true
+2020-10-20,Lance Thompson,17937,Lahontan Country Club,true,17,6,PT,7.0,Green,12.63,,,9.0,0.0,2.0,0.0,8.2,3.9,0.0,0,0,2020.43,,,
+2020-10-20,Lance Thompson,17936,Lahontan Country Club,true,16,6,I9,135.0,LightRough,130.81,128.0,,101.0,1.8,0.5,4.8,80.2,22.0,-17.2,5559,-1720,2020.43,,,
+2020-10-20,Lance Thompson,17935,Lahontan Country Club,true,15,6,W3,380.0,TEE,194.28,245.0,,132.0,3.4,1.7,5.8,93.6,11.4,-24.6,2599,-1189,2020.43,,false,true
+2020-10-20,Lance Thompson,17934,Lahontan Country Club,true,14,5,PT,5.0,Green,9.82,,,7.0,0.0,2.0,0.0,6.4,2.2,0.0,0,0,2020.43,,,
+2020-10-20,Lance Thompson,17933,Lahontan Country Club,true,13,5,PW,132.0,TEE,115.48,127.0,,88.0,1.8,1.5,4.1,72.7,24.0,-9.0,6417,-1016,2020.43,,,true
+2020-10-20,Lance Thompson,17932,Lahontan Country Club,true,12,4,PT,5.0,Green,11.22,,,8.0,0.0,4.0,2.0,7.3,1.7,0.0,0,0,2020.43,,,
+2020-10-20,Lance Thompson,17931,Lahontan Country Club,true,11,4,LW,62.0,Fairway,59.38,57.0,,61.0,-4.2,-4.2,-1.4,57.6,32.1,-9.8,7185,-1241,2020.43,,,
+2020-10-20,Lance Thompson,17930,Lahontan Country Club,true,10,4,W3,236.0,TEE,166.34,174.0,,114.0,-3.7,-3.8,-5.7,87.0,17.2,6.5,3795,432,2020.43,,true,true
+2020-10-20,Lance Thompson,17929,Lahontan Country Club,true,9,3,PT,4.0,Green,9.82,,,7.0,0.0,0.0,0.0,6.4,0.5,0.0,0,0,2020.43,,,
+2020-10-20,Lance Thompson,17928,Lahontan Country Club,true,8,3,LW,10.0,LightRough,0.06,6.0,,12.0,-4.0,-3.8,-5.9,10.9,0.0,4.1,2078,148,2020.43,,,
+2020-10-20,Lance Thompson,17927,Lahontan Country Club,true,7,3,PW,112.0,TEE,110.15,102.0,,86.0,0.0,-1.4,2.9,71.1,26.2,-15.6,6368,-1777,2020.43,,,false
+2020-10-20,Lance Thompson,17926,Lahontan Country Club,true,6,2,PT,8.0,LightRough,16.83,,,12.0,0.0,2.0,1.0,10.9,3.9,0.0,0,0,2020.43,,,
+2020-10-20,Lance Thompson,17925,Lahontan Country Club,true,5,2,LW,47.0,LightRough,53.8,55.0,,53.0,0.0,-1.2,2.1,52.5,32.7,-7.4,6301,-818,2020.43,,,
+2020-10-20,Lance Thompson,17924,Lahontan Country Club,true,4,2,W3,288.0,LightRough,215.63,241.0,true,140.0,6.8,6.7,9.5,97.2,11.4,-9.8,3636,-628,2020.43,,,
+2020-10-20,Lance Thompson,17923,Lahontan Country Club,true,3,2,I4,473.0,TEE,181.29,185.0,true,122.0,7.5,6.6,11.5,88.4,14.5,-19.6,2836,-1009,2020.43,,false,false
+2020-10-20,Lance Thompson,17922,Lahontan Country Club,true,2,1,PW,99.0,LightRough,101.75,,,80.0,-1.9,-3.7,-1.0,69.0,26.4,-10.6,5520,-1033,2020.43,,,
+2020-10-20,Lance Thompson,17921,Lahontan Country Club,true,1,1,I4,301.0,TEE,192.69,202.0,true,125.0,8.3,6.6,10.5,90.6,17.1,-15.6,3211,-896,2020.43,,false,
+2020-10-15,Lance Thompson,17907,Shadow Creek lidar ULM,true,62,7,PT,4.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,3.3,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17906,Shadow Creek lidar ULM,true,61,7,PT,8.0,GreenFringe,14.03,,,10.0,0.0,6.0,3.0,9.1,4.2,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17905,Shadow Creek lidar ULM,true,60,7,I4,205.0,Fairway,186.43,197.0,true,122.0,9.3,7.6,10.4,88.4,15.9,-11.5,2722,-553,2020.42,,,
+2020-10-15,Lance Thompson,17904,Shadow Creek lidar ULM,true,59,7,DR,482.0,TEE,250.22,277.0,,143.0,3.0,1.3,4.1,99.3,15.8,-13.9,1964,-486,2020.42,,true,false
+2020-10-15,Lance Thompson,17903,Shadow Creek lidar ULM,true,58,6,SW,92.0,Fairway,88.16,,,78.0,0.0,-1.6,2.6,67.2,31.5,-9.0,8554,-1354,2020.42,,,
+2020-10-15,Lance Thompson,17902,Shadow Creek lidar ULM,true,57,6,DR,379.0,TEE,256.42,287.0,,150.0,1.3,0.8,2.2,101.4,12.7,-1.6,2142,-59,2020.42,,true,
+2020-10-15,Lance Thompson,17901,Shadow Creek lidar ULM,true,56,5,PW,15.0,GreenFringe,8.35,,,21.0,1.7,1.5,3.4,19.8,27.5,-6.5,2440,-278,2020.42,,,
+2020-10-15,Lance Thompson,17900,Shadow Creek lidar ULM,true,55,5,I8,156.0,TEE,137.14,141.0,,104.0,1.7,0.5,4.2,82.5,19.0,-14.7,5339,-1400,2020.42,,,
+2020-10-15,Lance Thompson,17899,Shadow Creek lidar ULM,true,54,4,LW,18.0,Sand,23.19,,,33.0,0.0,1.7,-1.5,31.4,36.3,1.6,4309,133,2020.42,,,
+2020-10-15,Lance Thompson,17898,Shadow Creek lidar ULM,true,53,4,W3,233.0,LightRough,196.56,215.0,,129.0,4.8,4.8,6.8,90.9,12.2,-4.1,3681,-263,2020.42,,,
+2020-10-15,Lance Thompson,17897,Shadow Creek lidar ULM,true,52,4,W3,237.0,Sand,191.5,4.0,,126.0,4.9,5.3,3.7,88.7,12.6,3.1,3566,193,2020.42,,,
+2020-10-15,Lance Thompson,17896,Shadow Creek lidar ULM,true,51,4,DR,447.0,TEE,256.53,210.0,true,147.0,7.5,6.6,10.2,102.1,15.6,-18.0,1925,-625,2020.42,,false,false
+2020-10-15,Lance Thompson,17895,Shadow Creek lidar ULM,true,50,3,PT,6.0,Green,12.63,,,9.0,0.0,4.0,3.0,8.2,3.6,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17894,Shadow Creek lidar ULM,true,49,3,I8,137.0,Sand,132.48,131.0,,98.0,3.5,2.8,6.5,81.0,21.5,-14.7,4231,-1109,2020.42,,,
+2020-10-15,Lance Thompson,17893,Shadow Creek lidar ULM,true,48,3,DR,403.0,TEE,258.29,266.0,,151.0,2.4,0.8,4.6,105.6,12.8,-22.9,1864,-787,2020.42,,false,true
+2020-10-15,Lance Thompson,17892,Shadow Creek lidar ULM,true,47,2,PT,3.0,Green,8.42,,,6.0,0.0,1.0,0.0,5.5,-1.4,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17891,Shadow Creek lidar ULM,true,46,2,LW,22.0,Fairway,13.2,19.0,,25.0,-1.8,-2.7,-0.2,23.8,34.1,-4.9,2762,-236,2020.42,,,
+2020-10-15,Lance Thompson,17890,Shadow Creek lidar ULM,true,45,2,PW,118.0,HeavyRough,107.37,96.0,,85.0,3.8,3.8,5.7,70.3,28.6,-6.5,7120,-811,2020.42,,,
+2020-10-15,Lance Thompson,17889,Shadow Creek lidar ULM,true,44,2,DR,378.0,TEE,229.42,260.0,true,141.0,6.3,5.7,7.0,94.7,12.2,-2.5,2498,-109,2020.42,,false,false
+2020-10-15,Lance Thompson,17888,Shadow Creek lidar ULM,true,43,1,PT,5.0,Green,12.63,,,9.0,0.0,2.0,0.0,8.2,4.2,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17887,Shadow Creek lidar ULM,true,42,1,LW,80.0,Fairway,64.64,75.0,,65.0,0.0,-1.5,2.9,59.1,33.5,-5.7,8464,-844,2020.42,,,
+2020-10-15,Lance Thompson,17886,Shadow Creek lidar ULM,true,41,1,DR,342.0,TEE,252.69,262.0,true,151.0,5.6,5.7,6.6,105.0,14.3,-0.8,2738,-38,2020.42,,true,true
+2020-10-15,Lance Thompson,17885,Shadow Creek lidar ULM,true,40,18,PT,11.0,Green,12.63,,,9.0,0.0,2.0,0.0,8.2,3.5,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17884,Shadow Creek lidar ULM,true,39,18,I7,163.0,Fairway,160.83,152.0,true,112.0,6.6,5.7,8.7,85.5,20.9,-12.3,4071,-887,2020.42,,,
+2020-10-15,Lance Thompson,17883,Shadow Creek lidar ULM,true,38,18,I4,195.0,Fairway,180.87,32.0,,124.0,3.6,2.6,8.8,93.9,13.3,-31.1,2854,-1721,2020.42,,,
+2020-10-15,Lance Thompson,17882,Shadow Creek lidar ULM,true,37,18,W3,434.0,TEE,194.81,239.0,true,132.0,6.3,4.4,9.2,95.7,13.8,-33.6,1984,-1318,2020.42,,,
+2020-10-15,Lance Thompson,17881,Shadow Creek lidar ULM,true,36,18,W3,434.0,TEE,146.0,,,107.0,3.5,3.8,5.1,82.3,15.6,-2.5,9410,-410,2020.42,,,false
+2020-10-15,Lance Thompson,17880,Shadow Creek lidar ULM,true,35,17,PT,10.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-0.9,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17879,Shadow Creek lidar ULM,true,34,17,LW,86.0,Fairway,74.22,76.0,,71.0,-2.1,-2.7,-0.3,64.0,33.0,-8.2,8661,-1248,2020.42,,,
+2020-10-15,Lance Thompson,17878,Shadow Creek lidar ULM,true,33,17,PW,132.0,TEE,118.36,46.0,,94.0,0.0,-1.5,3.9,77.7,28.1,-19.6,6656,-2370,2020.42,,,false
+2020-10-15,Lance Thompson,17877,Shadow Creek lidar ULM,true,32,16,LW,18.0,HeavyRough,8.31,,,20.0,2.0,1.5,2.4,19.1,33.3,-0.8,2486,-34,2020.42,,,
+2020-10-15,Lance Thompson,17876,Shadow Creek lidar ULM,true,31,16,PW,120.0,Fairway,122.71,138.0,,96.0,0.0,-1.6,3.1,79.3,26.4,-16.4,6781,-1995,2020.42,,,
+2020-10-15,Lance Thompson,17875,Shadow Creek lidar ULM,true,30,16,W3,271.0,HeavyRough,128.63,151.0,,122.0,3.3,1.7,6.3,90.4,5.9,-27.8,2115,-1115,2020.42,,,
+2020-10-15,Lance Thompson,17874,Shadow Creek lidar ULM,true,29,16,DR,503.0,TEE,203.72,232.0,,138.0,-2.1,-0.5,-4.1,97.9,13.6,21.3,4437,1729,2020.42,,false,false
+2020-10-15,Lance Thompson,17873,Shadow Creek lidar ULM,true,28,15,PT,3.0,Green,11.22,,,8.0,0.0,0.0,0.0,7.3,0.9,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17872,Shadow Creek lidar ULM,true,27,15,LW,18.0,HeavyRough,6.93,15.0,,19.0,0.0,1.2,-1.7,17.3,28.0,3.3,2391,137,2020.42,,,
+2020-10-15,Lance Thompson,17871,Shadow Creek lidar ULM,true,26,15,I9,147.0,Fairway,137.3,129.0,,106.0,1.9,0.5,4.6,86.2,22.7,-20.5,5534,-2069,2020.42,,,
+2020-10-15,Lance Thompson,17870,Shadow Creek lidar ULM,true,25,15,DR,394.0,TEE,243.44,247.0,,146.0,2.2,1.5,3.7,101.4,12.4,-7.4,2243,-291,2020.42,,true,false
+2020-10-15,Lance Thompson,17869,Shadow Creek lidar ULM,true,24,14,PT,15.0,Green,12.63,,,9.0,0.0,-1.0,0.0,8.2,2.7,0.0,0,0,2020.42,,,
+2020-10-15,Lance Thompson,17868,Shadow Creek lidar ULM,true,23,14,W3,110.0,HeavyRough,185.91,125.0,true,130.0,4.9,3.5,8.3,94.2,12.9,-33.6,1686,-1120,2020.42,,,
+2020-10-15,Lance Thompson,17867,Shadow Creek lidar ULM,true,22,14,DR,382.0,TEE,227.44,272.0,,142.0,2.7,5.0,1.7,98.6,13.4,16.4,2970,874,2020.42,,false,true
 2020-10-15,Lance Thompson,17866,Shadow Creek lidar ULM,true,21,13,PT,12.0,Green,11.22,,,8.0,0.0,2.0,0.0,7.3,1.3,0.0,0,0,2020.42,,,
 2020-10-15,Lance Thompson,17865,Shadow Creek lidar ULM,true,20,13,I7,174.0,TEE,161.38,162.0,,112.0,1.9,1.5,4.3,85.5,17.6,-9.8,3854,-665,2020.42,,,true
 2020-10-15,Lance Thompson,17864,Shadow Creek lidar ULM,true,19,12,PT,10.0,Green,8.42,,,6.0,0.0,2.0,0.0,5.5,-0.2,0.0,0,0,2020.42,,,
