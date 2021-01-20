@@ -24,7 +24,6 @@ ADERU,26 Capital Acquisition Corp.,1/15/2021,,Financial,Shell Companies,,USA,,,,
 ADIL,Adial Pharmaceuticals,7/27/2018,,Healthcare,Biotechnology,31.15,USA,,-0.82,2.68%,,,17.53%,-11.46%,9.80%,0.07%,,3.88,4.21,,,,,11.87,13.65,0.48,,7.30%
 ADOC,Edoc Acquisition Corp.,12/10/2020,10.00,Financial,Shell Companies,98.12,USA,,,,,,3.51%,0.00%,,,,,,,,,,,9.55,0.02,,0.68%
 ADPT,Adaptive Biotechnologies Corporation,6/27/2019,20.00,Healthcare,Biotechnology,9289.55,USA,11/10/2020 4:30:00 PM,-0.95,3.57%,,75.90%,1.30%,-84.28%,78.70%,-2.93%,,11.67,11.12,,,100.54,,128.88,134.37,5.58,62.17,4.51%
-ADT,ADT,1/19/2018,,Industrials,Security & Protection Services,7426.14,USA,11/5/2020 4:30:00 PM,-0.78,2.51%,8.04,71.50%,0.80%,-86.57%,95.60%,0.05%,-0.50%,2.17,15.17,,11.52,1.40,,691.69,769.24,4.53,11.89,3.77%
 ADTX,ADiTx Therapeutics,6/30/2020,9.00,Healthcare,Biotechnology,30.54,USA,,-0.73,5.40%,,,4.50%,0.00%,7.10%,,,1.29,2.23,,,,,9.25,12.28,0.43,,7.97%
 ADV,Advantage Solutions,9/9/2019,,Communication Services,Advertising Agencies,3763.95,USA,11/16/2020 8:30:00 AM,-0.05,,16.21,,64.10%,0.00%,13.90%,41.60%,,1.53,7527.90,,,1.13,,,56.25,6.91,13.50,5.51%
 ADXN,Addex Therapeutics Ltd,1/29/2020,,Healthcare,Biotechnology,59.24,Switzerland,,,1.92%,,,,,0.42%,,,,,,,,,2.53,5.64,1.30,,4.05%
@@ -318,7 +317,6 @@ CNST,Constellation Pharmaceuticals,7/19/2018,,Healthcare,Biotechnology,1601.26,U
 CNTG,Centogene N.V.,11/7/2019,14.00,Healthcare,Diagnostics & Research,247.80,Germany,12/16/2020 8:30:00 AM,-1.79,2.53%,,36.70%,36.18%,0.00%,53.20%,4.45%,-38.10%,3.53,7.10,,,2.78,,8.35,21.86,1.92,,4.88%
 CNXC,Concentrix Corporation,11/24/2020,,Technology,Information Technology Services,6055.37,USA,1/11/2021 4:30:00 PM,3.20,1.29%,13.04,35.20%,,,,,,,64.90,35.98,,1.28,1.99,51.03,52.66,1.75,135.00,5.65%
 COGT,Cogent Biosciences,3/29/2018,,Healthcare,Biotechnology,768.41,USA,11/9/2020 8:30:00 AM,-6.53,,,,4.47%,0.00%,19.50%,14.75%,,,,,,33.12,,,9.85,1.86,20.20,7.76%
-COLD,Americold Realty Trust,1/19/2018,,Real Estate,REIT - Industrial,7004.17,USA,11/5/2020 4:30:00 PM,0.44,4.29%,64.59,27.50%,0.40%,-1.79%,,2.17%,9.60%,3.31,40.28,78.01,95.69,3.59,8.21,200.38,204.29,4.17,44.00,2.32%
 CONX,CONX Corp.,12/21/2020,10.00,Financial,Shell Companies,789.11,USA,,,,,,0.01%,,,,,,,,,,,,75.01,0.24,,1.33%
 CONXU,CONX Corp.,10/30/2020,,Financial,Shell Companies,,USA,,,,,,,,0.23%,,,,,,,,,,,0.05,,1.61%
 COW,iPath Series B Bloomberg Livestock Subindex Total Return ETN,2/1/2018,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,0.93%
@@ -757,7 +755,6 @@ JWS,Jaws Acquisition Corp.,7/6/2020,10.00,Financial,Shell Companies,1086.75,USA,
 JYAC,Jiya Acquisition Corp.,11/19/2020,10.00,Financial,Shell Companies,107.87,USA,,,,,,,,22.46%,,,,,,,,,,10.35,0.03,,3.34%
 KAIRU,Kairos Acquisition Corp.,1/6/2021,,Financial,Shell Companies,,USA,,,,,,,,,,,,,,,,,,,,,1.76%
 KAPR,Innovator Russell 2000 Power Buffer ETF - April,4/1/2020,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,0.27%
-KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,1/19/2018,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,2.49%
 KBNT,Kubient,8/12/2020,5.00,Technology,Software - Application,69.40,USA,11/12/2020 4:30:00 PM,,3.41%,,,21.20%,0.00%,0.70%,,,4.19,8.26,,,39.21,,5.66,5.68,0.37,10.00,11.85%
 KC,Kingsoft Cloud Holdings Limited,5/8/2020,17.00,Technology,Software - Application,10406.75,China,11/18/2020 8:30:00 AM,-1.01,5.72%,,5.50%,1.62%,0.00%,21.10%,1.06%,-21.70%,7.25,9.91,,,11.56,,86.35,210.24,3.02,46.05,6.07%
 KDFI,KFA Dynamic Fixed Income ETF,12/9/2019,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,0.57%
@@ -911,7 +908,7 @@ NAPR,Innovator Nasdaq 100 Power Buffer ETF - April,4/1/2020,,Financial,Exchange 
 NARI,Inari Medical,5/22/2020,19.00,Healthcare,Medical Devices,4665.34,USA,11/12/2020 4:30:00 PM,0.06,2.80%,,89.60%,3.70%,-57.41%,53.50%,-0.93%,11.20%,24.95,27.77,1703.45,,42.07,156.28,32.91,48.34,1.44,89.67,6.07%
 NBAC,Newborn Acquisition Corp.,5/1/2020,10.00,Financial,Shell Companies,148.56,China,,-0.49,,,,0.87%,0.00%,55.40%,,,0.76,495.18,,,,,,2.32,0.22,,7.47%
 NBTX,Nanobiotix S.A.,12/11/2020,13.50,Healthcare,Biotechnology,657.55,France,,,0.15%,,,,,3.07%,,,,,,,,,20.67,34.43,0.40,,7.35%
-NCNO,nCino,7/14/2020,31.00,Technology,Software - Application,6381.42,USA,12/9/2020 4:30:00 PM,-0.43,5.25%,,55.80%,1.10%,-91.29%,74.00%,-2.31%,-20.80%,15.08,219.29,,,34.27,,90.89,91.60,6.11,95.33,4.37%
+NCNO,nCino,7/14/2020,31.00,Technology,Software - Application,6381.42,USA,12/9/2020 4:30:00 PM,-0.43,5.25%,,55.80%,1.10%,-91.33%,74.00%,-2.31%,-20.80%,15.08,219.29,,,34.27,,90.89,91.60,6.11,95.33,4.37%
 NERD,Roundhill BITKRAFT Esports & Digital Entertainment ETF,6/4/2019,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,1.39%
 NET,Cloudflare,9/13/2019,15.00,Technology,Software - Infrastructure,25881.63,USA,2/11/2021 4:30:00 PM,-0.48,5.87%,,76.80%,0.10%,-95.11%,78.00%,1.85%,-28.80%,29.72,24.53,,,66.52,,187.72,301.69,2.10,76.13,5.15%
 NETL,Fundamental Income Net Lease Real Estate ETF,3/22/2019,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,1.16%
@@ -924,7 +921,6 @@ NGM,NGM Biopharmaceuticals,4/4/2019,16.00,Healthcare,Biotechnology,1981.49,USA,,
 NGMS,NeoGames S.A.,11/19/2020,17.00,Communication Services,Electronic Gaming & Multimedia,746.99,Israel,,0.02,6.31%,71.34,,80.43%,0.00%,2.20%,,,,70.47,1569.47,,16.90,,4.82,25.05,1.01,33.67,7.41%
 NHIC,NewHold Investment Corp.,9/22/2020,10.00,Financial,Shell Companies,177.85,USA,,,,,,17.68%,0.00%,19.16%,,,,,,,,,,17.25,0.04,,1.33%
 NHICU,NewHold Investment Corp.,7/31/2020,,Financial,Shell Companies,,USA,,,,,,,,58.21%,,,,,,,,,,,0.07,,0.68%
-NINE,Nine Energy Service,1/19/2018,,Energy,Oil & Gas Equipment & Services,91.56,USA,11/5/2020 8:30:00 AM,-19.16,1.76%,,9.00%,0.10%,0.00%,52.00%,,,1.63,1.14,,,0.22,,15.94,29.85,1.08,2.04,7.82%
 NIO,NIO Limited,9/12/2018,,Consumer Cyclical,Auto Manufacturers,99430.98,China,11/17/2020 4:30:00 PM,-1.02,6.76%,,3.80%,0.56%,0.00%,36.30%,0.67%,-52.20%,57.29,29.20,,,51.64,,1004.52,1210.61,0.38,48.89,5.82%
 NIU,Niu Technologies,10/19/2018,,Consumer Cyclical,Auto Manufacturers,3427.12,China,11/23/2020 8:30:00 AM,0.30,3.19%,52.37,23.00%,,,28.00%,7.31%,6.50%,26.43,17.05,149.53,,9.61,25.52,54.81,86.03,0.81,36.90,10.34%
 NJAN,Innovator Nasdaq 100 Power Buffer ETF - January,1/2/2020,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,0.94%
@@ -969,7 +965,7 @@ OMEG,Omega Alpha Spac,1/7/2021,10.00,Financial,Shell Companies,127.20,USA,,,,,,,
 ONCR,Oncorus,10/2/2020,15.00,Healthcare,Biotechnology,626.54,USA,,,3.03%,,,1.80%,,45.20%,,,,11.60,,,,,10.94,21.77,3.23,38.67,9.97%
 ONDS,Ondas Holdings,10/25/2018,,Technology,Communication Equipment,356.76,USA,,-0.64,0.19%,,44.60%,7.10%,0.00%,,,,,169.89,,,178.38,,17.20,19.76,0.08,10.00,25.35%
 ONE,OneSmart International Education Group Limited,3/28/2018,,Consumer Defensive,Education & Training Services,589.19,China,11/23/2020 8:30:00 AM,-0.70,0.90%,1.47,36.90%,7.03%,0.00%,46.70%,0.66%,-10.50%,9.53,2.32,,,1.11,,88.82,161.71,4.30,5.88,3.44%
-ONEM,1Life Healthcare,1/31/2020,14.00,Healthcare,Health Information Services,6340.18,USA,11/10/2020 4:30:00 PM,-0.80,8.89%,,36.10%,0.40%,-85.84%,98.40%,0.44%,-26.20%,11.41,9.29,,,19.03,,100.08,128.56,6.90,41.73,7.13%
+ONEM,1Life Healthcare,1/31/2020,14.00,Healthcare,Health Information Services,6340.18,USA,11/10/2020 4:30:00 PM,-0.80,8.89%,,36.10%,0.40%,-86.15%,98.40%,0.44%,-26.20%,11.41,9.29,,,19.03,,100.08,128.56,6.90,41.73,7.13%
 ONEW,OneWater Marine,2/7/2020,12.00,Consumer Cyclical,Recreational Vehicles,527.20,USA,11/19/2020 8:30:00 AM,2.82,3.44%,8.27,23.00%,3.70%,-81.11%,79.20%,3.42%,7.00%,1.90,7.98,12.31,2.56,0.52,,9.00,10.87,2.66,36.00,5.87%
 ONLN,ProShares Online Retail ETF,7/16/2018,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,2.88%
 OPEN,Opendoor Technologies,6/18/2020,,Real Estate,Real Estate Services,15625.42,USA,,-0.53,1.31%,,7.10%,8.20%,0.00%,31.00%,,,,28.33,,,4.35,,428.38,544.42,1.49,32.50,7.36%
@@ -1006,7 +1002,7 @@ PBFS,Pioneer Bancorp,7/18/2019,,Financial,Banks - Regional,286.54,USA,,0.30,1.60
 PBTS,"Powerbridge Technologies Co., Ltd.",4/2/2019,5.00,Technology,Software - Application,127.66,China,,-0.90,0.06%,,33.30%,13.96%,0.00%,0.10%,,-41.70%,4.03,58.03,,,5.88,,7.90,9.09,0.05,,9.90%
 PCGU,PG&E Corporation,6/26/2020,,Utilities,Utilities - Regulated Electric,,USA,,,0.00%,,,,,,,,,,,,,,1471.52,,0.40,,2.72%
 PCPL,CC Neuberger Principal Holdings I,6/15/2020,10.00,Financial,Shell Companies,466.16,USA,,,,,,37.08%,17.70%,72.37%,,,,,,,,,,41.40,0.17,,4.80%
-PCVX,Vaxcyte,6/12/2020,16.00,Healthcare,Biotechnology,1318.66,USA,,,6.62%,,,1.40%,-53.25%,85.40%,-0.52%,,3.60,3.32,,,,,41.43,50.90,10.40,,5.56%
+PCVX,Vaxcyte,6/12/2020,16.00,Healthcare,Biotechnology,1318.66,USA,,,6.62%,,,1.40%,-55.87%,85.40%,-0.52%,,3.60,3.32,,,,,41.43,50.90,10.40,,5.56%
 PD,PagerDuty,4/11/2019,24.00,Technology,Software - Application,4075.79,USA,12/3/2020 4:30:00 PM,-0.73,13.25%,,86.20%,4.30%,-29.08%,81.20%,4.28%,-29.80%,10.28,7.33,,1314.77,20.36,,68.58,79.94,6.03,41.80,5.04%
 PDAC,Peridot Acquisition Corp.,11/16/2020,10.00,Financial,Shell Companies,344.10,USA,,,,,,,,16.02%,,,,,,,,,,30.00,0.29,,5.60%
 PDD,Pinduoduo,7/26/2018,,Consumer Cyclical,Internet Retail,214773.45,China,11/12/2020 8:30:00 AM,-1.00,4.26%,316.09,77.60%,1.05%,0.00%,27.70%,0.43%,-21.60%,45.99,30.51,,60.85,31.79,,698.32,1196.57,3.10,153.79,4.83%
@@ -1015,7 +1011,7 @@ PFEB,Innovator S&P 500 Power Buffer ETF - February,2/3/2020,,Financial,Exchange 
 PFFA,Virtus InfraCap U.S. Preferred Stock ETF,5/16/2018,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,1.08%
 PFFL,ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN,9/26/2018,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,2.54%
 PFLD,AAM Low Duration Preferred and Income Securities ETF,11/20/2019,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,0.49%
-PGNY,Progyny,10/25/2019,13.00,Healthcare,Health Information Services,3978.17,USA,11/5/2020 4:30:00 PM,0.02,4.56%,122.00,19.80%,14.40%,-35.63%,76.50%,-7.26%,2.70%,33.05,37.89,2446.00,189.44,12.85,35.09,54.84,86.27,3.07,47.75,4.62%
+PGNY,Progyny,10/25/2019,13.00,Healthcare,Health Information Services,3978.17,USA,11/5/2020 4:30:00 PM,0.02,4.56%,122.00,19.80%,14.40%,-35.64%,76.50%,-7.26%,2.70%,33.05,37.89,2446.00,189.44,12.85,35.09,54.84,86.27,3.07,47.75,4.62%
 PHAR,Pharming Group N.V.,12/23/2020,,Healthcare,Biotechnology,901.05,Netherlands,,,,,,,,,,,,,,,,,,62.15,1.52,,4.00%
 PHAS,PhaseBio Pharmaceuticals,10/18/2018,,Healthcare,Biotechnology,127.98,USA,11/12/2020 4:30:00 PM,-2.75,9.06%,,,0.80%,3.18%,62.70%,-6.94%,,28.07,3.25,,,116.35,,26.05,29.24,8.54,,7.06%
 PHAT,Phathom Pharmaceuticals,10/25/2019,19.00,Healthcare,Biotechnology,1225.57,USA,,-6.81,8.43%,,,17.16%,-3.42%,70.40%,-0.12%,,6.39,5.41,,,,,9.60,25.92,6.48,51.33,4.84%
@@ -1117,7 +1113,7 @@ RCHGU,Recharge Acquisition Corp.,10/1/2020,,Financial,Shell Companies,,USA,,,,,,
 RCUS,Arcus Biosciences,3/15/2018,,Healthcare,Biotechnology,2503.88,USA,11/5/2020 4:30:00 PM,-1.90,13.31%,,,0.80%,9.38%,65.50%,6.99%,,4.22,3.20,,16.70,32.18,,44.15,62.60,10.99,42.00,9.42%
 RDVT,Red Violet,3/26/2018,,Technology,Software - Application,291.73,USA,11/10/2020 4:30:00 PM,-0.84,15.23%,,65.40%,44.60%,-8.17%,25.70%,0.10%,-28.00%,6.76,23.53,,49.45,8.41,,5.85,12.07,19.78,,5.19%
 REAL,The RealReal,6/28/2019,20.00,Consumer Cyclical,Specialty Retail,2494.24,USA,11/9/2020 4:30:00 PM,-1.68,13.28%,,63.40%,4.50%,-28.44%,89.20%,-4.52%,-47.20%,10.49,6.31,,,8.02,,84.50,87.87,5.31,21.14,7.89%
-REPL,Replimune Group,7/20/2018,,Healthcare,Biotechnology,2068.33,USA,,-1.77,6.46%,,,14.70%,-10.79%,78.20%,1.14%,,7.19,8.46,,,,,41.64,44.02,4.85,55.70,5.83%
+REPL,Replimune Group,7/20/2018,,Healthcare,Biotechnology,2068.33,USA,,-1.77,6.46%,,,14.70%,-12.27%,78.20%,1.14%,,7.19,8.46,,,,,41.64,44.02,4.85,55.70,5.83%
 REYN,Reynolds Consumer Products,1/31/2020,26.00,Consumer Cyclical,Packaging & Containers,6098.11,USA,11/11/2020 4:30:00 PM,1.65,5.00%,14.36,30.20%,74.15%,0.03%,26.60%,-0.35%,16.00%,4.10,15.56,17.56,,1.90,2.13,54.22,209.70,5.71,37.89,2.48%
 REZI,Resideo Technologies,10/15/2018,,Industrials,Security & Protection Services,3728.00,USA,11/5/2020 8:30:00 AM,-0.26,2.70%,15.62,24.50%,0.40%,2.94%,81.70%,0.81%,4.70%,1.97,14.34,,35.17,0.76,,107.77,123.42,1.89,26.40,3.86%
 RFL,Rafael Holdings,3/27/2018,,Healthcare,Biotechnology,406.24,USA,,-0.65,1.71%,,,1.20%,0.00%,36.00%,0.03%,,3.43,56.42,,,84.63,,10.42,15.82,5.32,,7.68%
@@ -1263,7 +1259,7 @@ SVMK,SVMK,9/26/2018,,Technology,Software - Application,3802.89,USA,11/5/2020 8:3
 SVOKU,Seven Oaks Acquisition Corp.,12/18/2020,,Financial,Shell Companies,,USA,,,,,,5.99%,,,,,,,,,,,,,0.01,,1.86%
 SVSVU,Spring Valley Acquisition Corp.,11/24/2020,,Financial,Shell Companies,,USA,,,0.15%,,,,,7.83%,,,,,,,,,12.27,,0.05,,3.28%
 SWAN,Amplify BlackSwan Growth & Treasury Core ETF,11/6/2018,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,0.70%
-SWAV,ShockWave Medical,3/7/2019,17.00,Healthcare,Medical Devices,4870.89,USA,11/9/2020 4:30:00 PM,-2.03,8.02%,,66.20%,1.70%,-81.75%,99.75%,-0.07%,,20.41,,,,82.00,,32.09,34.08,5.82,105.00,5.83%
+SWAV,ShockWave Medical,3/7/2019,17.00,Healthcare,Medical Devices,4870.89,USA,11/9/2020 4:30:00 PM,-2.03,8.02%,,66.20%,1.70%,-81.77%,99.75%,-0.07%,,20.41,,,,82.00,,32.09,34.08,5.82,105.00,5.83%
 SWI,SolarWinds Corporation,10/19/2018,,Technology,Software - Infrastructure,4731.86,USA,10/27/2020 4:30:00 PM,0.12,15.88%,15.66,73.20%,29.90%,-21.12%,96.40%,-2.51%,12.60%,1.77,11.13,128.86,14.07,4.73,8.37,63.15,310.89,5.33,19.27,4.10%
 SWTX,SpringWorks Therapeutics,9/13/2019,18.00,Healthcare,Biotechnology,3614.59,USA,,-1.73,9.20%,,,4.10%,0.00%,78.10%,0.76%,,12.25,13.06,,,,,38.25,42.15,10.86,83.20,9.47%
 SXTC,China SXT Pharmaceuticals,1/4/2019,4.00,Healthcare,Drug Manufacturers - Specialty & Generic,40.48,China,,-0.42,1.70%,,52.40%,13.70%,0.00%,8.30%,,,1.57,5.55,,50.60,7.78,,45.94,74.06,0.14,,19.66%
@@ -1405,7 +1401,7 @@ VSGX,Vanguard ESG International Stock ETF,9/20/2018,,Financial,Exchange Traded F
 VSL,Volshares Large Cap ETF,2/23/2018,,Financial,Exchange Traded Fund,,USA,,,,,,,,,,,,,,,,,,,,,0.22%
 VSPRU,Vesper Healthcare Acquisition Corp.,9/30/2020,,Financial,Shell Companies,,USA,,,,,,,,84.02%,,,,,,,,,,,2.92,,2.69%
 VSTA,Vasta Platform Limited,7/31/2020,19.00,Consumer Defensive,Education & Training Services,1149.84,Brazil,11/13/2020 8:30:00 AM,,12.83%,5.68,,,,,0.06%,,1.31,5.83,,,,,18.58,83.01,14.49,20.64,6.67%
-VTAQU,Ventoux CCM Acquisition Corp.,12/24/2020,10.00,Financial,Shell Companies,182.05,USA,,,,,,,,,,,,1820.54,,,,,,17.24,0.01,,1.13%
+VTAQU,Ventoux CCM Acquisition Corp.,12/24/2020,,Financial,Shell Companies,182.05,USA,,,,,,,,,,,,1820.54,,,,,,17.24,0.01,,1.13%
 VTIQU,VectoIQ Acquisition Corp. II,1/7/2021,,Financial,Shell Companies,,USA,,,,,,,,,,,3756.67,,,,,,,,,,2.76%
 VTRU,Vitru Limited,9/18/2020,16.00,Consumer Defensive,Education & Training Services,346.88,Brazil,11/23/2020 8:30:00 AM,,0.02%,3.95,,24.22%,0.00%,73.70%,4.91%,,1.84,2.43,,,,,17.47,23.06,0.11,19.35,7.59%
 VVOS,Vivos Therapeutics,12/11/2020,6.00,Healthcare,Medical Devices,131.89,USA,,-0.57,0.22%,,77.10%,31.00%,0.03%,,,,,329.72,,,10.30,,12.55,19.31,0.02,12.00,9.81%
