@@ -1,50 +1,50 @@
 [
   {
-    "current": "10.96",
+    "current": "11.03",
     "ipo_date_stockanalysis": "2020-07-14",
     "ipo_price": "10.00",
     "name": "Artius Acquisition",
-    "return": "9.60%",
+    "return": "10.25%",
     "ticker": "AACQ"
   },
   {
-    "current": "50.90",
+    "current": "50.51",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "20.00",
     "name": "AbCellera Biologics",
-    "return": "154.50%",
+    "return": "152.53%",
     "ticker": "ABCL"
   },
   {
-    "current": "23.32",
+    "current": "23.76",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "17.50",
     "name": "Abcam PLC",
-    "return": "33.26%",
+    "return": "35.77%",
     "ticker": "ABCM"
   },
   {
-    "current": "180.40",
+    "current": "182.15",
     "ipo_date_stockanalysis": "2020-12-10",
     "ipo_price": "68.00",
     "name": "Airbnb",
-    "return": "165.29%",
+    "return": "167.87%",
     "ticker": "ABNB"
   },
   {
-    "current": "13.34",
+    "current": "13.31",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "11.00",
     "name": "Absolute Software",
-    "return": "21.27%",
+    "return": "21.00%",
     "ticker": "ABST"
   },
   {
-    "current": "11.34",
+    "current": "11.21",
     "ipo_date_stockanalysis": "2020-10-23",
     "ipo_price": "10.00",
     "name": "Acies Acquisition",
-    "return": "13.40%",
+    "return": "12.10%",
     "ticker": "ACAC"
   },
   {
@@ -56,84 +56,84 @@
     "ticker": "ACAM"
   },
   {
-    "current": "58.82",
+    "current": "59.15",
     "ipo_date_stockanalysis": "2020-07-02",
     "ipo_price": "22.00",
     "name": "Accolade",
-    "return": "167.36%",
+    "return": "168.84%",
     "ticker": "ACCD"
   },
   {
-    "current": "11.30",
+    "current": "11.25",
     "ipo_date_stockanalysis": "2020-07-28",
     "ipo_price": "10.00",
     "name": "ACE Convergence Acquisition",
-    "return": "13.00%",
+    "return": "12.50%",
     "ticker": "ACEV"
   },
   {
-    "current": "17.38",
+    "current": "17.50",
     "ipo_date_stockanalysis": "2020-06-26",
     "ipo_price": "16.00",
     "name": "Albertsons Companies",
-    "return": "8.62%",
+    "return": "9.38%",
     "ticker": "ACI"
   },
   {
-    "current": "10.56",
+    "current": "10.54",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "10.00",
     "name": "Atlas Crest Investment",
-    "return": "5.60%",
+    "return": "5.40%",
     "ticker": "ACIC"
   },
   {
-    "current": "10.53",
+    "current": "10.47",
     "ipo_date_stockanalysis": "2020-12-21",
     "ipo_price": "10.00",
     "name": "Ackrell SPAC Partners I",
-    "return": "5.30%",
+    "return": "4.70%",
     "ticker": "ACKIT"
   },
   {
-    "current": "10.51",
+    "current": "10.56",
     "ipo_date_stockanalysis": "2020-07-24",
     "ipo_price": "10.00",
     "name": "Ascendant Digital Acquisition",
-    "return": "5.10%",
+    "return": "5.60%",
     "ticker": "ACND"
   },
   {
-    "current": "25.81",
+    "current": "25.66",
     "ipo_date_stockanalysis": "2020-09-23",
     "ipo_price": "10.00",
     "name": "ArcLight Clean Transition",
-    "return": "158.10%",
+    "return": "156.55%",
     "ticker": "ACTC"
   },
   {
-    "current": "31.75",
+    "current": "33.22",
     "ipo_date_stockanalysis": "2020-05-15",
     "ipo_price": "19.00",
     "name": "ADC Therapeutics SA",
-    "return": "67.11%",
+    "return": "74.84%",
     "ticker": "ADCT"
   },
   {
-    "current": "10.61",
+    "current": "10.70",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "26 Capital Acquisition",
-    "return": "6.10%",
+    "return": "7.00%",
     "ticker": "ADERU",
     "ticker_original": "ADER"
   },
   {
-    "current": "10.35",
+    "current": "10.42",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "Adit EdTech Acquisition",
-    "return": "3.50%",
+    "return": "4.20%",
     "ticker": "ADEX",
     "ticker_original": "ADEX"
   },
@@ -142,23 +142,23 @@
     "ipo_date_stockanalysis": "2020-11-10",
     "ipo_price": "10.00",
     "name": "Edoc Acquisition",
-    "return": "3.00%",
+    "return": "2.95%",
     "ticker": "ADOC"
   },
   {
-    "current": "67.01",
+    "current": "67.83",
     "ipo_date_stockanalysis": "2019-06-27",
     "ipo_price": "20.00",
     "name": "Adaptive Biotechnologies",
-    "return": "235.05%",
+    "return": "239.15%",
     "ticker": "ADPT"
   },
   {
-    "current": "3.80",
+    "current": "3.56",
     "ipo_date_stockanalysis": "2020-06-30",
     "ipo_price": "9.00",
     "name": "Aditx Therapeutics",
-    "return": "-57.78%",
+    "return": "-60.44%",
     "ticker": "ADTX"
   },
   {
@@ -171,51 +171,51 @@
     "ticker_original": "AEAC"
   },
   {
-    "current": "26.00",
+    "current": "25.82",
     "ipo_date_stockanalysis": "2020-08-06",
     "ipo_price": "18.00",
     "name": "Acutus Medical",
-    "return": "44.44%",
+    "return": "43.44%",
     "ticker": "AFIB"
   },
   {
-    "current": "108.97",
+    "current": "120.15",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "49.00",
     "name": "Affirm Holdings",
-    "return": "122.39%",
+    "return": "145.20%",
     "ticker": "AFRM"
   },
   {
-    "current": "23.95",
+    "current": "23.50",
     "ipo_date_stockanalysis": "2019-07-19",
     "ipo_price": "19.00",
     "name": "Afya",
-    "return": "26.05%",
+    "return": "23.68%",
     "ticker": "AFYA"
   },
   {
-    "current": "10.58",
+    "current": "10.57",
     "ipo_date_stockanalysis": "2019-05-14",
     "ipo_price": "10.00",
     "name": "AGBA Acquisition",
-    "return": "5.80%",
+    "return": "5.70%",
     "ticker": "AGBA"
   },
   {
-    "current": "16.50",
+    "current": "16.84",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "10.00",
     "name": "Altimeter Growth Corp.",
-    "return": "65.00%",
+    "return": "68.40%",
     "ticker": "AGC"
   },
   {
-    "current": "13.81",
+    "current": "14.03",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "Altimeter Growth 2",
-    "return": "38.10%",
+    "return": "40.25%",
     "ticker": "AGCB"
   },
   {
@@ -223,87 +223,87 @@
     "ipo_date_stockanalysis": "2020-09-18",
     "ipo_price": "10.00",
     "name": "Alpha Healthcare Acquisition",
-    "return": "2.30%",
+    "return": "2.32%",
     "ticker": "AHAC"
   },
   {
-    "current": "130.01",
+    "current": "126.11",
     "ipo_date_stockanalysis": "2020-12-09",
     "ipo_price": "42.00",
     "name": "C3.ai",
-    "return": "209.55%",
+    "return": "200.26%",
     "ticker": "AI"
   },
   {
-    "current": "4.99",
+    "current": "5.10",
     "ipo_date_stockanalysis": "2019-10-25",
     "ipo_price": "12.00",
     "name": "Aesthetic Medical International",
-    "return": "-58.42%",
+    "return": "-57.50%",
     "ticker": "AIH"
   },
   {
-    "current": "12.25",
+    "current": "12.57",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "10.00",
     "name": "Ajax I",
-    "return": "22.50%",
+    "return": "25.70%",
     "ticker": "AJAX"
   },
   {
-    "current": "10.51",
+    "current": "10.54",
     "ipo_date_stockanalysis": "2021-01-06",
     "ipo_price": "10.00",
     "name": "Sports Ventures Acquisition",
-    "return": "5.10%",
+    "return": "5.40%",
     "ticker": "AKIC"
   },
   {
-    "current": "29.89",
+    "current": "30.94",
     "ipo_date_stockanalysis": "2019-06-20",
     "ipo_price": "16.00",
     "name": "Akero Therapeutics",
-    "return": "86.81%",
+    "return": "93.34%",
     "ticker": "AKRO"
   },
   {
-    "current": "16.93",
+    "current": "16.81",
     "ipo_date_stockanalysis": "2020-06-26",
     "ipo_price": "17.00",
     "name": "Akouos",
-    "return": "-0.41%",
+    "return": "-1.12%",
     "ticker": "AKUS"
   },
   {
-    "current": "16.21",
+    "current": "16.52",
     "ipo_date_stockanalysis": "2019-02-07",
     "ipo_price": "19.00",
     "name": "Alector",
-    "return": "-14.68%",
+    "return": "-13.08%",
     "ticker": "ALEC"
   },
   {
-    "current": "34.10",
+    "current": "33.49",
     "ipo_date_stockanalysis": "2020-10-29",
     "ipo_price": "14.00",
     "name": "Allegro MicroSystems",
-    "return": "143.57%",
+    "return": "139.21%",
     "ticker": "ALGM"
   },
   {
-    "current": "34.20",
+    "current": "32.70",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "15.00",
     "name": "Aligos Therapeutics",
-    "return": "128.00%",
+    "return": "118.00%",
     "ticker": "ALGS"
   },
   {
-    "current": "27.69",
+    "current": "28.34",
     "ipo_date_stockanalysis": "2019-09-13",
     "ipo_price": "21.00",
     "name": "Alerus Financial",
-    "return": "31.86%",
+    "return": "34.95%",
     "ticker": "ALRS"
   },
   {
@@ -311,39 +311,39 @@
     "ipo_date_stockanalysis": "2020-12-09",
     "ipo_price": "10.00",
     "name": "Altitude Acquisition",
-    "return": "6.25%",
+    "return": "6.30%",
     "ticker": "ALTU"
   },
   {
-    "current": "10.40",
+    "current": "10.43",
     "ipo_date_stockanalysis": "2019-11-26",
     "ipo_price": "10.00",
     "name": "Alussa Energy Acquisition",
-    "return": "4.00%",
+    "return": "4.30%",
     "ticker": "ALUS"
   },
   {
-    "current": "45.04",
+    "current": "42.60",
     "ipo_date_stockanalysis": "2020-07-30",
     "ipo_price": "17.00",
     "name": "AlloVir",
-    "return": "164.94%",
+    "return": "150.56%",
     "ticker": "ALVR"
   },
   {
-    "current": "80.99",
+    "current": "82.35",
     "ipo_date_stockanalysis": "2020-07-17",
     "ipo_price": "19.00",
     "name": "ALX Oncology Holdings",
-    "return": "326.26%",
+    "return": "333.42%",
     "ticker": "ALXO"
   },
   {
-    "current": "10.33",
+    "current": "10.36",
     "ipo_date_stockanalysis": "2019-11-20",
     "ipo_price": "10.00",
     "name": "Amplitude Healthcare Acquisition",
-    "return": "3.30%",
+    "return": "3.60%",
     "ticker": "AMHC"
   },
   {
@@ -355,99 +355,99 @@
     "ticker": "AMK"
   },
   {
-    "current": "4.41",
+    "current": "4.37",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "5.00",
     "name": "Amesite",
-    "return": "-11.80%",
+    "return": "-12.70%",
     "ticker": "AMST"
   },
   {
-    "current": "36.24",
+    "current": "39.10",
     "ipo_date_stockanalysis": "2020-06-05",
     "ipo_price": "14.00",
     "name": "Applied Molecular Transport",
-    "return": "158.86%",
+    "return": "179.29%",
     "ticker": "AMTI"
   },
   {
-    "current": "29.16",
+    "current": "29.47",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "18.00",
     "name": "Amwell",
-    "return": "62.00%",
+    "return": "63.72%",
     "ticker": "AMWL"
   },
   {
-    "current": "2.56",
+    "current": "2.48",
     "ipo_date_stockanalysis": "2019-02-12",
     "ipo_price": "11.50",
     "name": "Anchiano Therapeutics",
-    "return": "-77.74%",
+    "return": "-78.43%",
     "ticker": "ANCN"
   },
   {
-    "current": "11.50",
+    "current": "11.37",
     "ipo_date_stockanalysis": "2019-01-29",
     "ipo_price": "10.00",
     "name": "Andina Acquisition III",
-    "return": "15.00%",
+    "return": "13.70%",
     "ticker": "ANDA"
   },
   {
-    "current": "25.23",
+    "current": "26.89",
     "ipo_date_stockanalysis": "2020-07-24",
     "ipo_price": "17.00",
     "name": "Annexon Biosciences",
-    "return": "48.41%",
+    "return": "58.18%",
     "ticker": "ANNX"
   },
   {
-    "current": "6.00",
+    "current": "5.93",
     "ipo_date_stockanalysis": "2020-01-30",
     "ipo_price": "12.00",
     "name": "AnPac Bio-Medical Science",
-    "return": "-50.00%",
+    "return": "-50.55%",
     "ticker": "ANPC"
   },
   {
-    "current": "10.15",
+    "current": "10.64",
     "ipo_date_stockanalysis": "2020-01-29",
     "ipo_price": "6.00",
     "name": "Annovis Bio",
-    "return": "69.17%",
+    "return": "77.33%",
     "ticker": "ANVS"
   },
   {
-    "current": "11.21",
+    "current": "11.15",
     "ipo_date_stockanalysis": "2020-08-18",
     "ipo_price": "10.00",
     "name": "One",
-    "return": "12.10%",
+    "return": "11.49%",
     "ticker": "AONE"
   },
   {
-    "current": "45.89",
+    "current": "46.43",
     "ipo_date_stockanalysis": "2020-06-26",
     "ipo_price": "20.00",
     "name": "Agora",
-    "return": "129.45%",
+    "return": "132.13%",
     "ticker": "API"
   },
   {
-    "current": "20.22",
+    "current": "19.80",
     "ipo_date_stockanalysis": "2019-05-14",
     "ipo_price": "10.00",
     "name": "Applied Therapeutics",
-    "return": "102.20%",
+    "return": "97.95%",
     "ticker": "APLT"
   },
   {
-    "current": "5.87",
+    "current": "5.73",
     "ipo_date_stockanalysis": "2019-10-03",
     "ipo_price": "15.00",
     "name": "Aprea Therapeutics",
-    "return": "-60.87%",
+    "return": "-61.83%",
     "ticker": "APRE"
   },
   {
@@ -459,51 +459,51 @@
     "ticker": "APSG"
   },
   {
-    "current": "15.69",
+    "current": "15.55",
     "ipo_date_stockanalysis": "2019-09-17",
     "ipo_price": "10.00",
     "name": "Apex Technology Acquisition",
-    "return": "56.90%",
+    "return": "55.50%",
     "ticker": "APXT"
   },
   {
-    "current": "10.32",
+    "current": "10.26",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "10.00",
     "name": "Aequi Acquisition",
-    "return": "3.20%",
+    "return": "2.60%",
     "ticker": "ARBG"
   },
   {
-    "current": "2.62",
+    "current": "2.78",
     "ipo_date_stockanalysis": "2019-02-15",
     "ipo_price": "4.00",
     "name": "American Resources",
-    "return": "-34.50%",
+    "return": "-30.63%",
     "ticker": "AREC"
   },
   {
-    "current": "27.22",
+    "current": "26.73",
     "ipo_date_stockanalysis": "2020-01-31",
     "ipo_price": "17.00",
     "name": "Arcutis Biotherapeutics",
-    "return": "60.12%",
+    "return": "57.24%",
     "ticker": "ARQT"
   },
   {
-    "current": "49.70",
+    "current": "50.85",
     "ipo_date_stockanalysis": "2020-10-15",
     "ipo_price": "22.00",
     "name": "Array Technologies",
-    "return": "125.91%",
+    "return": "131.11%",
     "ticker": "ARRY"
   },
   {
-    "current": "11.41",
+    "current": "11.49",
     "ipo_date_stockanalysis": "2020-08-07",
     "ipo_price": "10.00",
     "name": "Arya Sciences Acquisition III",
-    "return": "14.10%",
+    "return": "14.90%",
     "ticker": "ARYA"
   },
   {
@@ -515,35 +515,35 @@
     "ticker": "ARYB"
   },
   {
-    "current": "39.68",
+    "current": "38.93",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "21.00",
     "name": "Asana",
-    "return": "88.95%",
+    "return": "85.38%",
     "ticker": "ASAN"
   },
   {
-    "current": "10.33",
+    "current": "10.34",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "10.00",
     "name": "Atlantic Street Acquisition",
-    "return": "3.30%",
+    "return": "3.40%",
     "ticker": "ASAQ"
   },
   {
-    "current": "21.80",
+    "current": "22.45",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "13.00",
     "name": "Academy Sports and Outdoors",
-    "return": "67.69%",
+    "return": "72.69%",
     "ticker": "ASO"
   },
   {
-    "current": "10.25",
+    "current": "10.23",
     "ipo_date_stockanalysis": "2020-09-23",
     "ipo_price": "10.00",
     "name": "Aspirational Consumer Lifestyle Corp.",
-    "return": "2.45%",
+    "return": "2.25%",
     "ticker": "ASPL"
   },
   {
@@ -555,43 +555,43 @@
     "ticker": "ATA"
   },
   {
-    "current": "10.86",
+    "current": "10.95",
     "ipo_date_stockanalysis": "2020-10-23",
     "ipo_price": "10.00",
     "name": "Altimar Acquisition",
-    "return": "8.60%",
+    "return": "9.45%",
     "ticker": "ATAC"
   },
   {
-    "current": "20.27",
+    "current": "20.10",
     "ipo_date_stockanalysis": "2020-09-18",
     "ipo_price": "17.00",
     "name": "Athira Pharma",
-    "return": "19.24%",
+    "return": "18.24%",
     "ticker": "ATHA"
   },
   {
-    "current": "1.19",
+    "current": "1.12",
     "ipo_date_stockanalysis": "2019-05-03",
     "ipo_price": "5.00",
     "name": "ATIF Holdings",
-    "return": "-76.20%",
+    "return": "-77.60%",
     "ticker": "ATIF"
   },
   {
-    "current": "5.09",
+    "current": "5.29",
     "ipo_date_stockanalysis": "2020-08-31",
     "ipo_price": "5.00",
     "name": "Applied UV",
-    "return": "1.80%",
+    "return": "5.80%",
     "ticker": "AUVI"
   },
   {
-    "current": "10.97",
+    "current": "10.93",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "10.00",
     "name": "Avanti Acquisition",
-    "return": "9.70%",
+    "return": "9.30%",
     "ticker": "AVAN"
   },
   {
@@ -603,228 +603,228 @@
     "ticker": "AVDR"
   },
   {
-    "current": "54.15",
+    "current": "54.23",
     "ipo_date_stockanalysis": "2020-10-30",
     "ipo_price": "24.00",
     "name": "Atea Pharmaceuticals",
-    "return": "125.63%",
+    "return": "125.96%",
     "ticker": "AVIR"
   },
   {
-    "current": "16.31",
+    "current": "16.24",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "12.00",
     "name": "Mission Produce",
-    "return": "35.92%",
+    "return": "35.33%",
     "ticker": "AVO"
   },
   {
-    "current": "30.45",
+    "current": "30.60",
     "ipo_date_stockanalysis": "2019-05-17",
     "ipo_price": "14.00",
     "name": "Avantor",
-    "return": "117.50%",
+    "return": "118.54%",
     "ticker": "AVTR"
   },
   {
-    "current": "5.73",
+    "current": "5.97",
     "ipo_date_stockanalysis": "2019-05-09",
     "ipo_price": "20.00",
     "name": "Axcella Health",
-    "return": "-71.35%",
+    "return": "-70.15%",
     "ticker": "AXLA"
   },
   {
-    "current": "13.10",
+    "current": "13.27",
     "ipo_date_stockanalysis": "2020-05-08",
     "ipo_price": "15.00",
     "name": "Ayala Pharmaceuticals",
-    "return": "-12.67%",
+    "return": "-11.53%",
     "ticker": "AYLA"
   },
   {
-    "current": "41.13",
+    "current": "41.77",
     "ipo_date_stockanalysis": "2020-06-12",
     "ipo_price": "23.00",
     "name": "AZEK Company",
-    "return": "78.83%",
+    "return": "81.61%",
     "ticker": "AZEK"
   },
   {
-    "current": "14.89",
+    "current": "15.28",
     "ipo_date_stockanalysis": "2020-10-08",
     "ipo_price": "17.00",
     "name": "Aziyo Biologics",
-    "return": "-12.41%",
+    "return": "-10.12%",
     "ticker": "AZYO"
   },
   {
-    "current": "66.44",
+    "current": "69.39",
     "ipo_date_stockanalysis": "2019-06-27",
     "ipo_price": "17.00",
     "name": "BridgeBio Pharma",
-    "return": "290.82%",
+    "return": "308.18%",
     "ticker": "BBIO"
   },
   {
-    "current": "43.60",
+    "current": "45.71",
     "ipo_date_stockanalysis": "2020-12-16",
     "ipo_price": "18.00",
     "name": "BioAtla",
-    "return": "142.22%",
+    "return": "153.94%",
     "ticker": "BCAB"
   },
   {
-    "current": "14.90",
+    "current": "15.13",
     "ipo_date_stockanalysis": "2019-06-20",
     "ipo_price": "17.00",
     "name": "Atreca",
-    "return": "-12.35%",
+    "return": "-11.00%",
     "ticker": "BCEL"
   },
   {
-    "current": "9.94",
+    "current": "9.77",
     "ipo_date_stockanalysis": "2019-01-09",
     "ipo_price": "10.00",
     "name": "1895 Bancorp of Wisconsin",
-    "return": "-0.60%",
+    "return": "-2.30%",
     "ticker": "BCOW"
   },
   {
-    "current": "11.40",
+    "current": "11.41",
     "ipo_date_stockanalysis": "2020-09-03",
     "ipo_price": "10.00",
     "name": "BCTG Acquisition",
-    "return": "14.00%",
+    "return": "14.10%",
     "ticker": "BCTG"
   },
   {
-    "current": "27.14",
+    "current": "26.95",
     "ipo_date_stockanalysis": "2019-05-23",
     "ipo_price": "14.00",
     "name": "Bicycle Therapeutics",
-    "return": "93.86%",
+    "return": "92.50%",
     "ticker": "BCYC"
   },
   {
-    "current": "10.37",
+    "current": "10.38",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "Big Cypress Acquisition",
-    "return": "3.70%",
+    "return": "3.75%",
     "ticker": "BCYPU",
     "ticker_original": "BCYP"
   },
   {
-    "current": "29.05",
+    "current": "27.63",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "18.00",
     "name": "Biodesix",
-    "return": "61.39%",
+    "return": "53.47%",
     "ticker": "BDSX"
   },
   {
-    "current": "26.11",
+    "current": "26.08",
     "ipo_date_stockanalysis": "2020-01-30",
     "ipo_price": "19.00",
     "name": "Black Diamond Therapeutics",
-    "return": "37.42%",
+    "return": "37.24%",
     "ticker": "BDTX"
   },
   {
-    "current": "92.63",
+    "current": "99.19",
     "ipo_date_stockanalysis": "2020-02-06",
     "ipo_price": "17.00",
     "name": "Beam Therapeutics",
-    "return": "444.88%",
+    "return": "483.47%",
     "ticker": "BEAM"
   },
   {
-    "current": "73.40",
+    "current": "71.97",
     "ipo_date_stockanalysis": "2020-08-13",
     "ipo_price": "20.00",
     "name": "KE Holdings",
-    "return": "267.00%",
+    "return": "259.83%",
     "ticker": "BEKE"
   },
   {
-    "current": "10.61",
+    "current": "10.60",
     "ipo_date_stockanalysis": "2021-01-05",
     "ipo_price": "10.00",
     "name": "Benessere Capital Acquisition",
-    "return": "6.10%",
+    "return": "6.00%",
     "ticker": "BENE"
   },
   {
-    "current": "19.24",
+    "current": "18.86",
     "ipo_date_stockanalysis": "2020-08-19",
     "ipo_price": "10.00",
     "name": "Foley Trasimene Acquisition II",
-    "return": "92.40%",
+    "return": "88.55%",
     "ticker": "BFT"
   },
   {
-    "current": "1.27",
+    "current": "1.32",
     "ipo_date_stockanalysis": "2019-07-26",
     "ipo_price": "4.00",
     "name": "Blue Hat Interactive",
-    "return": "-68.25%",
+    "return": "-67.13%",
     "ticker": "BHAT"
   },
   {
-    "current": "10.13",
+    "current": "10.18",
     "ipo_date_stockanalysis": "2020-10-30",
     "ipo_price": "10.00",
     "name": "Bull Horn Holdings",
-    "return": "1.30%",
+    "return": "1.80%",
     "ticker": "BHSE"
   },
   {
-    "current": "71.32",
+    "current": "71.30",
     "ipo_date_stockanalysis": "2020-08-05",
     "ipo_price": "24.00",
     "name": "BigCommerce",
-    "return": "197.17%",
+    "return": "197.08%",
     "ticker": "BIGC"
   },
   {
-    "current": "130.17",
+    "current": "131.61",
     "ipo_date_stockanalysis": "2019-12-12",
     "ipo_price": "22.00",
     "name": "Bill.com",
-    "return": "491.68%",
+    "return": "498.23%",
     "ticker": "BILL"
   },
   {
-    "current": "10.28",
+    "current": "10.30",
     "ipo_date_stockanalysis": "2020-07-08",
     "ipo_price": "16.00",
     "name": "BlueCity Holdings",
-    "return": "-35.75%",
+    "return": "-35.66%",
     "ticker": "BLCT"
   },
   {
-    "current": "83.01",
+    "current": "81.47",
     "ipo_date_stockanalysis": "2020-07-17",
     "ipo_price": "22.00",
     "name": "Berkeley Lights",
-    "return": "277.32%",
+    "return": "270.30%",
     "ticker": "BLI"
   },
   {
-    "current": "11.09",
+    "current": "10.77",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "10.00",
     "name": "BCLS Acquisition",
-    "return": "10.90%",
+    "return": "7.70%",
     "ticker": "BLSA"
   },
   {
-    "current": "10.53",
+    "current": "10.55",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "Bright Lights Acquisition",
-    "return": "5.30%",
+    "return": "5.45%",
     "ticker": "BLTS"
   },
   {
@@ -844,43 +844,43 @@
     "ticker": "BMRG"
   },
   {
-    "current": "18.40",
+    "current": "18.22",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "17.00",
     "name": "Broadstone Net Lease",
-    "return": "8.24%",
+    "return": "7.18%",
     "ticker": "BNL"
   },
   {
-    "current": "36.95",
+    "current": "36.65",
     "ipo_date_stockanalysis": "2020-06-12",
     "ipo_price": "16.50",
     "name": "Burning Rock Biotech",
-    "return": "123.94%",
+    "return": "122.12%",
     "ticker": "BNR"
   },
   {
-    "current": "105.43",
+    "current": "108.26",
     "ipo_date_stockanalysis": "2019-10-10",
     "ipo_price": "15.00",
     "name": "BioNTech SE",
-    "return": "602.87%",
+    "return": "621.73%",
     "ticker": "BNTX"
   },
   {
-    "current": "11.31",
+    "current": "11.50",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "10.00",
     "name": "Bluescape Opportunities Acquisition",
-    "return": "13.10%",
+    "return": "14.95%",
     "ticker": "BOAC"
   },
   {
-    "current": "0.915",
+    "current": "0.903",
     "ipo_date_stockanalysis": "2019-07-31",
     "ipo_price": "9.30",
     "name": "Borr Drilling",
-    "return": "-90.16%",
+    "return": "-90.29%",
     "ticker": "BORR"
   },
   {
@@ -892,195 +892,195 @@
     "ticker": "BOWX"
   },
   {
-    "current": "9.52",
+    "current": "9.69",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "10.00",
     "name": "Boqii Holding",
-    "return": "-4.80%",
+    "return": "-3.10%",
     "ticker": "BQ"
   },
   {
-    "current": "24.70",
+    "current": "24.32",
     "ipo_date_stockanalysis": "2019-10-17",
     "ipo_price": "14.00",
     "name": "Bellring Brands",
-    "return": "76.43%",
+    "return": "73.71%",
     "ticker": "BRBR"
   },
   {
-    "current": "10.40",
+    "current": "10.39",
     "ipo_date_stockanalysis": "2020-11-23",
     "ipo_price": "10.00",
     "name": "Breeze Holdings Acquisition",
-    "return": "4.00%",
+    "return": "3.90%",
     "ticker": "BREZ"
   },
   {
-    "current": "10.19",
+    "current": "10.18",
     "ipo_date_stockanalysis": "2020-06-24",
     "ipo_price": "10.00",
     "name": "Brilliant Acquisition",
-    "return": "1.90%",
+    "return": "1.80%",
     "ticker": "BRLI"
   },
   {
-    "current": "26.92",
+    "current": "25.96",
     "ipo_date_stockanalysis": "2019-10-24",
     "ipo_price": "14.00",
     "name": "BRP Group",
-    "return": "92.29%",
+    "return": "85.43%",
     "ticker": "BRP"
   },
   {
-    "current": "10.25",
+    "current": "10.26",
     "ipo_date_stockanalysis": "2020-09-11",
     "ipo_price": "10.00",
     "name": "Broadstone Acquisition",
-    "return": "2.45%",
+    "return": "2.60%",
     "ticker": "BSN"
   },
   {
-    "current": "44.23",
+    "current": "45.94",
     "ipo_date_stockanalysis": "2020-09-23",
     "ipo_price": "22.00",
     "name": "Bentley Systems",
-    "return": "101.05%",
+    "return": "108.82%",
     "ticker": "BSY"
   },
   {
-    "current": "11.44",
+    "current": "11.42",
     "ipo_date_stockanalysis": "2020-08-27",
     "ipo_price": "10.00",
     "name": "Burgundy Technology Acquisition",
-    "return": "14.40%",
+    "return": "14.20%",
     "ticker": "BTAQ"
   },
   {
-    "current": "14.90",
+    "current": "14.63",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "10.00",
     "name": "Bridgetown Holdings",
-    "return": "49.00%",
+    "return": "46.30%",
     "ticker": "BTWN"
   },
   {
-    "current": "10.37",
+    "current": "10.44",
     "ipo_date_stockanalysis": "2020-11-13",
     "ipo_price": "10.00",
     "name": "Better World Acquisition",
-    "return": "3.70%",
+    "return": "4.40%",
     "ticker": "BWAC"
   },
   {
-    "current": "10.02",
+    "current": "10.00",
     "ipo_date_stockanalysis": "2019-04-17",
     "ipo_price": "11.00",
     "name": "Brainsway",
-    "return": "-8.91%",
+    "return": "-9.09%",
     "ticker": "BWAY"
   },
   {
-    "current": "134.61",
+    "current": "140.83",
     "ipo_date_stockanalysis": "2019-05-02",
     "ipo_price": "25.00",
     "name": "Beyond Meat",
-    "return": "438.44%",
+    "return": "463.32%",
     "ticker": "BYND"
   },
   {
-    "current": "12.76",
+    "current": "14.11",
     "ipo_date_stockanalysis": "2019-10-25",
     "ipo_price": "11.00",
     "name": "Cabaletta Bio",
-    "return": "16.00%",
+    "return": "28.27%",
     "ticker": "CABA"
   },
   {
-    "current": "31.58",
+    "current": "32.97",
     "ipo_date_stockanalysis": "2020-06-05",
     "ipo_price": "19.50",
     "name": "Calliditas Therapeutics",
-    "return": "61.95%",
+    "return": "69.08%",
     "ticker": "CALT"
   },
   {
-    "current": "4.80",
+    "current": "4.87",
     "ipo_date_stockanalysis": "2019-11-21",
     "ipo_price": "9.00",
     "name": "Canaan",
-    "return": "-46.67%",
+    "return": "-45.94%",
     "ticker": "CAN"
   },
   {
-    "current": "10.64",
+    "current": "10.70",
     "ipo_date_stockanalysis": "2020-12-02",
     "ipo_price": "10.00",
     "name": "Capitol Investment V",
-    "return": "6.35%",
+    "return": "7.00%",
     "ticker": "CAP"
   },
   {
-    "current": "10.36",
+    "current": "10.40",
     "ipo_date_stockanalysis": "2020-09-04",
     "ipo_price": "10.00",
     "name": "HighCape Capital Acquisition",
-    "return": "3.60%",
+    "return": "4.00%",
     "ticker": "CAPA"
   },
   {
-    "current": "10.20",
+    "current": "10.27",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "10.00",
     "name": "Cascade Acquisition",
-    "return": "2.00%",
+    "return": "2.70%",
     "ticker": "CAS"
   },
   {
-    "current": "10.65",
+    "current": "10.62",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "CBRE Acquisition",
-    "return": "6.50%",
+    "return": "6.20%",
     "ticker": "CBAH"
   },
   {
-    "current": "10.72",
+    "current": "10.85",
     "ipo_date_stockanalysis": "2020-02-11",
     "ipo_price": "10.00",
     "name": "CITIC Capital Acquisition",
-    "return": "7.20%",
+    "return": "8.45%",
     "ticker": "CCAC"
   },
   {
-    "current": "36.87",
+    "current": "39.56",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "19.00",
     "name": "C4 Therapeutics",
-    "return": "94.05%",
+    "return": "108.21%",
     "ticker": "CCCC"
   },
   {
-    "current": "17.81",
+    "current": "22.16",
     "ipo_date_stockanalysis": "2020-07-30",
     "ipo_price": "10.00",
     "name": "Churchill Capital Corp. IV",
-    "return": "78.10%",
+    "return": "121.60%",
     "ticker": "CCIV"
   },
   {
-    "current": "11.27",
+    "current": "11.29",
     "ipo_date_stockanalysis": "2020-12-16",
     "ipo_price": "10.00",
     "name": "Churchill Capital V",
-    "return": "12.70%",
+    "return": "12.90%",
     "ticker": "CCV"
   },
   {
-    "current": "10.64",
+    "current": "10.59",
     "ipo_date_stockanalysis": "2019-07-26",
     "ipo_price": "10.00",
     "name": "Churchill Capital Corp II",
-    "return": "6.40%",
+    "return": "5.90%",
     "ticker": "CCX"
   },
   {
@@ -1092,51 +1092,51 @@
     "ticker": "CCXX"
   },
   {
-    "current": "18.32",
+    "current": "18.10",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "13.50",
     "name": "Chindata Group",
-    "return": "35.70%",
+    "return": "34.07%",
     "ticker": "CD"
   },
   {
-    "current": "25.87",
+    "current": "26.55",
     "ipo_date_stockanalysis": "2020-10-14",
     "ipo_price": "15.00",
     "name": "Codiak BioSciences",
-    "return": "72.47%",
+    "return": "76.97%",
     "ticker": "CDAK"
   },
   {
-    "current": "37.23",
+    "current": "37.39",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "23.00",
     "name": "Certara",
-    "return": "61.87%",
+    "return": "62.54%",
     "ticker": "CERT"
   },
   {
-    "current": "12.06",
+    "current": "12.07",
     "ipo_date_stockanalysis": "2020-11-13",
     "ipo_price": "10.00",
     "name": "CF Finance Acquisition III",
-    "return": "20.60%",
+    "return": "20.70%",
     "ticker": "CFAC"
   },
   {
-    "current": "11.79",
+    "current": "12.08",
     "ipo_date_stockanalysis": "2019-08-15",
     "ipo_price": "14.50",
     "name": "CrossFirst Bankshares",
-    "return": "-18.69%",
+    "return": "-16.69%",
     "ticker": "CFB"
   },
   {
-    "current": "12.10",
+    "current": "12.18",
     "ipo_date_stockanalysis": "2020-08-27",
     "ipo_price": "10.00",
     "name": "CF Finance Acquisition II",
-    "return": "21.00%",
+    "return": "21.80%",
     "ticker": "CFII"
   },
   {
@@ -1148,19 +1148,19 @@
     "ticker": "CFIV"
   },
   {
-    "current": "38.18",
+    "current": "38.17",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "21.00",
     "name": "Cullinan Management",
-    "return": "81.81%",
+    "return": "81.76%",
     "ticker": "CGEM"
   },
   {
-    "current": "13.50",
+    "current": "13.44",
     "ipo_date_stockanalysis": "2020-05-01",
     "ipo_price": "10.00",
     "name": "Collective Growth",
-    "return": "35.00%",
+    "return": "34.35%",
     "ticker": "CGRO"
   },
   {
@@ -1172,51 +1172,51 @@
     "ticker": "CHAQ"
   },
   {
-    "current": "10.32",
+    "current": "10.35",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "10.00",
     "name": "Consonance-HFW Acquisition",
-    "return": "3.20%",
+    "return": "3.50%",
     "ticker": "CHFW"
   },
   {
-    "current": "24.05",
+    "current": "24.04",
     "ipo_date_stockanalysis": "2019-06-27",
     "ipo_price": "13.00",
     "name": "Change Healthcare",
-    "return": "85.00%",
+    "return": "84.88%",
     "ticker": "CHNG"
   },
   {
-    "current": "10.55",
+    "current": "10.44",
     "ipo_date_stockanalysis": "2019-11-22",
     "ipo_price": "10.00",
     "name": "CHP Merger",
-    "return": "5.50%",
+    "return": "4.40%",
     "ticker": "CHPM"
   },
   {
-    "current": "105.10",
+    "current": "104.79",
     "ipo_date_stockanalysis": "2019-06-14",
     "ipo_price": "22.00",
     "name": "Chewy",
-    "return": "377.73%",
+    "return": "376.32%",
     "ticker": "CHWY"
   },
   {
-    "current": "28.23",
+    "current": "28.22",
     "ipo_date_stockanalysis": "2019-12-13",
     "ipo_price": "10.00",
     "name": "CIIG Merger",
-    "return": "182.30%",
+    "return": "182.15%",
     "ticker": "CIIC"
   },
   {
-    "current": "13.24",
+    "current": "13.28",
     "ipo_date_stockanalysis": "2020-08-21",
     "ipo_price": "10.00",
     "name": "Colonnade Acquisition",
-    "return": "32.40%",
+    "return": "32.75%",
     "ticker": "CLA"
   },
   {
@@ -1229,91 +1229,91 @@
     "ticker_original": "CLAS"
   },
   {
-    "current": "3.81",
+    "current": "3.89",
     "ipo_date_stockanalysis": "2020-05-08",
     "ipo_price": "6.00",
     "name": "China Liberal Education Holdings",
-    "return": "-36.50%",
+    "return": "-35.17%",
     "ticker": "CLEU"
   },
   {
-    "current": "13.34",
+    "current": "21.99",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "10.00",
     "name": "Climate Change Crisis Real Impact I",
-    "return": "33.40%",
+    "return": "119.90%",
     "ticker": "CLII"
   },
   {
-    "current": "31.64",
+    "current": "34.32",
     "ipo_date_stockanalysis": "2019-06-26",
     "ipo_price": "12.00",
     "name": "Cambium Networks",
-    "return": "163.67%",
+    "return": "186.00%",
     "ticker": "CMBM"
   },
   {
-    "current": "12.01",
+    "current": "12.18",
     "ipo_date_stockanalysis": "2020-09-02",
     "ipo_price": "10.00",
     "name": "CM Life Sciences",
-    "return": "20.10%",
+    "return": "21.80%",
     "ticker": "CMLF"
   },
   {
-    "current": "14.01",
+    "current": "14.89",
     "ipo_date_stockanalysis": "2020-08-07",
     "ipo_price": "15.00",
     "name": "Checkmate Pharmaceuticals",
-    "return": "-6.60%",
+    "return": "-0.73%",
     "ticker": "CMPI"
   },
   {
-    "current": "44.93",
+    "current": "48.05",
     "ipo_date_stockanalysis": "2020-09-18",
     "ipo_price": "17.00",
     "name": "COMPASS Pathways",
-    "return": "164.29%",
+    "return": "182.65%",
     "ticker": "CMPS"
   },
   {
-    "current": "10.74",
+    "current": "10.90",
     "ipo_date_stockanalysis": "2020-12-08",
     "ipo_price": "10.00",
     "name": "Concord Acquisition",
-    "return": "7.40%",
+    "return": "9.00%",
     "ticker": "CND"
   },
   {
-    "current": "2.02",
+    "current": "2.05",
     "ipo_date_stockanalysis": "2019-11-08",
     "ipo_price": "4.00",
     "name": "CNS Pharmaceuticals",
-    "return": "-49.50%",
+    "return": "-48.88%",
     "ticker": "CNSP"
   },
   {
-    "current": "12.05",
+    "current": "12.15",
     "ipo_date_stockanalysis": "2019-11-07",
     "ipo_price": "14.00",
     "name": "Centogene",
-    "return": "-13.93%",
+    "return": "-13.25%",
     "ticker": "CNTG"
   },
   {
-    "current": "10.48",
+    "current": "10.49",
     "ipo_date_stockanalysis": "2020-10-30",
     "ipo_price": "10.00",
     "name": "CONX Corp.",
-    "return": "4.80%",
+    "return": "4.90%",
     "ticker": "CONX"
   },
   {
-    "current": "10.66",
+    "current": "10.80",
     "ipo_date_stockanalysis": "2020-12-17",
     "ipo_price": "10.00",
     "name": "Corner Growth Acquisition",
-    "return": "6.60%",
+    "return": "8.00%",
     "ticker": "COOL"
   },
   {
@@ -1333,115 +1333,115 @@
     "ticker": "CPSR"
   },
   {
-    "current": "10.69",
+    "current": "10.74",
     "ipo_date_stockanalysis": "2020-09-09",
     "ipo_price": "10.00",
     "name": "Cohn Robbins Holdings",
-    "return": "6.90%",
+    "return": "7.40%",
     "ticker": "CRHC"
   },
   {
-    "current": "10.72",
+    "current": "10.76",
     "ipo_date_stockanalysis": "2019-03-08",
     "ipo_price": "10.00",
     "name": "Crescent Acquisition",
-    "return": "7.20%",
+    "return": "7.60%",
     "ticker": "CRSA"
   },
   {
-    "current": "36.73",
+    "current": "38.43",
     "ipo_date_stockanalysis": "2020-09-23",
     "ipo_price": "17.00",
     "name": "Corsair Gaming",
-    "return": "116.06%",
+    "return": "126.06%",
     "ticker": "CRSR"
   },
   {
-    "current": "31.76",
+    "current": "32.00",
     "ipo_date_stockanalysis": "2019-05-09",
     "ipo_price": "17.00",
     "name": "Cortexyme",
-    "return": "86.82%",
+    "return": "88.24%",
     "ticker": "CRTX"
   },
   {
-    "current": "10.76",
+    "current": "10.83",
     "ipo_date_stockanalysis": "2021-01-05",
     "ipo_price": "10.00",
     "name": "Crucible Acquisition",
-    "return": "7.55%",
+    "return": "8.30%",
     "ticker": "CRU"
   },
   {
-    "current": "221.00",
+    "current": "223.60",
     "ipo_date_stockanalysis": "2019-06-12",
     "ipo_price": "34.00",
     "name": "CrowdStrike",
-    "return": "550.00%",
+    "return": "557.65%",
     "ticker": "CRWD"
   },
   {
-    "current": "7.28",
+    "current": "7.64",
     "ipo_date_stockanalysis": "2020-02-06",
     "ipo_price": "12.00",
     "name": "Casper Sleep",
-    "return": "-39.33%",
+    "return": "-36.33%",
     "ticker": "CSPR"
   },
   {
-    "current": "80.68",
+    "current": "79.40",
     "ipo_date_stockanalysis": "2019-07-25",
     "ipo_price": "16.00",
     "name": "Castle Biosciences",
-    "return": "404.25%",
+    "return": "396.25%",
     "ticker": "CSTL"
   },
   {
-    "current": "10.43",
+    "current": "10.46",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "10.00",
     "name": "Cerberus Telecom Acquisition",
-    "return": "4.30%",
+    "return": "4.60%",
     "ticker": "CTAC"
   },
   {
-    "current": "10.72",
+    "current": "10.84",
     "ipo_date_stockanalysis": "2020-12-10",
     "ipo_price": "10.00",
     "name": "Carney Technology Acquisition II",
-    "return": "7.15%",
+    "return": "8.40%",
     "ticker": "CTAQ"
   },
   {
-    "current": "101.07",
+    "current": "102.07",
     "ipo_date_stockanalysis": "2020-08-14",
     "ipo_price": "16.00",
     "name": "CureVac",
-    "return": "531.69%",
+    "return": "537.94%",
     "ticker": "CVAC"
   },
   {
-    "current": "42.91",
+    "current": "44.88",
     "ipo_date_stockanalysis": "2020-06-05",
     "ipo_price": "16.00",
     "name": "Dada Nexus",
-    "return": "168.19%",
+    "return": "180.50%",
     "ticker": "DADA"
   },
   {
-    "current": "32.55",
+    "current": "34.60",
     "ipo_date_stockanalysis": "2019-10-25",
     "ipo_price": "17.00",
     "name": "Youdao",
-    "return": "91.47%",
+    "return": "103.53%",
     "ticker": "DAO"
   },
   {
-    "current": "190.89",
+    "current": "192.10",
     "ipo_date_stockanalysis": "2020-12-09",
     "ipo_price": "102.00",
     "name": "DoorDash",
-    "return": "87.15%",
+    "return": "88.33%",
     "ticker": "DASH"
   },
   {
@@ -1453,124 +1453,124 @@
     "ticker": "DBDR"
   },
   {
-    "current": "49.67",
+    "current": "53.48",
     "ipo_date_stockanalysis": "2020-12-03",
     "ipo_price": "52.21",
     "name": "Docebo",
-    "return": "-4.86%",
+    "return": "2.43%",
     "ticker": "DCBO"
   },
   {
-    "current": "12.35",
+    "current": "13.52",
     "ipo_date_stockanalysis": "2020-10-20",
     "ipo_price": "10.00",
     "name": "Decarbonization Plus Acquisition",
-    "return": "23.50%",
+    "return": "35.15%",
     "ticker": "DCRB"
   },
   {
-    "current": "50.21",
+    "current": "49.85",
     "ipo_date_stockanalysis": "2020-08-14",
     "ipo_price": "27.00",
     "name": "Duck Creek Technologies",
-    "return": "85.96%",
+    "return": "84.61%",
     "ticker": "DCT"
   },
   {
-    "current": "10.62",
+    "current": "10.70",
     "ipo_date_stockanalysis": "2020-12-08",
     "ipo_price": "10.00",
     "name": "DD3 Acquisition II",
-    "return": "6.20%",
+    "return": "7.00%",
     "ticker": "DDMX"
   },
   {
-    "current": "103.34",
+    "current": "105.06",
     "ipo_date_stockanalysis": "2019-09-19",
     "ipo_price": "27.00",
     "name": "Datadog",
-    "return": "282.74%",
+    "return": "289.11%",
     "ticker": "DDOG"
   },
   {
-    "current": "10.32",
+    "current": "10.29",
     "ipo_date_stockanalysis": "2020-07-15",
     "ipo_price": "10.00",
     "name": "D8 Holdings",
-    "return": "3.20%",
+    "return": "2.90%",
     "ticker": "DEH"
   },
   {
-    "current": "20.95",
+    "current": "21.37",
     "ipo_date_stockanalysis": "2021-01-21",
     "ipo_price": "13.00",
     "name": "Dream Finders Homes",
-    "return": "61.15%",
+    "return": "64.35%",
     "ticker": "DFH"
   },
   {
-    "current": "15.86",
+    "current": "16.11",
     "ipo_date_stockanalysis": "2020-07-17",
     "ipo_price": "10.00",
     "name": "Deerfield Healthcare Technology Acquisitions",
-    "return": "58.60%",
+    "return": "61.10%",
     "ticker": "DFHT"
   },
   {
-    "current": "10.84",
+    "current": "10.80",
     "ipo_date_stockanalysis": "2019-11-07",
     "ipo_price": "10.00",
     "name": "LGL Systems Acquisition",
-    "return": "8.40%",
+    "return": "8.00%",
     "ticker": "DFNS"
   },
   {
-    "current": "11.09",
+    "current": "11.02",
     "ipo_date_stockanalysis": "2020-03-11",
     "ipo_price": "10.00",
     "name": "DFP Healthcare Acquisitions",
-    "return": "10.90%",
+    "return": "10.20%",
     "ticker": "DFPH"
   },
   {
-    "current": "14.55",
+    "current": "14.42",
     "ipo_date_stockanalysis": "2020-08-14",
     "ipo_price": "10.00",
     "name": "Dragoneer Growth Opportunities",
-    "return": "45.50%",
+    "return": "44.20%",
     "ticker": "DGNR"
   },
   {
-    "current": "12.78",
+    "current": "12.96",
     "ipo_date_stockanalysis": "2020-11-17",
     "ipo_price": "10.00",
     "name": "Dragoneer Growth Opportunities II",
-    "return": "27.80%",
+    "return": "29.60%",
     "ticker": "DGNS"
   },
   {
-    "current": "10.85",
+    "current": "10.73",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Deep Lake Capital Acquisition",
-    "return": "8.50%",
+    "return": "7.25%",
     "ticker": "DLCAU",
     "ticker_original": "DLCA"
   },
   {
-    "current": "20.62",
+    "current": "20.15",
     "ipo_date_stockanalysis": "2020-08-14",
     "ipo_price": "10.00",
     "name": "dMY Technology Group II",
-    "return": "106.20%",
+    "return": "101.50%",
     "ticker": "DMYD"
   },
   {
-    "current": "11.50",
+    "current": "11.97",
     "ipo_date_stockanalysis": "2020-11-13",
     "ipo_price": "10.00",
     "name": "dMY Technology Group III",
-    "return": "15.00%",
+    "return": "19.70%",
     "ticker": "DMYI"
   },
   {
@@ -1582,27 +1582,27 @@
     "ticker": "DMYT"
   },
   {
-    "current": "24.98",
+    "current": "24.74",
     "ipo_date_stockanalysis": "2020-07-01",
     "ipo_price": "22.00",
     "name": "Dun & Bradstreet",
-    "return": "13.55%",
+    "return": "12.43%",
     "ticker": "DNB"
   },
   {
-    "current": "2.89",
+    "current": "2.86",
     "ipo_date_stockanalysis": "2020-01-17",
     "ipo_price": "13.50",
     "name": "Phoenix Tree Holdings",
-    "return": "-78.59%",
+    "return": "-78.79%",
     "ticker": "DNK"
   },
   {
-    "current": "12.54",
+    "current": "12.80",
     "ipo_date_stockanalysis": "2019-07-17",
     "ipo_price": "11.50",
     "name": "DouYu",
-    "return": "9.04%",
+    "return": "11.30%",
     "ticker": "DOYU"
   },
   {
@@ -1614,51 +1614,51 @@
     "ticker": "DPHC"
   },
   {
-    "current": "29.25",
+    "current": "29.84",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "22.00",
     "name": "Driven Brands",
-    "return": "32.95%",
+    "return": "35.61%",
     "ticker": "DRVN"
   },
   {
-    "current": "10.26",
+    "current": "10.29",
     "ipo_date_stockanalysis": "2020-10-29",
     "ipo_price": "10.00",
     "name": "Duddell Street Acquisition",
-    "return": "2.60%",
+    "return": "2.85%",
     "ticker": "DSAC"
   },
   {
-    "current": "46.01",
+    "current": "45.09",
     "ipo_date_stockanalysis": "2019-08-01",
     "ipo_price": "16.00",
     "name": "Dynatrace",
-    "return": "187.56%",
+    "return": "181.78%",
     "ticker": "DT"
   },
   {
-    "current": "13.58",
+    "current": "13.20",
     "ipo_date_stockanalysis": "2019-03-28",
     "ipo_price": "16.00",
     "name": "Precision BioSciences",
-    "return": "-15.13%",
+    "return": "-17.50%",
     "ticker": "DTIL"
   },
   {
-    "current": "10.96",
+    "current": "11.11",
     "ipo_date_stockanalysis": "2020-12-18",
     "ipo_price": "10.00",
     "name": "Dune Acquisition",
-    "return": "9.60%",
+    "return": "11.10%",
     "ticker": "DUNE"
   },
   {
-    "current": "8.61",
+    "current": "8.80",
     "ipo_date_stockanalysis": "2019-11-01",
     "ipo_price": "13.00",
     "name": "Fangdd Network Group",
-    "return": "-33.77%",
+    "return": "-32.31%",
     "ticker": "DUO"
   },
   {
@@ -1670,118 +1670,118 @@
     "ticker": "DWIN"
   },
   {
-    "current": "21.24",
+    "current": "20.30",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "19.00",
     "name": "Dyne Therapeutics",
-    "return": "11.79%",
+    "return": "6.84%",
     "ticker": "DYN"
   },
   {
-    "current": "10.39",
+    "current": "10.40",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "Edify Acquisition",
-    "return": "3.90%",
+    "return": "4.00%",
     "ticker": "EACPU",
     "ticker_original": "EAC"
   },
   {
-    "current": "56.67",
+    "current": "62.71",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "18.00",
     "name": "Eargo",
-    "return": "214.83%",
+    "return": "248.39%",
     "ticker": "EAR"
   },
   {
-    "current": "16.15",
+    "current": "16.21",
     "ipo_date_stockanalysis": "2020-10-15",
     "ipo_price": "10.00",
     "name": "Eastern Bankshares",
-    "return": "61.50%",
+    "return": "62.10%",
     "ticker": "EBC"
   },
   {
-    "current": "5.12",
+    "current": "5.13",
     "ipo_date_stockanalysis": "2020-06-26",
     "ipo_price": "5.23",
     "name": "Ebang International",
-    "return": "-2.10%",
+    "return": "-2.01%",
     "ticker": "EBON"
   },
   {
-    "current": "3.34",
+    "current": "3.39",
     "ipo_date_stockanalysis": "2020-07-23",
     "ipo_price": "5.00",
     "name": "Skillful Craftsman",
-    "return": "-33.20%",
+    "return": "-32.28%",
     "ticker": "EDTK"
   },
   {
-    "current": "10.60",
+    "current": "10.55",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "EdtechX Holdings Acquisition II",
-    "return": "6.00%",
+    "return": "5.50%",
     "ticker": "EDTX"
   },
   {
-    "current": "75.39",
+    "current": "77.71",
     "ipo_date_stockanalysis": "2019-12-12",
     "ipo_price": "12.50",
     "name": "EHang Holdings",
-    "return": "503.12%",
+    "return": "521.68%",
     "ticker": "EH"
   },
   {
-    "current": "15.17",
+    "current": "15.13",
     "ipo_date_stockanalysis": "2019-07-24",
     "ipo_price": "19.00",
     "name": "Eagle Point Income",
-    "return": "-20.15%",
+    "return": "-20.39%",
     "ticker": "EIC"
   },
   {
-    "current": "10.19",
+    "current": "10.21",
     "ipo_date_stockanalysis": "2020-10-07",
     "ipo_price": "10.00",
     "name": "Empower",
-    "return": "1.90%",
+    "return": "2.10%",
     "ticker": "EMPW"
   },
   {
-    "current": "10.37",
+    "current": "10.41",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "890 5th Avenue Partners",
-    "return": "3.70%",
+    "return": "4.10%",
     "ticker": "ENFAU",
     "ticker_original": "ENFA"
   },
   {
-    "current": "25.68",
+    "current": "25.72",
     "ipo_date_stockanalysis": "2020-09-16",
     "ipo_price": "25.00",
     "name": "Executive Network Partnering",
-    "return": "2.72%",
+    "return": "2.88%",
     "ticker": "ENPC"
   },
   {
-    "current": "10.74",
+    "current": "10.82",
     "ipo_date_stockanalysis": "2021-01-14",
     "ipo_price": "10.00",
     "name": "Environmental Impact Acquisition",
-    "return": "7.40%",
+    "return": "8.20%",
     "ticker": "ENVIU",
     "ticker_original": "ENVI"
   },
   {
-    "current": "10.97",
+    "current": "11.01",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Epiphany Technology Acquisition",
-    "return": "9.70%",
+    "return": "10.05%",
     "ticker": "EPHY"
   },
   {
@@ -1793,43 +1793,43 @@
     "ticker": "EPWR"
   },
   {
-    "current": "10.66",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-09-16",
     "ipo_price": "10.00",
     "name": "Equity Distribution Acquisition",
-    "return": "6.60%",
+    "return": "5.00%",
     "ticker": "EQD"
   },
   {
-    "current": "10.50",
+    "current": "10.54",
     "ipo_date_stockanalysis": "2020-07-23",
     "ipo_price": "10.00",
     "name": "East Resources Acquisition",
-    "return": "5.00%",
+    "return": "5.40%",
     "ticker": "ERES"
   },
   {
-    "current": "10.10",
+    "current": "10.08",
     "ipo_date_stockanalysis": "2020-02-20",
     "ipo_price": "10.00",
     "name": "East Stone Acquisition",
-    "return": "1.00%",
+    "return": "0.80%",
     "ticker": "ESSC"
   },
   {
-    "current": "10.58",
+    "current": "10.85",
     "ipo_date_stockanalysis": "2020-07-31",
     "ipo_price": "10.00",
     "name": "E.merge Technology Acquisition",
-    "return": "5.80%",
+    "return": "8.50%",
     "ticker": "ETAC"
   },
   {
-    "current": "20.69",
+    "current": "20.62",
     "ipo_date_stockanalysis": "2019-11-11",
     "ipo_price": "16.00",
     "name": "89bio",
-    "return": "29.31%",
+    "return": "28.88%",
     "ticker": "ETNB"
   },
   {
@@ -1841,44 +1841,53 @@
     "ticker": "EUCR"
   },
   {
-    "current": "15.16",
+    "current": "11.20",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "10.00",
+    "name": "European Sustainable Growth Acquisition",
+    "return": "12.00%",
+    "ticker": "EUSGU",
+    "ticker_original": "EUSG"
+  },
+  {
+    "current": "14.85",
     "ipo_date_stockanalysis": "2019-09-13",
     "ipo_price": "10.00",
     "name": "Experience Investment",
-    "return": "51.60%",
+    "return": "48.50%",
     "ticker": "EXPC"
   },
   {
-    "current": "11.89",
+    "current": "11.90",
     "ipo_date_stockanalysis": "2020-08-12",
     "ipo_price": "10.00",
     "name": "Fortress Value Acquisition II",
-    "return": "18.90%",
+    "return": "19.00%",
     "ticker": "FAII"
   },
   {
-    "current": "11.00",
+    "current": "10.92",
     "ipo_date_stockanalysis": "2020-09-22",
     "ipo_price": "10.00",
     "name": "Falcon Capital Acquisition",
-    "return": "10.00%",
+    "return": "9.15%",
     "ticker": "FCAC"
   },
   {
-    "current": "10.92",
+    "current": "10.82",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Fortress Capital Acquisition",
-    "return": "9.20%",
+    "return": "8.15%",
     "ticker": "FCAX",
     "ticker_original": "FCAX"
   },
   {
-    "current": "46.71",
+    "current": "47.39",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "23.00",
     "name": "4D Molecular Therapeutics",
-    "return": "103.09%",
+    "return": "106.02%",
     "ticker": "FDMT"
   },
   {
@@ -1890,44 +1899,44 @@
     "ticker": "FEAC"
   },
   {
-    "current": "10.92",
+    "current": "10.97",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "10.00",
     "name": "FG New America Acquisition",
-    "return": "9.20%",
+    "return": "9.70%",
     "ticker": "FGNA"
   },
   {
-    "current": "19.46",
+    "current": "20.91",
     "ipo_date_stockanalysis": "2020-10-23",
     "ipo_price": "16.00",
     "name": "Foghorn Therapeutics",
-    "return": "21.63%",
+    "return": "30.69%",
     "ticker": "FHTX"
   },
   {
-    "current": "12.80",
+    "current": "13.10",
     "ipo_date_stockanalysis": "2020-08-18",
     "ipo_price": "10.00",
     "name": "Forum Merger III",
-    "return": "28.00%",
+    "return": "31.00%",
     "ticker": "FIII"
   },
   {
-    "current": "10.55",
+    "current": "10.57",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Marlin Technology",
-    "return": "5.50%",
+    "return": "5.65%",
     "ticker": "FINMU",
     "ticker_original": "FINM"
   },
   {
-    "current": "11.12",
+    "current": "11.02",
     "ipo_date_stockanalysis": "2020-12-09",
     "ipo_price": "10.00",
     "name": "Frazier Lifesciences Acquisition",
-    "return": "11.20%",
+    "return": "10.20%",
     "ticker": "FLAC"
   },
   {
@@ -1939,100 +1948,100 @@
     "ticker": "FLLC"
   },
   {
-    "current": "10.97",
+    "current": "10.95",
     "ipo_date_stockanalysis": "2020-10-06",
     "ipo_price": "10.00",
     "name": "FirstMark Horizon Acquisition",
-    "return": "9.70%",
+    "return": "9.50%",
     "ticker": "FMAC"
   },
   {
-    "current": "36.38",
+    "current": "38.73",
     "ipo_date_stockanalysis": "2020-06-19",
     "ipo_price": "20.00",
     "name": "Forma Therapeutics",
-    "return": "81.90%",
+    "return": "93.63%",
     "ticker": "FMTX"
   },
   {
-    "current": "70.32",
+    "current": "71.17",
     "ipo_date_stockanalysis": "2020-06-05",
     "ipo_price": "23.00",
     "name": "Shift4 Payments",
-    "return": "205.74%",
+    "return": "209.43%",
     "ticker": "FOUR"
   },
   {
-    "current": "10.39",
+    "current": "10.60",
     "ipo_date_stockanalysis": "2021-01-20",
     "ipo_price": "10.00",
     "name": "FoxWayne Enterprises Acquisition",
-    "return": "3.90%",
+    "return": "6.00%",
     "ticker": "FOXWU",
     "ticker_original": "FOXW"
   },
   {
-    "current": "11.20",
+    "current": "10.45",
     "ipo_date_stockanalysis": "2020-12-03",
     "ipo_price": "10.00",
     "name": "Far Peak Acquisition",
-    "return": "12.00%",
+    "return": "4.45%",
     "ticker": "FPAC"
   },
   {
-    "current": "35.80",
+    "current": "38.56",
     "ipo_date_stockanalysis": "2019-10-03",
     "ipo_price": "14.00",
     "name": "Frequency Therapeutics",
-    "return": "155.71%",
+    "return": "175.39%",
     "ticker": "FREQ"
   },
   {
-    "current": "18.10",
+    "current": "17.81",
     "ipo_date_stockanalysis": "2020-08-07",
     "ipo_price": "18.00",
     "name": "Freeline Therapeutics",
-    "return": "0.56%",
+    "return": "-1.06%",
     "ticker": "FRLN"
   },
   {
-    "current": "63.54",
+    "current": "64.75",
     "ipo_date_stockanalysis": "2020-09-16",
     "ipo_price": "44.00",
     "name": "JFrog",
-    "return": "44.41%",
+    "return": "47.16%",
     "ticker": "FROG"
   },
   {
-    "current": "10.58",
+    "current": "10.62",
     "ipo_date_stockanalysis": "2020-11-25",
     "ipo_price": "10.00",
     "name": "Forest Road Acquisition",
-    "return": "5.80%",
+    "return": "6.16%",
     "ticker": "FRX"
   },
   {
-    "current": "12.55",
+    "current": "12.75",
     "ipo_date_stockanalysis": "2020-08-12",
     "ipo_price": "10.00",
     "name": "FS Development",
-    "return": "25.50%",
+    "return": "27.50%",
     "ticker": "FSDC"
   },
   {
-    "current": "104.13",
+    "current": "103.26",
     "ipo_date_stockanalysis": "2019-05-17",
     "ipo_price": "16.00",
     "name": "Fastly",
-    "return": "550.81%",
+    "return": "545.38%",
     "ticker": "FSLY"
   },
   {
-    "current": "17.60",
+    "current": "17.97",
     "ipo_date_stockanalysis": "2019-11-01",
     "ipo_price": "10.00",
     "name": "Finserv Acquisition",
-    "return": "76.00%",
+    "return": "79.70%",
     "ticker": "FSRV"
   },
   {
@@ -2044,75 +2053,75 @@
     "ticker": "FST"
   },
   {
-    "current": "11.14",
+    "current": "11.32",
     "ipo_date_stockanalysis": "2020-12-04",
     "ipo_price": "10.00",
     "name": "FinTech Acquisition V",
-    "return": "11.40%",
+    "return": "13.20%",
     "ticker": "FTCV"
   },
   {
-    "current": "40.85",
+    "current": "41.72",
     "ipo_date_stockanalysis": "2020-07-31",
     "ipo_price": "10.00",
     "name": "Fathom Holdings",
-    "return": "308.50%",
+    "return": "317.20%",
     "ticker": "FTHM"
   },
   {
-    "current": "12.20",
+    "current": "12.48",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "10.00",
     "name": "FinTech Acquisition IV",
-    "return": "22.00%",
+    "return": "24.80%",
     "ticker": "FTIV"
   },
   {
-    "current": "13.01",
+    "current": "13.28",
     "ipo_date_stockanalysis": "2020-08-26",
     "ipo_price": "10.00",
     "name": "FTAC Olympus Acquisition",
-    "return": "30.10%",
+    "return": "32.80%",
     "ticker": "FTOC"
   },
   {
-    "current": "35.50",
+    "current": "37.73",
     "ipo_date_stockanalysis": "2020-10-08",
     "ipo_price": "10.00",
     "name": "FuboTV",
-    "return": "255.00%",
+    "return": "277.30%",
     "ticker": "FUBO"
   },
   {
-    "current": "13.79",
+    "current": "13.72",
     "ipo_date_stockanalysis": "2019-07-18",
     "ipo_price": "16.00",
     "name": "Fulcrum Therapeutics",
-    "return": "-13.81%",
+    "return": "-14.25%",
     "ticker": "FULC"
   },
   {
-    "current": "12.18",
+    "current": "12.20",
     "ipo_date_stockanalysis": "2020-06-26",
     "ipo_price": "10.00",
     "name": "Fusion Acquisition",
-    "return": "21.80%",
+    "return": "22.00%",
     "ticker": "FUSE"
   },
   {
-    "current": "12.75",
+    "current": "12.61",
     "ipo_date_stockanalysis": "2020-06-26",
     "ipo_price": "17.00",
     "name": "Fusion Pharmaceuticals",
-    "return": "-25.00%",
+    "return": "-25.82%",
     "ticker": "FUSN"
   },
   {
-    "current": "98.91",
+    "current": "99.84",
     "ipo_date_stockanalysis": "2019-03-08",
     "ipo_price": "12.00",
     "name": "Futu Holdings",
-    "return": "724.25%",
+    "return": "732.00%",
     "ticker": "FUTU"
   },
   {
@@ -2124,83 +2133,83 @@
     "ticker": "FVAC"
   },
   {
-    "current": "10.55",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-10-14",
     "ipo_price": "10.00",
     "name": "5:01 Acquisition",
-    "return": "5.50%",
+    "return": "5.00%",
     "ticker": "FVAM"
   },
   {
-    "current": "241.67",
+    "current": "244.19",
     "ipo_date_stockanalysis": "2019-06-13",
     "ipo_price": "21.00",
     "name": "Fiverr International",
-    "return": "1,051%",
+    "return": "1,063%",
     "ticker": "FVRR"
   },
   {
-    "current": "11.00",
+    "current": "11.40",
     "ipo_date_stockanalysis": "2021-01-05",
     "ipo_price": "10.00",
     "name": "Fortress Value Acquisition III",
-    "return": "10.00%",
+    "return": "14.00%",
     "ticker": "FVT"
   },
   {
-    "current": "23.85",
+    "current": "23.09",
     "ipo_date_stockanalysis": "2020-05-05",
     "ipo_price": "8.50",
     "name": "GAN Limited",
-    "return": "180.59%",
+    "return": "171.65%",
     "ticker": "GAN"
   },
   {
-    "current": "12.76",
+    "current": "12.67",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "7.00",
     "name": "Gatos Silver",
-    "return": "82.29%",
+    "return": "81.00%",
     "ticker": "GATO"
   },
   {
-    "current": "30.61",
+    "current": "30.21",
     "ipo_date_stockanalysis": "2020-06-12",
     "ipo_price": "19.00",
     "name": "Generation Bio",
-    "return": "61.11%",
+    "return": "59.00%",
     "ticker": "GBIO"
   },
   {
-    "current": "7.88",
+    "current": "7.85",
     "ipo_date_stockanalysis": "2020-12-23",
     "ipo_price": "17.00",
     "name": "GBS, Inc.",
-    "return": "-53.65%",
+    "return": "-53.82%",
     "ticker": "GBS"
   },
   {
-    "current": "42.72",
+    "current": "44.54",
     "ipo_date_stockanalysis": "2020-09-23",
     "ipo_price": "33.00",
     "name": "GoodRx Holdings",
-    "return": "29.45%",
+    "return": "34.97%",
     "ticker": "GDRX"
   },
   {
-    "current": "30.48",
+    "current": "31.24",
     "ipo_date_stockanalysis": "2020-03-03",
     "ipo_price": "19.00",
     "name": "GFL Environmental",
-    "return": "60.42%",
+    "return": "64.39%",
     "ticker": "GFL"
   },
   {
-    "current": "10.97",
+    "current": "11.03",
     "ipo_date_stockanalysis": "2020-12-18",
     "ipo_price": "10.00",
     "name": "Golden Falcon Acquisition",
-    "return": "9.65%",
+    "return": "10.30%",
     "ticker": "GFX"
   },
   {
@@ -2212,83 +2221,83 @@
     "ticker": "GHIV"
   },
   {
-    "current": "16.74",
+    "current": "16.16",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "15.00",
     "name": "Guild Holdings Company",
-    "return": "11.60%",
+    "return": "7.73%",
     "ticker": "GHLD"
   },
   {
-    "current": "0.809",
+    "current": "0.785",
     "ipo_date_stockanalysis": "2019-04-05",
     "ipo_price": "4.00",
     "name": "Guardion Health Sciences",
-    "return": "-79.77%",
+    "return": "-80.39%",
     "ticker": "GHSI"
   },
   {
-    "current": "11.16",
+    "current": "11.28",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "Gores Holdings VI",
-    "return": "11.55%",
+    "return": "12.80%",
     "ticker": "GHVI"
   },
   {
-    "current": "16.01",
+    "current": "16.17",
     "ipo_date_stockanalysis": "2020-05-14",
     "ipo_price": "10.00",
     "name": "GigCapital3",
-    "return": "60.10%",
+    "return": "61.70%",
     "ticker": "GIK"
   },
   {
-    "current": "10.85",
+    "current": "10.70",
     "ipo_date_stockanalysis": "2019-06-06",
     "ipo_price": "10.00",
     "name": "GigCapital2",
-    "return": "8.50%",
+    "return": "7.00%",
     "ticker": "GIX"
   },
   {
-    "current": "10.71",
+    "current": "10.75",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "Globis Acquisition",
-    "return": "7.10%",
+    "return": "7.50%",
     "ticker": "GLAQ"
   },
   {
-    "current": "10.40",
+    "current": "10.43",
     "ipo_date_stockanalysis": "2019-10-18",
     "ipo_price": "10.00",
     "name": "Galileo Acquisition",
-    "return": "4.00%",
+    "return": "4.25%",
     "ticker": "GLEO"
   },
   {
-    "current": "36.70",
+    "current": "36.74",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "5.75",
     "name": "Greenwich LifeSciences",
-    "return": "538.26%",
+    "return": "538.96%",
     "ticker": "GLSI"
   },
   {
-    "current": "12.50",
+    "current": "12.33",
     "ipo_date_stockanalysis": "2020-10-29",
     "ipo_price": "15.00",
     "name": "Galecto",
-    "return": "-16.67%",
+    "return": "-17.80%",
     "ticker": "GLTO"
   },
   {
-    "current": "11.14",
+    "current": "11.31",
     "ipo_date_stockanalysis": "2021-01-20",
     "ipo_price": "10.00",
     "name": "Queen's Gambit Growth Capital",
-    "return": "11.40%",
+    "return": "13.05%",
     "ticker": "GMBT",
     "ticker_original": "GMBT"
   },
@@ -2301,246 +2310,246 @@
     "ticker": "GMHI"
   },
   {
-    "current": "11.35",
+    "current": "11.20",
     "ipo_date_stockanalysis": "2021-01-20",
     "ipo_price": "10.00",
     "name": "Gores Metropoulos II",
-    "return": "13.50%",
+    "return": "11.95%",
     "ticker": "GMIIU",
     "ticker_original": "GMII"
   },
   {
-    "current": "10.62",
+    "current": "10.64",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "Group Nine Acquisition",
-    "return": "6.20%",
+    "return": "6.40%",
     "ticker": "GNACU",
     "ticker_original": "GNAC"
   },
   {
-    "current": "5.62",
+    "current": "5.48",
     "ipo_date_stockanalysis": "2019-03-27",
     "ipo_price": "22.00",
     "name": "Genfit",
-    "return": "-74.45%",
+    "return": "-75.09%",
     "ticker": "GNFT"
   },
   {
-    "current": "5.11",
+    "current": "5.13",
     "ipo_date_stockanalysis": "2019-04-18",
     "ipo_price": "17.00",
     "name": "Greenlane Holdings",
-    "return": "-69.94%",
+    "return": "-69.82%",
     "ticker": "GNLN"
   },
   {
-    "current": "10.62",
+    "current": "10.65",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "10.00",
     "name": "Genesis Park Acquisition",
-    "return": "6.20%",
+    "return": "6.50%",
     "ticker": "GNPK"
   },
   {
-    "current": "10.56",
+    "current": "10.63",
     "ipo_date_stockanalysis": "2020-02-11",
     "ipo_price": "10.00",
     "name": "Greenrose Acquisition",
-    "return": "5.60%",
+    "return": "6.30%",
     "ticker": "GNRS"
   },
   {
-    "current": "39.00",
+    "current": "40.00",
     "ipo_date_stockanalysis": "2019-06-20",
     "ipo_price": "22.00",
     "name": "Grocery Outlet",
-    "return": "77.27%",
+    "return": "81.80%",
     "ticker": "GO"
   },
   {
-    "current": "10.43",
+    "current": "10.47",
     "ipo_date_stockanalysis": "2020-08-05",
     "ipo_price": "10.00",
     "name": "GO Acquisition",
-    "return": "4.30%",
+    "return": "4.70%",
     "ticker": "GOAC"
   },
   {
-    "current": "15.16",
+    "current": "15.08",
     "ipo_date_stockanalysis": "2020-07-15",
     "ipo_price": "21.00",
     "name": "GoHealth",
-    "return": "-27.81%",
+    "return": "-28.19%",
     "ticker": "GOCO"
   },
   {
-    "current": "9.03",
+    "current": "9.56",
     "ipo_date_stockanalysis": "2020-07-31",
     "ipo_price": "9.00",
     "name": "1847 Goedeker",
-    "return": "0.33%",
+    "return": "6.22%",
     "ticker": "GOED"
   },
   {
-    "current": "10.16",
+    "current": "10.44",
     "ipo_date_stockanalysis": "2019-02-08",
     "ipo_price": "16.00",
     "name": "Gossamer Bio",
-    "return": "-36.50%",
+    "return": "-34.75%",
     "ticker": "GOSS"
   },
   {
-    "current": "30.38",
+    "current": "30.12",
     "ipo_date_stockanalysis": "2020-08-28",
     "ipo_price": "20.00",
     "name": "GreenPower Motor",
-    "return": "51.90%",
+    "return": "50.60%",
     "ticker": "GP"
   },
   {
-    "current": "10.48",
+    "current": "10.58",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "Global Partner Acquisition II",
-    "return": "4.80%",
+    "return": "5.80%",
     "ticker": "GPACU",
     "ticker_original": "GPAC"
   },
   {
-    "current": "29.83",
+    "current": "30.86",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "16.00",
     "name": "Graybug Vision",
-    "return": "86.44%",
+    "return": "92.88%",
     "ticker": "GRAY"
   },
   {
-    "current": "22.40",
+    "current": "21.30",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "19.00",
     "name": "Gracell Biotechnologies",
-    "return": "17.89%",
+    "return": "12.11%",
     "ticker": "GRCL"
   },
   {
-    "current": "10.19",
+    "current": "10.20",
     "ipo_date_stockanalysis": "2020-07-24",
     "ipo_price": "10.00",
     "name": "Greencity Acquisition",
-    "return": "1.90%",
+    "return": "2.00%",
     "ticker": "GRCY"
   },
   {
-    "current": "2.10",
+    "current": "2.14",
     "ipo_date_stockanalysis": "2020-02-13",
     "ipo_price": "5.00",
     "name": "Muscle Maker",
-    "return": "-58.00%",
+    "return": "-57.20%",
     "ticker": "GRIL"
   },
   {
-    "current": "10.43",
+    "current": "10.36",
     "ipo_date_stockanalysis": "2019-11-19",
     "ipo_price": "10.00",
     "name": "Greenvision Acquisition",
-    "return": "4.30%",
+    "return": "3.60%",
     "ticker": "GRNV"
   },
   {
-    "current": "10.93",
+    "current": "10.89",
     "ipo_date_stockanalysis": "2020-08-06",
     "ipo_price": "10.00",
     "name": "Gores Holdings V",
-    "return": "9.30%",
+    "return": "8.85%",
     "ticker": "GRSV"
   },
   {
-    "current": "11.90",
+    "current": "11.93",
     "ipo_date_stockanalysis": "2019-11-07",
     "ipo_price": "12.00",
     "name": "Galera Therapeutics",
-    "return": "-0.83%",
+    "return": "-0.58%",
     "ticker": "GRTX"
   },
   {
-    "current": "12.03",
+    "current": "12.24",
     "ipo_date_stockanalysis": "2020-06-30",
     "ipo_price": "10.00",
     "name": "GS Acquisition Holdings II",
-    "return": "20.30%",
+    "return": "22.40%",
     "ticker": "GSAH"
   },
   {
-    "current": "10.44",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Global Synergy Acquisition",
-    "return": "4.40%",
+    "return": "4.95%",
     "ticker": "GSAQ"
   },
   {
-    "current": "78.08",
+    "current": "91.86",
     "ipo_date_stockanalysis": "2019-06-06",
     "ipo_price": "10.50",
     "name": "GSX Techedu",
-    "return": "643.62%",
+    "return": "774.86%",
     "ticker": "GSX"
   },
   {
-    "current": "21.12",
+    "current": "21.31",
     "ipo_date_stockanalysis": "2020-06-19",
     "ipo_price": "16.00",
     "name": "Genetron Holdings",
-    "return": "32.00%",
+    "return": "33.19%",
     "ticker": "GTH"
   },
   {
-    "current": "10.22",
+    "current": "10.44",
     "ipo_date_stockanalysis": "2020-10-20",
     "ipo_price": "10.00",
     "name": "Good Works Acquisition",
-    "return": "2.20%",
+    "return": "4.40%",
     "ticker": "GWAC"
   },
   {
-    "current": "10.38",
+    "current": "10.36",
     "ipo_date_stockanalysis": "2019-05-21",
     "ipo_price": "10.00",
     "name": "GX Acquisition",
-    "return": "3.80%",
+    "return": "3.60%",
     "ticker": "GXGX"
   },
   {
-    "current": "12.25",
+    "current": "12.20",
     "ipo_date_stockanalysis": "2020-11-13",
     "ipo_price": "10.00",
     "name": "Health Assurance Acquisition",
-    "return": "22.50%",
+    "return": "22.00%",
     "ticker": "HAAC"
   },
   {
-    "current": "2.00",
+    "current": "1.97",
     "ipo_date_stockanalysis": "2019-10-25",
     "ipo_price": "5.50",
     "name": "Happiness Biotech Group",
-    "return": "-63.64%",
+    "return": "-64.27%",
     "ticker": "HAPP"
   },
   {
-    "current": "22.21",
+    "current": "21.74",
     "ipo_date_stockanalysis": "2019-02-08",
     "ipo_price": "14.00",
     "name": "Harpoon Therapeutics",
-    "return": "58.64%",
+    "return": "55.29%",
     "ticker": "HARP"
   },
   {
-    "current": "14.98",
+    "current": "15.20",
     "ipo_date_stockanalysis": "2019-10-11",
     "ipo_price": "16.00",
     "name": "HBT Financial",
-    "return": "-6.38%",
+    "return": "-5.00%",
     "ticker": "HBT"
   },
   {
@@ -2552,27 +2561,27 @@
     "ticker": "HCAC"
   },
   {
-    "current": "10.15",
+    "current": "10.10",
     "ipo_date_stockanalysis": "2020-12-23",
     "ipo_price": "10.00",
     "name": "Healthcare Services Acquisition",
-    "return": "1.50%",
+    "return": "1.00%",
     "ticker": "HCAR"
   },
   {
-    "current": "48.14",
+    "current": "51.26",
     "ipo_date_stockanalysis": "2019-07-25",
     "ipo_price": "26.00",
     "name": "Health Catalyst",
-    "return": "85.15%",
+    "return": "97.15%",
     "ticker": "HCAT"
   },
   {
-    "current": "10.31",
+    "current": "10.34",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "Healthcare Capital",
-    "return": "3.10%",
+    "return": "3.40%",
     "ticker": "HCCCU",
     "ticker_original": "HCCC"
   },
@@ -2585,85 +2594,85 @@
     "ticker": "HCCO"
   },
   {
-    "current": "3.20",
+    "current": "3.35",
     "ipo_date_stockanalysis": "2020-08-28",
     "ipo_price": "6.00",
     "name": "Harbor Custom Development",
-    "return": "-46.67%",
+    "return": "-44.17%",
     "ticker": "HCDI"
   },
   {
-    "current": "12.45",
+    "current": "12.63",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "Hennessy Capital Investment V",
-    "return": "24.50%",
+    "return": "26.30%",
     "ticker": "HCICU",
     "ticker_original": "HCIC"
   },
   {
-    "current": "11.59",
+    "current": "11.89",
     "ipo_date_stockanalysis": "2020-06-09",
     "ipo_price": "10.00",
     "name": "Hudson Executive Investment Corp.",
-    "return": "15.90%",
+    "return": "18.85%",
     "ticker": "HEC"
   },
   {
-    "current": "6.39",
+    "current": "5.93",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "7.00",
     "name": "HF Enterprises",
-    "return": "-8.71%",
+    "return": "-15.29%",
     "ticker": "HFEN"
   },
   {
-    "current": "29.36",
+    "current": "29.95",
     "ipo_date_stockanalysis": "2019-05-09",
     "ipo_price": "13.50",
     "name": "Headhunter Group",
-    "return": "117.48%",
+    "return": "121.85%",
     "ticker": "HHR"
   },
   {
-    "current": "10.34",
+    "current": "10.37",
     "ipo_date_stockanalysis": "2020-10-21",
     "ipo_price": "10.00",
     "name": "H.I.G. Acquisition",
-    "return": "3.40%",
+    "return": "3.70%",
     "ticker": "HIGA"
   },
   {
-    "current": "6.50",
+    "current": "6.45",
     "ipo_date_stockanalysis": "2019-08-05",
     "ipo_price": "8.38",
     "name": "AMTD International",
-    "return": "-22.43%",
+    "return": "-23.03%",
     "ticker": "HKIB"
   },
   {
-    "current": "10.67",
+    "current": "10.47",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Hamilton Lane Alliance Holdings I",
-    "return": "6.70%",
+    "return": "4.70%",
     "ticker": "HLAHU",
     "ticker_original": "HLAH"
   },
   {
-    "current": "11.25",
+    "current": "11.20",
     "ipo_date_stockanalysis": "2020-10-20",
     "ipo_price": "10.00",
     "name": "Helix Acquisition",
-    "return": "12.50%",
+    "return": "12.00%",
     "ticker": "HLXA"
   },
   {
-    "current": "12.39",
+    "current": "12.31",
     "ipo_date_stockanalysis": "2020-12-09",
     "ipo_price": "10.00",
     "name": "HumanCo Acquisition",
-    "return": "23.90%",
+    "return": "23.10%",
     "ticker": "HMCO"
   },
   {
@@ -2675,59 +2684,67 @@
     "ticker": "HOL"
   },
   {
-    "current": "12.21",
+    "current": "12.73",
     "ipo_date_stockanalysis": "2019-04-18",
     "ipo_price": "14.00",
     "name": "HOOKIPA Pharma",
-    "return": "-12.79%",
+    "return": "-9.07%",
     "ticker": "HOOK"
   },
   {
-    "current": "2.24",
+    "current": "2.29",
     "ipo_date_stockanalysis": "2019-02-15",
     "ipo_price": "5.60",
     "name": "Hoth Therapeutics",
-    "return": "-60.00%",
+    "return": "-59.11%",
     "ticker": "HOTH"
   },
   {
-    "current": "10.49",
+    "current": "10.45",
     "ipo_date_stockanalysis": "2020-07-15",
     "ipo_price": "10.00",
     "name": "HPX Corp.",
-    "return": "4.90%",
+    "return": "4.50%",
     "ticker": "HPX"
   },
   {
-    "current": "36.20",
+    "current": "36.65",
     "ipo_date_stockanalysis": "2020-08-19",
     "ipo_price": "24.00",
     "name": "Harmony Biosciences",
-    "return": "50.83%",
+    "return": "52.71%",
     "ticker": "HRMY"
   },
   {
-    "current": "12.50",
+    "current": "12.42",
     "ipo_date_stockanalysis": "2020-08-04",
     "ipo_price": "10.00",
     "name": "Health Sciences Acquisitions 2",
-    "return": "25.00%",
+    "return": "24.20%",
     "ticker": "HSAQ"
   },
   {
-    "current": "11.00",
+    "current": "11.14",
     "ipo_date_stockanalysis": "2020-12-03",
     "ipo_price": "10.00",
     "name": "Highland Transcend Partners I",
-    "return": "9.95%",
+    "return": "11.40%",
     "ticker": "HTPA"
   },
   {
-    "current": "6.65",
+    "current": "7.27",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "8.00",
+    "name": "Huadi International Group",
+    "return": "-9.19%",
+    "ticker": "HUDI"
+  },
+  {
+    "current": "6.51",
     "ipo_date_stockanalysis": "2020-02-12",
     "ipo_price": "10.50",
     "name": "Huize Holding",
-    "return": "-36.67%",
+    "return": "-38.00%",
     "ticker": "HUIZ"
   },
   {
@@ -2739,203 +2756,203 @@
     "ticker": "HYAC"
   },
   {
-    "current": "72.05",
+    "current": "73.12",
     "ipo_date_stockanalysis": "2020-12-10",
     "ipo_price": "20.00",
     "name": "Hydrofarm",
-    "return": "260.25%",
+    "return": "265.60%",
     "ticker": "HYFM"
   },
   {
-    "current": "10.67",
+    "current": "10.80",
     "ipo_date_stockanalysis": "2020-08-21",
     "ipo_price": "10.00",
     "name": "Horizon Acquisition",
-    "return": "6.70%",
+    "return": "8.00%",
     "ticker": "HZAC"
   },
   {
-    "current": "10.61",
+    "current": "10.58",
     "ipo_date_stockanalysis": "2020-10-20",
     "ipo_price": "10.00",
     "name": "Horizon Acquisition II",
-    "return": "6.10%",
+    "return": "5.80%",
     "ticker": "HZON"
   },
   {
-    "current": "12.45",
+    "current": "12.63",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "10.00",
     "name": "ION Acquisition Corp 1",
-    "return": "24.50%",
+    "return": "26.25%",
     "ticker": "IACA"
   },
   {
-    "current": "19.08",
+    "current": "19.83",
     "ipo_date_stockanalysis": "2020-08-07",
     "ipo_price": "19.00",
     "name": "IBEX Holdings",
-    "return": "0.42%",
+    "return": "4.34%",
     "ticker": "IBEX"
   },
   {
-    "current": "17.54",
+    "current": "18.38",
     "ipo_date_stockanalysis": "2019-05-23",
     "ipo_price": "10.00",
     "name": "IDEAYA Biosciences",
-    "return": "75.40%",
+    "return": "83.80%",
     "ticker": "IDYA"
   },
   {
-    "current": "33.27",
+    "current": "32.70",
     "ipo_date_stockanalysis": "2019-07-19",
     "ipo_price": "46.00",
     "name": "Intercorp Financial Services",
-    "return": "-27.67%",
+    "return": "-28.91%",
     "ticker": "IFS"
   },
   {
-    "current": "10.67",
+    "current": "10.64",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "10.00",
     "name": "IG Acquisition",
-    "return": "6.70%",
+    "return": "6.40%",
     "ticker": "IGAC"
   },
   {
-    "current": "92.69",
+    "current": "94.07",
     "ipo_date_stockanalysis": "2019-09-18",
     "ipo_price": "16.00",
     "name": "IGM Biosciences",
-    "return": "479.31%",
+    "return": "487.94%",
     "ticker": "IGMS"
   },
   {
-    "current": "20.58",
+    "current": "22.32",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "12.00",
     "name": "iHuman",
-    "return": "71.50%",
+    "return": "86.00%",
     "ticker": "IH"
   },
   {
-    "current": "13.68",
+    "current": "13.60",
     "ipo_date_stockanalysis": "2019-07-18",
     "ipo_price": "17.00",
     "name": "iHeartMedia",
-    "return": "-19.53%",
+    "return": "-20.03%",
     "ticker": "IHRT"
   },
   {
-    "current": "10.65",
+    "current": "10.62",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "10.00",
     "name": "Investindustrial Acquisition",
-    "return": "6.50%",
+    "return": "6.20%",
     "ticker": "IIAC"
   },
   {
-    "current": "11.00",
+    "current": "11.12",
     "ipo_date_stockanalysis": "2020-12-18",
     "ipo_price": "10.00",
     "name": "Insu Acquisition III",
-    "return": "10.00%",
+    "return": "11.20%",
     "ticker": "IIII"
   },
   {
-    "current": "6.53",
+    "current": "6.65",
     "ipo_date_stockanalysis": "2020-12-23",
     "ipo_price": "10.00",
     "name": "Inhibikase Therapeutics",
-    "return": "-34.70%",
+    "return": "-33.50%",
     "ticker": "IKT"
   },
   {
-    "current": "54.67",
+    "current": "55.04",
     "ipo_date_stockanalysis": "2020-01-17",
     "ipo_price": "14.00",
     "name": "I-Mab",
-    "return": "290.50%",
+    "return": "293.14%",
     "ticker": "IMAB"
   },
   {
-    "current": "1.74",
+    "current": "1.72",
     "ipo_date_stockanalysis": "2019-02-13",
     "ipo_price": "5.13",
     "name": "IMAC Holdings",
-    "return": "-66.05%",
+    "return": "-66.44%",
     "ticker": "IMAC"
   },
   {
-    "current": "14.18",
+    "current": "14.65",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "12.00",
     "name": "Immunome",
-    "return": "18.17%",
+    "return": "22.08%",
     "ticker": "IMNM"
   },
   {
-    "current": "10.84",
+    "current": "10.90",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "10.00",
     "name": "AEA-Bridges Impact Corp",
-    "return": "8.40%",
+    "return": "9.00%",
     "ticker": "IMPX"
   },
   {
-    "current": "14.05",
+    "current": "14.04",
     "ipo_date_stockanalysis": "2020-03-12",
     "ipo_price": "16.00",
     "name": "IMARA Inc.",
-    "return": "-12.19%",
+    "return": "-12.25%",
     "ticker": "IMRA"
   },
   {
-    "current": "16.85",
+    "current": "16.50",
     "ipo_date_stockanalysis": "2020-09-03",
     "ipo_price": "10.00",
     "name": "INSU Acquisition II",
-    "return": "68.50%",
+    "return": "64.95%",
     "ticker": "INAQ"
   },
   {
-    "current": "35.13",
+    "current": "36.23",
     "ipo_date_stockanalysis": "2020-08-19",
     "ipo_price": "17.00",
     "name": "Inhibrx",
-    "return": "106.65%",
+    "return": "113.12%",
     "ticker": "INBX"
   },
   {
-    "current": "6.39",
+    "current": "7.18",
     "ipo_date_stockanalysis": "2019-12-19",
     "ipo_price": "11.00",
     "name": "Indonesia Energy",
-    "return": "-41.91%",
+    "return": "-34.73%",
     "ticker": "INDO"
   },
   {
-    "current": "10.55",
+    "current": "10.65",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "KludeIn I Acquisition",
-    "return": "5.50%",
+    "return": "6.50%",
     "ticker": "INKA"
   },
   {
-    "current": "20.36",
+    "current": "20.66",
     "ipo_date_stockanalysis": "2019-02-04",
     "ipo_price": "8.00",
     "name": "Inmune Bio",
-    "return": "154.50%",
+    "return": "158.19%",
     "ticker": "INMB"
   },
   {
-    "current": "58.55",
+    "current": "59.87",
     "ipo_date_stockanalysis": "2019-08-08",
     "ipo_price": "14.00",
     "name": "InMode",
-    "return": "318.21%",
+    "return": "327.64%",
     "ticker": "INMD"
   },
   {
@@ -2947,27 +2964,27 @@
     "ticker": "INSU"
   },
   {
-    "current": "24.55",
+    "current": "24.63",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "8.00",
     "name": "Intrusion",
-    "return": "206.88%",
+    "return": "207.88%",
     "ticker": "INTZ"
   },
   {
-    "current": "26.35",
+    "current": "26.38",
     "ipo_date_stockanalysis": "2020-07-24",
     "ipo_price": "16.00",
     "name": "Inozyme Pharma",
-    "return": "64.69%",
+    "return": "64.84%",
     "ticker": "INZY"
   },
   {
-    "current": "4.70",
+    "current": "4.40",
     "ipo_date_stockanalysis": "2019-10-17",
     "ipo_price": "5.50",
     "name": "Innate Pharma",
-    "return": "-14.55%",
+    "return": "-20.00%",
     "ticker": "IPHA"
   },
   {
@@ -2987,83 +3004,92 @@
     "ticker": "IPOC"
   },
   {
-    "current": "17.94",
+    "current": "17.22",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "10.00",
     "name": "Social Capital Hedosophia IV",
-    "return": "79.40%",
+    "return": "72.15%",
     "ticker": "IPOD"
   },
   {
-    "current": "22.39",
+    "current": "21.61",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "10.00",
     "name": "Social Capital Hedosophia V",
-    "return": "123.90%",
+    "return": "116.05%",
     "ticker": "IPOE"
   },
   {
-    "current": "15.58",
+    "current": "15.27",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "10.00",
     "name": "Social Capital Hedosophia VI",
-    "return": "55.80%",
+    "return": "52.65%",
     "ticker": "IPOF"
   },
   {
-    "current": "16.55",
+    "current": "16.18",
     "ipo_date_stockanalysis": "2019-02-04",
     "ipo_price": "10.00",
     "name": "InterPrivate Acquisition",
-    "return": "65.50%",
+    "return": "61.80%",
     "ticker": "IPV"
   },
   {
-    "current": "10.29",
+    "current": "10.28",
     "ipo_date_stockanalysis": "2020-09-09",
     "ipo_price": "10.00",
     "name": "Industrial Tech Acquisitions",
-    "return": "2.90%",
+    "return": "2.80%",
     "ticker": "ITAC"
   },
   {
-    "current": "33.92",
+    "current": "32.73",
     "ipo_date_stockanalysis": "2020-07-24",
     "ipo_price": "19.00",
     "name": "iTeos Therapeutics",
-    "return": "78.53%",
+    "return": "72.26%",
     "ticker": "ITOS"
   },
   {
-    "current": "19.14",
+    "current": "18.22",
     "ipo_date_stockanalysis": "2020-07-10",
     "ipo_price": "14.40",
     "name": "Inventiva",
-    "return": "32.92%",
+    "return": "26.49%",
     "ticker": "IVA"
   },
   {
-    "current": "11.43",
+    "current": "11.58",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "Ivanhoe Capital Acquisition",
-    "return": "14.30%",
+    "return": "15.80%",
     "ticker": "IVAN"
   },
   {
-    "current": "33.21",
+    "current": "34.04",
     "ipo_date_stockanalysis": "2020-07-22",
     "ipo_price": "26.00",
     "name": "Jamf Holding",
-    "return": "27.73%",
+    "return": "30.92%",
     "ticker": "JAMF"
   },
   {
-    "current": "3.65",
+    "current": "10.51",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "10.00",
+    "name": "Jack Creek Investment",
+    "return": "5.05%",
+    "ticker": "JCICU",
+    "ticker_original": "JCIC"
+  },
+  {
+    "current": "3.68",
     "ipo_date_stockanalysis": "2019-05-10",
     "ipo_price": "10.50",
     "name": "Jiayin Group",
-    "return": "-65.24%",
+    "return": "-64.95%",
     "ticker": "JFIN"
   },
   {
@@ -3075,75 +3101,75 @@
     "ticker": "JFK"
   },
   {
-    "current": "1.47",
+    "current": "1.53",
     "ipo_date_stockanalysis": "2019-08-15",
     "ipo_price": "9.50",
     "name": "9F Inc.",
-    "return": "-84.53%",
+    "return": "-83.89%",
     "ticker": "JFU"
   },
   {
-    "current": "12.07",
+    "current": "12.44",
     "ipo_date_stockanalysis": "2019-11-08",
     "ipo_price": "10.00",
     "name": "Juniper Industrial Holdings",
-    "return": "20.70%",
+    "return": "24.40%",
     "ticker": "JIH"
   },
   {
-    "current": "45.57",
+    "current": "56.97",
     "ipo_date_stockanalysis": "2019-04-12",
     "ipo_price": "14.50",
     "name": "Jumia Technologies AG",
-    "return": "214.28%",
+    "return": "292.90%",
     "ticker": "JMIA"
   },
   {
-    "current": "5.59",
+    "current": "5.80",
     "ipo_date_stockanalysis": "2020-10-30",
     "ipo_price": "7.50",
     "name": "Jupiter Wellness",
-    "return": "-25.47%",
+    "return": "-22.72%",
     "ticker": "JUPW"
   },
   {
-    "current": "15.30",
+    "current": "14.83",
     "ipo_date_stockanalysis": "2020-05-14",
     "ipo_price": "10.00",
     "name": "Jaws Acquisition",
-    "return": "53.00%",
+    "return": "48.30%",
     "ticker": "JWS"
   },
   {
-    "current": "10.49",
+    "current": "10.47",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "10.00",
     "name": "Jiya Acquisition",
-    "return": "4.90%",
+    "return": "4.70%",
     "ticker": "JYAC"
   },
   {
-    "current": "10.37",
+    "current": "10.48",
     "ipo_date_stockanalysis": "2021-01-06",
     "ipo_price": "10.00",
     "name": "Kairos Acquisition",
-    "return": "3.70%",
+    "return": "4.80%",
     "ticker": "KAIR"
   },
   {
-    "current": "5.45",
+    "current": "5.53",
     "ipo_date_stockanalysis": "2020-08-12",
     "ipo_price": "5.00",
     "name": "Kubient",
-    "return": "9.00%",
+    "return": "10.60%",
     "ticker": "KBNT"
   },
   {
-    "current": "45.64",
+    "current": "53.81",
     "ipo_date_stockanalysis": "2020-05-08",
     "ipo_price": "17.00",
     "name": "Kingsoft Cloud Holdings",
-    "return": "168.47%",
+    "return": "216.53%",
     "ticker": "KC"
   },
   {
@@ -3155,123 +3181,123 @@
     "ticker": "KCAC.DEL"
   },
   {
-    "current": "10.63",
+    "current": "10.67",
     "ipo_date_stockanalysis": "2020-12-15",
     "ipo_price": "10.00",
     "name": "Kins Technology Group",
-    "return": "6.30%",
+    "return": "6.70%",
     "ticker": "KINZ"
   },
   {
-    "current": "10.40",
+    "current": "10.41",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "KL Acquisition",
-    "return": "4.00%",
+    "return": "4.10%",
     "ticker": "KLAQ"
   },
   {
-    "current": "12.06",
+    "current": "12.64",
     "ipo_date_stockanalysis": "2019-02-28",
     "ipo_price": "15.00",
     "name": "Kaleido Biosciences",
-    "return": "-19.60%",
+    "return": "-15.77%",
     "ticker": "KLDO"
   },
   {
-    "current": "37.97",
+    "current": "37.40",
     "ipo_date_stockanalysis": "2020-12-03",
     "ipo_price": "20.00",
     "name": "Kinnate Biopharma",
-    "return": "89.85%",
+    "return": "86.98%",
     "ticker": "KNTE"
   },
   {
-    "current": "9.50",
+    "current": "9.22",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "12.00",
     "name": "Kiromic BioPharma",
-    "return": "-20.83%",
+    "return": "-23.17%",
     "ticker": "KRBP"
   },
   {
-    "current": "5.20",
+    "current": "5.48",
     "ipo_date_stockanalysis": "2019-11-08",
     "ipo_price": "14.50",
     "name": "36Kr Holdings",
-    "return": "-64.14%",
+    "return": "-62.21%",
     "ticker": "KRKR"
   },
   {
-    "current": "31.72",
+    "current": "32.41",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "19.00",
     "name": "Kronos Bio",
-    "return": "66.95%",
+    "return": "70.55%",
     "ticker": "KRON"
   },
   {
-    "current": "64.29",
+    "current": "67.05",
     "ipo_date_stockanalysis": "2020-04-08",
     "ipo_price": "16.00",
     "name": "Keros Therapeutics",
-    "return": "301.81%",
+    "return": "319.06%",
     "ticker": "KROS"
   },
   {
-    "current": "100.33",
+    "current": "102.86",
     "ipo_date_stockanalysis": "2019-06-28",
     "ipo_price": "16.00",
     "name": "Karuna Therapeutics",
-    "return": "527.06%",
+    "return": "542.88%",
     "ticker": "KRTX"
   },
   {
-    "current": "23.53",
+    "current": "23.74",
     "ipo_date_stockanalysis": "2019-08-01",
     "ipo_price": "14.00",
     "name": "Kura Sushi USA",
-    "return": "68.07%",
+    "return": "69.57%",
     "ticker": "KRUS"
   },
   {
-    "current": "10.32",
+    "current": "10.27",
     "ipo_date_stockanalysis": "2020-08-06",
     "ipo_price": "10.00",
     "name": "Kismet Acquisition One",
-    "return": "3.20%",
+    "return": "2.70%",
     "ticker": "KSMT"
   },
   {
-    "current": "9.36",
+    "current": "9.34",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "Kuke Music",
-    "return": "-6.40%",
+    "return": "-6.60%",
     "ticker": "KUKE"
   },
   {
-    "current": "10.57",
+    "current": "10.46",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "10.00",
     "name": "Kingswood Acquisition",
-    "return": "5.72%",
+    "return": "4.60%",
     "ticker": "KWAC"
   },
   {
-    "current": "77.00",
+    "current": "79.48",
     "ipo_date_stockanalysis": "2020-08-21",
     "ipo_price": "20.00",
     "name": "Kymera Therapeutics",
-    "return": "285.00%",
+    "return": "297.40%",
     "ticker": "KYMR"
   },
   {
-    "current": "10.40",
+    "current": "10.29",
     "ipo_date_stockanalysis": "2019-10-18",
     "ipo_price": "10.00",
     "name": "Union Acquisition Corp. II",
-    "return": "4.00%",
+    "return": "2.90%",
     "ticker": "LATN"
   },
   {
@@ -3283,75 +3309,75 @@
     "ticker": "LCA"
   },
   {
-    "current": "10.52",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-08-14",
     "ipo_price": "10.00",
     "name": "Lionheart Acquisition II",
-    "return": "5.20%",
+    "return": "5.00%",
     "ticker": "LCAP"
   },
   {
-    "current": "10.48",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "10.00",
     "name": "Landcadia Holdings III",
-    "return": "4.80%",
+    "return": "5.00%",
     "ticker": "LCY"
   },
   {
-    "current": "15.09",
+    "current": "14.78",
     "ipo_date_stockanalysis": "2020-09-11",
     "ipo_price": "10.00",
     "name": "Ribbit LEAP",
-    "return": "50.90%",
+    "return": "47.80%",
     "ticker": "LEAP"
   },
   {
-    "current": "28.86",
+    "current": "27.44",
     "ipo_date_stockanalysis": "2020-06-05",
     "ipo_price": "23.00",
     "name": "Legend Biotech",
-    "return": "25.48%",
+    "return": "19.28%",
     "ticker": "LEGN"
   },
   {
-    "current": "10.33",
+    "current": "10.45",
     "ipo_date_stockanalysis": "2021-01-20",
     "ipo_price": "10.00",
     "name": "Legato Merger Corp",
-    "return": "3.30%",
+    "return": "4.50%",
     "ticker": "LEGO"
   },
   {
-    "current": "28.55",
+    "current": "28.35",
     "ipo_date_stockanalysis": "2020-10-29",
     "ipo_price": "17.00",
     "name": "Leslie's",
-    "return": "67.94%",
+    "return": "66.74%",
     "ticker": "LESL"
   },
   {
-    "current": "20.85",
+    "current": "20.76",
     "ipo_date_stockanalysis": "2019-03-21",
     "ipo_price": "17.00",
     "name": "Levi Strauss & Co.",
-    "return": "22.65%",
+    "return": "22.12%",
     "ticker": "LEVI"
   },
   {
-    "current": "10.91",
+    "current": "11.10",
     "ipo_date_stockanalysis": "2020-10-21",
     "ipo_price": "10.00",
     "name": "Lefteris Acquisition",
-    "return": "9.10%",
+    "return": "11.00%",
     "ticker": "LFTR"
   },
   {
-    "current": "22.12",
+    "current": "21.43",
     "ipo_date_stockanalysis": "2020-05-21",
     "ipo_price": "10.00",
     "name": "Longview Acquisition",
-    "return": "121.20%",
+    "return": "114.25%",
     "ticker": "LGVW"
   },
   {
@@ -3360,80 +3386,88 @@
     "ipo_price": "10.00",
     "name": "Leo Holdings II",
     "return": "5.40%",
-    "ticker": "LHC",
-    "ticker_original": "LHC"
+    "ticker": "LHC"
   },
   {
-    "current": "35.37",
+    "current": "34.45",
     "ipo_date_stockanalysis": "2020-07-30",
     "ipo_price": "11.50",
     "name": "Li Auto",
-    "return": "207.57%",
+    "return": "199.52%",
     "ticker": "LI"
   },
   {
-    "current": "6.89",
+    "current": "6.92",
     "ipo_date_stockanalysis": "2019-06-26",
     "ipo_price": "9.40",
     "name": "Linx S.A.",
-    "return": "-26.70%",
+    "return": "-26.38%",
     "ticker": "LINX"
   },
   {
-    "current": "10.29",
+    "current": "10.21",
     "ipo_date_stockanalysis": "2019-12-11",
     "ipo_price": "10.00",
     "name": "LIV Capital Acquisition",
-    "return": "2.90%",
+    "return": "2.10%",
     "ticker": "LIVK"
   },
   {
-    "current": "3.83",
+    "current": "3.79",
     "ipo_date_stockanalysis": "2020-01-17",
     "ipo_price": "11.00",
     "name": "Lizhi Inc.",
-    "return": "-65.18%",
+    "return": "-65.55%",
     "ticker": "LIZI"
   },
   {
-    "current": "10.39",
+    "current": "10.40",
     "ipo_date_stockanalysis": "2021-01-11",
     "ipo_price": "10.00",
     "name": "LightJump Acquisition",
-    "return": "3.90%",
+    "return": "4.00%",
     "ticker": "LJAQU",
     "ticker_original": "LJAQ"
   },
   {
-    "current": "9.65",
+    "current": "9.63",
     "ipo_date_stockanalysis": "2019-05-17",
     "ipo_price": "17.00",
     "name": "Luckin Coffee",
-    "return": "-43.24%",
+    "return": "-43.35%",
     "ticker": "LKNCY"
   },
   {
-    "current": "148.19",
+    "current": "12.78",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "10.00",
+    "name": "Liberty Media Acquisition",
+    "return": "27.80%",
+    "ticker": "LMACU",
+    "ticker_original": "LMACA"
+  },
+  {
+    "current": "153.46",
     "ipo_date_stockanalysis": "2020-07-02",
     "ipo_price": "29.00",
     "name": "Lemonade",
-    "return": "411.00%",
+    "return": "429.17%",
     "ticker": "LMND"
   },
   {
-    "current": "25.57",
+    "current": "26.54",
     "ipo_date_stockanalysis": "2019-12-05",
     "ipo_price": "5.00",
     "name": "LMP Automotive Holdings",
-    "return": "411.40%",
+    "return": "430.80%",
     "ticker": "LMPX"
   },
   {
-    "current": "10.34",
+    "current": "10.30",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "10.00",
     "name": "L&F Acquisition",
-    "return": "3.40%",
+    "return": "3.00%",
     "ticker": "LNFA"
   },
   {
@@ -3445,11 +3479,11 @@
     "ticker": "LOAK"
   },
   {
-    "current": "11.25",
+    "current": "11.27",
     "ipo_date_stockanalysis": "2020-12-03",
     "ipo_price": "10.00",
     "name": "Live Oak Acquisition II",
-    "return": "12.50%",
+    "return": "12.65%",
     "ticker": "LOKB"
   },
   {
@@ -3461,59 +3495,59 @@
     "ticker": "LSAC"
   },
   {
-    "current": "11.00",
+    "current": "11.01",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "10.00",
     "name": "LifeSci Acquisition II",
-    "return": "10.00%",
+    "return": "10.10%",
     "ticker": "LSAQ"
   },
   {
-    "current": "42.55",
+    "current": "42.45",
     "ipo_date_stockanalysis": "2020-09-23",
     "ipo_price": "22.00",
     "name": "Laird Superfood",
-    "return": "93.41%",
+    "return": "92.95%",
     "ticker": "LSF"
   },
   {
-    "current": "70.34",
+    "current": "69.15",
     "ipo_date_stockanalysis": "2020-09-11",
     "ipo_price": "30.50",
     "name": "Lightspeed POS",
-    "return": "130.62%",
+    "return": "126.72%",
     "ticker": "LSPD"
   },
   {
-    "current": "15.50",
+    "current": "15.36",
     "ipo_date_stockanalysis": "2020-06-11",
     "ipo_price": "15.00",
     "name": "Lantern Pharma",
-    "return": "3.33%",
+    "return": "2.40%",
     "ticker": "LTRN"
   },
   {
-    "current": "15.88",
+    "current": "15.48",
     "ipo_date_stockanalysis": "2020-10-30",
     "ipo_price": "13.50",
     "name": "Lufax Holding",
-    "return": "17.63%",
+    "return": "14.63%",
     "ticker": "LU"
   },
   {
-    "current": "62.94",
+    "current": "65.99",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "19.00",
     "name": "Pulmonx",
-    "return": "231.26%",
+    "return": "247.32%",
     "ticker": "LUNG"
   },
   {
-    "current": "10.97",
+    "current": "10.93",
     "ipo_date_stockanalysis": "2020-10-27",
     "ipo_price": "10.00",
     "name": "Lux Health Tech Acquisition",
-    "return": "9.70%",
+    "return": "9.30%",
     "ticker": "LUXA"
   },
   {
@@ -3525,43 +3559,43 @@
     "ticker": "LVGO"
   },
   {
-    "current": "10.43",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Locust Walk Acquisition",
-    "return": "4.30%",
+    "return": "5.00%",
     "ticker": "LWAC"
   },
   {
-    "current": "8.60",
+    "current": "8.56",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "9.25",
     "name": "Lixiang Education",
-    "return": "-7.03%",
+    "return": "-7.42%",
     "ticker": "LXEH"
   },
   {
-    "current": "48.10",
+    "current": "47.82",
     "ipo_date_stockanalysis": "2019-03-29",
     "ipo_price": "72.00",
     "name": "Lyft",
-    "return": "-33.19%",
+    "return": "-33.59%",
     "ticker": "LYFT"
   },
   {
-    "current": "11.47",
+    "current": "11.40",
     "ipo_date_stockanalysis": "2020-05-01",
     "ipo_price": "16.00",
     "name": "Lyra Therapeutics",
-    "return": "-28.31%",
+    "return": "-28.75%",
     "ticker": "LYRA"
   },
   {
-    "current": "10.36",
+    "current": "10.39",
     "ipo_date_stockanalysis": "2020-10-07",
     "ipo_price": "10.00",
     "name": "Montes Archimedes Acquisition",
-    "return": "3.60%",
+    "return": "3.90%",
     "ticker": "MAAC"
   },
   {
@@ -3573,51 +3607,51 @@
     "ticker": "MACU"
   },
   {
-    "current": "62.50",
+    "current": "65.52",
     "ipo_date_stockanalysis": "2020-12-18",
     "ipo_price": "20.00",
     "name": "908 Devices",
-    "return": "212.50%",
+    "return": "227.60%",
     "ticker": "MASS"
   },
   {
-    "current": "41.99",
+    "current": "44.23",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "19.00",
     "name": "MediaAlpha",
-    "return": "121.00%",
+    "return": "132.76%",
     "ticker": "MAX"
   },
   {
-    "current": "11.46",
+    "current": "11.50",
     "ipo_date_stockanalysis": "2020-06-05",
     "ipo_price": "10.00",
     "name": "Mountain Crest Acquisition",
-    "return": "14.60%",
+    "return": "15.00%",
     "ticker": "MCAC"
   },
   {
-    "current": "10.56",
+    "current": "10.54",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Mountain Crest Acquisition II",
-    "return": "5.55%",
+    "return": "5.40%",
     "ticker": "MCAD"
   },
   {
-    "current": "14.61",
+    "current": "14.90",
     "ipo_date_stockanalysis": "2019-10-03",
     "ipo_price": "13.50",
     "name": "MetroCity Bankshares",
-    "return": "8.22%",
+    "return": "10.37%",
     "ticker": "MCBS"
   },
   {
-    "current": "19.32",
+    "current": "19.24",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "20.00",
     "name": "McAfee",
-    "return": "-3.40%",
+    "return": "-3.83%",
     "ticker": "MCFE"
   },
   {
@@ -3629,83 +3663,83 @@
     "ticker": "MCMJ"
   },
   {
-    "current": "4.49",
+    "current": "4.42",
     "ipo_date_stockanalysis": "2019-01-08",
     "ipo_price": "5.00",
     "name": "MDJM Ltd.",
-    "return": "-10.20%",
+    "return": "-11.60%",
     "ticker": "MDJH"
   },
   {
-    "current": "39.55",
+    "current": "39.56",
     "ipo_date_stockanalysis": "2019-07-19",
     "ipo_price": "21.00",
     "name": "Medallia",
-    "return": "88.33%",
+    "return": "88.38%",
     "ticker": "MDLA"
   },
   {
-    "current": "55.42",
+    "current": "55.00",
     "ipo_date_stockanalysis": "2020-12-17",
     "ipo_price": "70.00",
     "name": "Midwest Holding",
-    "return": "-20.83%",
+    "return": "-21.43%",
     "ticker": "MDWT"
   },
   {
-    "current": "13.48",
+    "current": "13.36",
     "ipo_date_stockanalysis": "2019-05-09",
     "ipo_price": "17.00",
     "name": "Mayville Engineering",
-    "return": "-20.71%",
+    "return": "-21.41%",
     "ticker": "MEC"
   },
   {
-    "current": "6.04",
+    "current": "6.00",
     "ipo_date_stockanalysis": "2020-02-13",
     "ipo_price": "6.50",
     "name": "Trxade Group",
-    "return": "-7.08%",
+    "return": "-7.69%",
     "ticker": "MEDS"
   },
   {
-    "current": "41.97",
+    "current": "42.49",
     "ipo_date_stockanalysis": "2020-07-23",
     "ipo_price": "15.00",
     "name": "Montrose Environmental Group",
-    "return": "179.80%",
+    "return": "183.23%",
     "ticker": "MEG"
   },
   {
-    "current": "18.84",
+    "current": "19.05",
     "ipo_date_stockanalysis": "2019-07-18",
     "ipo_price": "15.00",
     "name": "Mirum Pharmaceuticals",
-    "return": "25.60%",
+    "return": "27.00%",
     "ticker": "MIRM"
   },
   {
-    "current": "1.72",
+    "current": "1.81",
     "ipo_date_stockanalysis": "2019-02-15",
     "ipo_price": "12.00",
     "name": "Stealth BioTherapeutics",
-    "return": "-85.67%",
+    "return": "-84.96%",
     "ticker": "MITO"
   },
   {
-    "current": "0.888",
+    "current": "1.52",
     "ipo_date_stockanalysis": "2019-12-30",
     "ipo_price": "5.38",
     "name": "Molecular Data",
-    "return": "-83.49%",
+    "return": "-71.75%",
     "ticker": "MKD"
   },
   {
-    "current": "10.11",
+    "current": "10.15",
     "ipo_date_stockanalysis": "2020-07-15",
     "ipo_price": "10.00",
     "name": "Malacca Straits Acquisition",
-    "return": "1.10%",
+    "return": "1.50%",
     "ticker": "MLAC"
   },
   {
@@ -3717,60 +3751,68 @@
     "ticker": "MNCL"
   },
   {
-    "current": "6.90",
+    "current": "7.00",
     "ipo_date_stockanalysis": "2019-12-19",
     "ipo_price": "8.00",
     "name": "Monopar Therapeutics",
-    "return": "-13.75%",
+    "return": "-12.56%",
     "ticker": "MNPR"
   },
   {
-    "current": "13.24",
+    "current": "13.50",
     "ipo_date_stockanalysis": "2019-04-18",
     "ipo_price": "18.00",
     "name": "Brigham Minerals",
-    "return": "-26.44%",
+    "return": "-25.03%",
     "ticker": "MNRL"
   },
   {
-    "current": "30.33",
+    "current": "30.29",
     "ipo_date_stockanalysis": "2020-10-15",
     "ipo_price": "20.00",
     "name": "Miniso Group",
-    "return": "51.65%",
+    "return": "51.43%",
     "ticker": "MNSO"
   },
   {
-    "current": "2.34",
+    "current": "11.11",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "8.50",
+    "name": "Montauk Renewables",
+    "return": "30.71%",
+    "ticker": "MNTK"
+  },
+  {
+    "current": "2.65",
     "ipo_date_stockanalysis": "2019-11-08",
     "ipo_price": "10.00",
     "name": "ECMOHO Limited",
-    "return": "-76.60%",
+    "return": "-73.50%",
     "ticker": "MOHO"
   },
   {
-    "current": "10.34",
+    "current": "10.38",
     "ipo_date_stockanalysis": "2021-01-14",
     "ipo_price": "10.00",
     "name": "Monument Circle Acquisition",
-    "return": "3.40%",
+    "return": "3.75%",
     "ticker": "MONCU",
     "ticker_original": "MON"
   },
   {
-    "current": "29.79",
+    "current": "31.28",
     "ipo_date_stockanalysis": "2019-06-27",
     "ipo_price": "15.00",
     "name": "Morphic Holding",
-    "return": "98.60%",
+    "return": "108.53%",
     "ticker": "MORF"
   },
   {
-    "current": "10.51",
+    "current": "10.39",
     "ipo_date_stockanalysis": "2020-10-15",
     "ipo_price": "10.00",
     "name": "Motion Acquisition",
-    "return": "5.10%",
+    "return": "3.90%",
     "ticker": "MOTN"
   },
   {
@@ -3782,155 +3824,164 @@
     "ticker": "MOTV"
   },
   {
-    "current": "10.98",
+    "current": "10.84",
     "ipo_date_stockanalysis": "2020-12-15",
     "ipo_price": "10.00",
     "name": "Marquee Raine Acquisition",
-    "return": "9.80%",
+    "return": "8.40%",
     "ticker": "MRAC"
   },
   {
-    "current": "13.76",
+    "current": "13.67",
     "ipo_date_stockanalysis": "2020-12-29",
     "ipo_price": "15.00",
     "name": "Medirom Healthcare",
-    "return": "-8.27%",
+    "return": "-8.87%",
     "ticker": "MRM"
   },
   {
-    "current": "30.20",
+    "current": "31.29",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "27.00",
     "name": "Maravai LifeSciences",
-    "return": "11.85%",
+    "return": "15.89%",
     "ticker": "MRVI"
   },
   {
-    "current": "28.81",
+    "current": "29.84",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "20.00",
     "name": "Motorsport Games",
-    "return": "44.05%",
+    "return": "49.18%",
     "ticker": "MSGM"
   },
   {
-    "current": "26.45",
+    "current": "25.97",
     "ipo_date_stockanalysis": "2020-10-21",
     "ipo_price": "27.00",
     "name": "Datto",
-    "return": "-2.04%",
+    "return": "-3.81%",
     "ticker": "MSP"
   },
   {
-    "current": "10.66",
+    "current": "10.55",
     "ipo_date_stockanalysis": "2020-12-18",
     "ipo_price": "10.00",
     "name": "MedTech Acquisition",
-    "return": "6.60%",
+    "return": "5.50%",
     "ticker": "MTAC"
   },
   {
-    "current": "1.90",
+    "current": "2.43",
     "ipo_date_stockanalysis": "2019-01-08",
     "ipo_price": "4.00",
     "name": "MMTec, Inc.",
-    "return": "-52.50%",
+    "return": "-39.25%",
     "ticker": "MTC"
   },
   {
-    "current": "9.37",
+    "current": "9.35",
     "ipo_date_stockanalysis": "2020-09-16",
     "ipo_price": "13.00",
     "name": "Metacrine",
-    "return": "-27.92%",
+    "return": "-28.08%",
     "ticker": "MTCR"
   },
   {
-    "current": "10.70",
+    "current": "10.63",
     "ipo_date_stockanalysis": "2020-12-08",
     "ipo_price": "10.00",
     "name": "Mudrick Capital Acquisition II",
-    "return": "7.00%",
+    "return": "6.30%",
     "ticker": "MUDS"
   },
   {
-    "current": "24.49",
+    "current": "26.00",
     "ipo_date_stockanalysis": "2019-06-12",
     "ipo_price": "10.00",
     "name": "Mohawk Group Holdings",
-    "return": "144.90%",
+    "return": "160.00%",
     "ticker": "MWK"
   },
   {
-    "current": "31.00",
+    "current": "33.44",
     "ipo_date_stockanalysis": "2021-01-21",
     "ipo_price": "26.00",
     "name": "MYT Netherlands",
-    "return": "19.23%",
+    "return": "28.62%",
     "ticker": "MYTE"
   },
   {
-    "current": "105.54",
+    "current": "10.44",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "10.00",
+    "name": "North Atlantic Acquisition",
+    "return": "4.40%",
+    "ticker": "NAACU",
+    "ticker_original": "NAAC"
+  },
+  {
+    "current": "106.93",
     "ipo_date_stockanalysis": "2020-05-22",
     "ipo_price": "19.00",
     "name": "Inari Medical",
-    "return": "455.47%",
+    "return": "462.79%",
     "ticker": "NARI"
   },
   {
-    "current": "10.20",
+    "current": "10.27",
     "ipo_date_stockanalysis": "2020-10-30",
     "ipo_price": "10.00",
     "name": "New Beginnings Acquisition",
-    "return": "2.00%",
+    "return": "2.70%",
     "ticker": "NBA"
   },
   {
-    "current": "17.88",
+    "current": "17.63",
     "ipo_date_stockanalysis": "2020-02-14",
     "ipo_price": "10.00",
     "name": "Newborn Acquisition",
-    "return": "78.80%",
+    "return": "76.30%",
     "ticker": "NBAC"
   },
   {
-    "current": "19.49",
+    "current": "19.00",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "13.50",
     "name": "Nanobiotix",
-    "return": "44.37%",
+    "return": "40.74%",
     "ticker": "NBTX"
   },
   {
-    "current": "70.75",
+    "current": "72.39",
     "ipo_date_stockanalysis": "2020-07-14",
     "ipo_price": "31.00",
     "name": "nCino, Inc.",
-    "return": "128.23%",
+    "return": "133.52%",
     "ticker": "NCNO"
   },
   {
-    "current": "11.38",
+    "current": "11.44",
     "ipo_date_stockanalysis": "2020-12-09",
     "ipo_price": "10.00",
     "name": "Nebula Caravel Acquisition",
-    "return": "13.80%",
+    "return": "14.40%",
     "ticker": "NEBC"
   },
   {
-    "current": "83.02",
+    "current": "83.53",
     "ipo_date_stockanalysis": "2019-09-13",
     "ipo_price": "15.00",
     "name": "Cloudflare",
-    "return": "453.47%",
+    "return": "456.87%",
     "ticker": "NET"
   },
   {
-    "current": "46.61",
+    "current": "46.40",
     "ipo_date_stockanalysis": "2019-01-31",
     "ipo_price": "14.00",
     "name": "New Fortress Energy",
-    "return": "232.93%",
+    "return": "231.43%",
     "ticker": "NFE"
   },
   {
@@ -3942,164 +3993,164 @@
     "ticker": "NFIN"
   },
   {
-    "current": "28.21",
+    "current": "27.28",
     "ipo_date_stockanalysis": "2020-08-18",
     "ipo_price": "10.00",
     "name": "Northern Genesis Acquisition",
-    "return": "182.10%",
+    "return": "172.80%",
     "ticker": "NGA"
   },
   {
-    "current": "11.86",
+    "current": "11.76",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Northern Genesis Acquisition II",
-    "return": "18.60%",
+    "return": "17.55%",
     "ticker": "NGAB",
     "ticker_original": "NGAB"
   },
   {
-    "current": "10.37",
+    "current": "10.35",
     "ipo_date_stockanalysis": "2020-10-07",
     "ipo_price": "10.00",
     "name": "NextGen Acquisition",
-    "return": "3.70%",
+    "return": "3.50%",
     "ticker": "NGAC"
   },
   {
-    "current": "27.89",
+    "current": "28.66",
     "ipo_date_stockanalysis": "2019-04-04",
     "ipo_price": "16.00",
     "name": "NGM Biopharmaceuticals",
-    "return": "74.31%",
+    "return": "79.09%",
     "ticker": "NGM"
   },
   {
-    "current": "29.58",
+    "current": "29.90",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "17.00",
     "name": "NeoGames",
-    "return": "74.00%",
+    "return": "75.88%",
     "ticker": "NGMS"
   },
   {
-    "current": "10.39",
+    "current": "10.43",
     "ipo_date_stockanalysis": "2020-07-31",
     "ipo_price": "10.00",
     "name": "NewHold Investment Corp.",
-    "return": "3.90%",
+    "return": "4.30%",
     "ticker": "NHIC"
   },
   {
-    "current": "48.18",
+    "current": "49.36",
     "ipo_date_stockanalysis": "2020-07-10",
     "ipo_price": "18.00",
     "name": "Nkarta",
-    "return": "167.67%",
+    "return": "174.19%",
     "ticker": "NKTX"
   },
   {
-    "current": "10.80",
+    "current": "10.62",
     "ipo_date_stockanalysis": "2020-09-18",
     "ipo_price": "10.00",
     "name": "North Mountain Merger",
-    "return": "8.00%",
+    "return": "6.20%",
     "ticker": "NMMC"
   },
   {
-    "current": "66.21",
+    "current": "65.98",
     "ipo_date_stockanalysis": "2020-08-21",
     "ipo_price": "18.00",
     "name": "Nano-X Imaging",
-    "return": "267.83%",
+    "return": "266.56%",
     "ticker": "NNOX"
   },
   {
-    "current": "11.42",
+    "current": "11.85",
     "ipo_date_stockanalysis": "2020-11-11",
     "ipo_price": "10.00",
     "name": "Natural Order Acquisition",
-    "return": "14.20%",
+    "return": "18.50%",
     "ticker": "NOAC"
   },
   {
-    "current": "54.12",
+    "current": "53.87",
     "ipo_date_stockanalysis": "2019-07-25",
     "ipo_price": "12.00",
     "name": "Sunnova Energy",
-    "return": "351.00%",
+    "return": "348.92%",
     "ticker": "NOVA"
   },
   {
-    "current": "25.30",
+    "current": "24.84",
     "ipo_date_stockanalysis": "2020-05-15",
     "ipo_price": "10.00",
     "name": "Novus Capital",
-    "return": "153.00%",
+    "return": "148.40%",
     "ticker": "NOVS"
   },
   {
-    "current": "16.20",
+    "current": "16.03",
     "ipo_date_stockanalysis": "2019-09-11",
     "ipo_price": "10.00",
     "name": "New Providence Acquisition",
-    "return": "62.00%",
+    "return": "60.25%",
     "ticker": "NPA"
   },
   {
-    "current": "16.55",
+    "current": "16.45",
     "ipo_date_stockanalysis": "2020-02-07",
     "ipo_price": "19.00",
     "name": "NexPoint Real Estate Finance",
-    "return": "-12.89%",
+    "return": "-13.42%",
     "ticker": "NREF"
   },
   {
-    "current": "44.00",
+    "current": "46.34",
     "ipo_date_stockanalysis": "2020-07-24",
     "ipo_price": "19.00",
     "name": "Nurix Therapeutics",
-    "return": "131.58%",
+    "return": "143.87%",
     "ticker": "NRIX"
   },
   {
-    "current": "10.49",
+    "current": "10.52",
     "ipo_date_stockanalysis": "2020-09-10",
     "ipo_price": "10.00",
     "name": "NavSight Holdings",
-    "return": "4.90%",
+    "return": "5.15%",
     "ticker": "NSH"
   },
   {
-    "current": "17.65",
+    "current": "17.69",
     "ipo_date_stockanalysis": "2020-08-13",
     "ipo_price": "18.00",
     "name": "NetSTREIT",
-    "return": "-1.94%",
+    "return": "-1.72%",
     "ticker": "NTST"
   },
   {
-    "current": "9.87",
+    "current": "9.80",
     "ipo_date_stockanalysis": "2020-06-19",
     "ipo_price": "9.00",
     "name": "NuZee, Inc.",
-    "return": "9.67%",
+    "return": "8.89%",
     "ticker": "NUZE"
   },
   {
-    "current": "36.36",
+    "current": "36.64",
     "ipo_date_stockanalysis": "2019-09-18",
     "ipo_price": "22.00",
     "name": "Envista Holdings",
-    "return": "65.27%",
+    "return": "66.52%",
     "ticker": "NVST"
   },
   {
-    "current": "12.60",
+    "current": "13.55",
     "ipo_date_stockanalysis": "2019-05-09",
     "ipo_price": "15.00",
     "name": "NextCure",
-    "return": "-16.00%",
+    "return": "-9.70%",
     "ticker": "NXTC"
   },
   {
@@ -4111,11 +4162,11 @@
     "ticker": "OAC"
   },
   {
-    "current": "10.90",
+    "current": "10.88",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "10.00",
     "name": "Oaktree Acquisition II",
-    "return": "9.00%",
+    "return": "8.80%",
     "ticker": "OACB"
   },
   {
@@ -4127,108 +4178,108 @@
     "ticker": "OCA"
   },
   {
-    "current": "10.37",
+    "current": "10.38",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "OCA Acquisition",
-    "return": "3.70%",
+    "return": "3.80%",
     "ticker": "OCAXU",
     "ticker_original": "OCAX"
   },
   {
-    "current": "21.82",
+    "current": "22.31",
     "ipo_date_stockanalysis": "2019-12-13",
     "ipo_price": "10.00",
     "name": "OneConnect Financial Technology",
-    "return": "118.20%",
+    "return": "123.10%",
     "ticker": "OCFT"
   },
   {
-    "current": "5.04",
+    "current": "4.98",
     "ipo_date_stockanalysis": "2020-12-15",
     "ipo_price": "4.00",
     "name": "Oriental Culture Holding",
-    "return": "26.00%",
+    "return": "24.50%",
     "ticker": "OCG"
   },
   {
-    "current": "42.63",
+    "current": "45.36",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "19.00",
     "name": "Olema Pharmaceuticals",
-    "return": "124.37%",
+    "return": "138.74%",
     "ticker": "OLMA"
   },
   {
-    "current": "52.11",
+    "current": "54.37",
     "ipo_date_stockanalysis": "2020-09-15",
     "ipo_price": "27.00",
     "name": "Outset Medical",
-    "return": "93.00%",
+    "return": "101.37%",
     "ticker": "OM"
   },
   {
-    "current": "10.61",
+    "current": "10.70",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "Omega Alpha SPAC",
-    "return": "6.10%",
+    "return": "7.00%",
     "ticker": "OMEG"
   },
   {
-    "current": "26.20",
+    "current": "25.95",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "15.00",
     "name": "Oncorus",
-    "return": "74.67%",
+    "return": "73.00%",
     "ticker": "ONCR"
   },
   {
-    "current": "49.48",
+    "current": "50.33",
     "ipo_date_stockanalysis": "2020-01-31",
     "ipo_price": "14.00",
     "name": "1Life Healthcare",
-    "return": "253.43%",
+    "return": "259.50%",
     "ticker": "ONEM"
   },
   {
-    "current": "34.17",
+    "current": "35.01",
     "ipo_date_stockanalysis": "2020-02-07",
     "ipo_price": "12.00",
     "name": "OneWater Marine",
-    "return": "184.75%",
+    "return": "191.75%",
     "ticker": "ONEW"
   },
   {
-    "current": "16.71",
+    "current": "16.75",
     "ipo_date_stockanalysis": "2019-09-26",
     "ipo_price": "15.00",
     "name": "Oportun Financial",
-    "return": "11.40%",
+    "return": "11.63%",
     "ticker": "OPRT"
   },
   {
-    "current": "12.35",
+    "current": "11.70",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "13.50",
     "name": "Opthea",
-    "return": "-8.52%",
+    "return": "-13.33%",
     "ticker": "OPT"
   },
   {
-    "current": "13.37",
+    "current": "13.21",
     "ipo_date_stockanalysis": "2019-07-18",
     "ipo_price": "15.30",
     "name": "Owl Rock Capital",
-    "return": "-12.61%",
+    "return": "-13.69%",
     "ticker": "ORCC"
   },
   {
-    "current": "32.69",
+    "current": "32.88",
     "ipo_date_stockanalysis": "2020-04-24",
     "ipo_price": "16.00",
     "name": "Oric Pharmaceuticals",
-    "return": "104.31%",
+    "return": "105.47%",
     "ticker": "ORIC"
   },
   {
@@ -4248,197 +4299,204 @@
     "ticker": "ORSN"
   },
   {
-    "current": "55.36",
+    "current": "54.75",
     "ipo_date_stockanalysis": "2020-08-06",
     "ipo_price": "21.00",
     "name": "Oak Street Health",
-    "return": "163.62%",
+    "return": "160.71%",
     "ticker": "OSH"
   },
   {
-    "current": "10.15",
+    "current": "10.21",
     "ipo_date_stockanalysis": "2021-01-20",
     "ipo_price": "10.00",
     "name": "Oyster Enterprises Acquisition",
-    "return": "1.50%",
+    "return": "2.05%",
     "ticker": "OSTRU",
     "ticker_original": "OSTR"
   },
   {
-    "current": "10.35",
+    "current": "10.26",
     "ipo_date_stockanalysis": "2020-11-17",
     "ipo_price": "10.00",
     "name": "OTR Acquisition",
-    "return": "3.50%",
+    "return": "2.60%",
     "ticker": "OTRA"
   },
   {
-    "current": "19.05",
+    "current": "19.87",
     "ipo_date_stockanalysis": "2019-10-31",
     "ipo_price": "16.00",
     "name": "Oyster Point Pharma",
-    "return": "19.06%",
+    "return": "24.19%",
     "ticker": "OYST"
   },
   {
-    "current": "55.00",
+    "current": "53.25",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "30.00",
     "name": "Ozon Holdings",
-    "return": "83.33%",
+    "return": "77.50%",
     "ticker": "OZON"
   },
   {
-    "current": "11.54",
+    "current": "11.86",
     "ipo_date_stockanalysis": "2020-10-07",
     "ipo_price": "10.00",
     "name": "TPG Pace Tech Opportunities",
-    "return": "15.40%",
+    "return": "18.55%",
     "ticker": "PACE"
   },
   {
-    "current": "10.83",
+    "current": "10.71",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Pioneer Merger",
-    "return": "8.30%",
+    "return": "7.10%",
     "ticker": "PACX"
   },
   {
-    "current": "10.30",
+    "current": "10.23",
     "ipo_date_stockanalysis": "2020-10-08",
     "ipo_price": "10.00",
     "name": "Petra Acquisition",
-    "return": "3.00%",
+    "return": "2.30%",
     "ticker": "PAIC"
   },
   {
-    "current": "11.20",
+    "current": "11.08",
     "ipo_date_stockanalysis": "2020-07-01",
     "ipo_price": "10.00",
     "name": "Panacea Acquisition",
-    "return": "12.00%",
+    "return": "10.75%",
     "ticker": "PANA"
   },
   {
-    "current": "18.01",
+    "current": "18.13",
     "ipo_date_stockanalysis": "2020-07-17",
     "ipo_price": "18.00",
     "name": "Pandion Therapeutics",
-    "return": "0.06%",
+    "return": "0.72%",
     "ticker": "PAND"
   },
   {
-    "current": "11.69",
+    "current": "11.45",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Provident Acquisition",
-    "return": "16.90%",
-    "ticker": "PAQCU",
-    "ticker_original": "PAQC"
+    "return": "14.50%",
+    "ticker": "PAQC"
   },
   {
-    "current": "22.82",
+    "current": "20.04",
     "ipo_date_stockanalysis": "2020-02-28",
     "ipo_price": "18.00",
     "name": "Passage Bio",
-    "return": "26.78%",
+    "return": "11.33%",
     "ticker": "PASG"
   },
   {
-    "current": "2.83",
+    "current": "20.05",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "17.00",
+    "name": "Patria Investments",
+    "return": "17.94%",
+    "ticker": "PAX"
+  },
+  {
+    "current": "2.81",
     "ipo_date_stockanalysis": "2019-04-02",
     "ipo_price": "5.00",
     "name": "Powerbridge Technologies",
-    "return": "-43.40%",
+    "return": "-43.72%",
     "ticker": "PBTS"
   },
   {
-    "current": "26.00",
+    "current": "25.90",
     "ipo_date_stockanalysis": "2020-12-10",
     "ipo_price": "25.00",
     "name": "Periphas Capital Partnering",
-    "return": "4.00%",
+    "return": "3.60%",
     "ticker": "PCPC"
   },
   {
-    "current": "10.99",
+    "current": "11.03",
     "ipo_date_stockanalysis": "2020-04-24",
     "ipo_price": "10.00",
     "name": "CC Neuberger Principal Holdings I",
-    "return": "9.90%",
+    "return": "10.25%",
     "ticker": "PCPL"
   },
   {
-    "current": "23.67",
+    "current": "25.04",
     "ipo_date_stockanalysis": "2020-06-12",
     "ipo_price": "16.00",
     "name": "Vaxcyte",
-    "return": "47.94%",
+    "return": "56.50%",
     "ticker": "PCVX"
   },
   {
-    "current": "48.37",
+    "current": "48.89",
     "ipo_date_stockanalysis": "2019-04-11",
     "ipo_price": "24.00",
     "name": "PagerDuty",
-    "return": "101.54%",
+    "return": "103.71%",
     "ticker": "PD"
   },
   {
-    "current": "12.10",
+    "current": "12.44",
     "ipo_date_stockanalysis": "2020-09-24",
     "ipo_price": "10.00",
     "name": "Peridot Acquisition",
-    "return": "21.00%",
+    "return": "24.40%",
     "ticker": "PDAC"
   },
   {
-    "current": "16.10",
+    "current": "16.54",
     "ipo_date_stockanalysis": "2020-02-07",
     "ipo_price": "18.50",
     "name": "Professional Holding",
-    "return": "-12.97%",
+    "return": "-10.62%",
     "ticker": "PFHD"
   },
   {
-    "current": "47.28",
+    "current": "50.21",
     "ipo_date_stockanalysis": "2019-10-25",
     "ipo_price": "13.00",
     "name": "Progyny",
-    "return": "263.69%",
+    "return": "286.23%",
     "ticker": "PGNY"
   },
   {
-    "current": "39.02",
+    "current": "39.69",
     "ipo_date_stockanalysis": "2019-10-25",
     "ipo_price": "19.00",
     "name": "Phathom Pharmaceuticals",
-    "return": "105.37%",
+    "return": "108.89%",
     "ticker": "PHAT"
   },
   {
-    "current": "10.40",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-11-18",
     "ipo_price": "10.00",
     "name": "Population Health Investment",
-    "return": "4.00%",
+    "return": "5.00%",
     "ticker": "PHIC"
   },
   {
-    "current": "69.80",
+    "current": "69.45",
     "ipo_date_stockanalysis": "2019-07-18",
     "ipo_price": "17.00",
     "name": "Phreesia",
-    "return": "310.59%",
+    "return": "308.53%",
     "ticker": "PHR"
   },
   {
-    "current": "10.46",
+    "current": "10.51",
     "ipo_date_stockanalysis": "2020-09-10",
     "ipo_price": "10.00",
     "name": "Prime Impact Acquisition I",
-    "return": "4.60%",
+    "return": "5.05%",
     "ticker": "PIAI"
   },
   {
@@ -4450,108 +4508,108 @@
     "ticker": "PIC"
   },
   {
-    "current": "16.00",
+    "current": "16.08",
     "ipo_date_stockanalysis": "2019-11-22",
     "ipo_price": "19.00",
     "name": "Alpine Income Property Trust",
-    "return": "-15.79%",
+    "return": "-15.37%",
     "ticker": "PINE"
   },
   {
-    "current": "32.14",
+    "current": "32.30",
     "ipo_date_stockanalysis": "2019-09-19",
     "ipo_price": "15.00",
     "name": "Ping Identity",
-    "return": "114.27%",
+    "return": "115.30%",
     "ticker": "PING"
   },
   {
-    "current": "73.52",
+    "current": "73.23",
     "ipo_date_stockanalysis": "2019-04-18",
     "ipo_price": "19.00",
     "name": "Pinterest",
-    "return": "286.95%",
+    "return": "285.42%",
     "ticker": "PINS"
   },
   {
-    "current": "13.00",
+    "current": "12.87",
     "ipo_date_stockanalysis": "2020-11-17",
     "ipo_price": "10.00",
     "name": "Pine Island Acquisition",
-    "return": "30.00%",
+    "return": "28.70%",
     "ticker": "PIPP"
   },
   {
-    "current": "1.09",
+    "current": "1.05",
     "ipo_date_stockanalysis": "2019-08-14",
     "ipo_price": "5.00",
     "name": "China Xiangtai Food",
-    "return": "-78.20%",
+    "return": "-79.10%",
     "ticker": "PLIN"
   },
   {
-    "current": "97.63",
+    "current": "99.75",
     "ipo_date_stockanalysis": "2019-04-17",
     "ipo_price": "15.00",
     "name": "Palomar Holdings",
-    "return": "550.87%",
+    "return": "564.97%",
     "ticker": "PLMR"
   },
   {
-    "current": "26.08",
+    "current": "26.43",
     "ipo_date_stockanalysis": "2020-06-03",
     "ipo_price": "16.00",
     "name": "Pliant Therapeutics",
-    "return": "63.00%",
+    "return": "65.16%",
     "ticker": "PLRX"
   },
   {
-    "current": "31.01",
+    "current": "30.25",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "27.00",
     "name": "Playtika",
-    "return": "14.85%",
+    "return": "12.04%",
     "ticker": "PLTK"
   },
   {
-    "current": "25.98",
+    "current": "32.56",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "7.25",
     "name": "Palantir",
-    "return": "258.34%",
+    "return": "349.10%",
     "ticker": "PLTR"
   },
   {
-    "current": "10.29",
+    "current": "10.34",
     "ipo_date_stockanalysis": "2020-09-22",
     "ipo_price": "10.00",
     "name": "PMV Consumer Acquisition",
-    "return": "2.90%",
+    "return": "3.40%",
     "ticker": "PMVC"
   },
   {
-    "current": "43.94",
+    "current": "44.96",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "18.00",
     "name": "PMV Pharmaceuticals",
-    "return": "144.11%",
+    "return": "149.78%",
     "ticker": "PMVP"
   },
   {
-    "current": "10.50",
+    "current": "10.46",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Pontem",
-    "return": "5.00%",
+    "return": "4.55%",
     "ticker": "PNTM",
     "ticker_original": "PNTM"
   },
   {
-    "current": "74.77",
+    "current": "73.68",
     "ipo_date_stockanalysis": "2021-01-14",
     "ipo_price": "42.00",
     "name": "Poshmark",
-    "return": "78.02%",
+    "return": "75.42%",
     "ticker": "POSH"
   },
   {
@@ -4563,59 +4621,59 @@
     "ticker": "POW"
   },
   {
-    "current": "35.06",
+    "current": "35.04",
     "ipo_date_stockanalysis": "2020-02-06",
     "ipo_price": "27.00",
     "name": "PPD, Inc.",
-    "return": "29.85%",
+    "return": "29.78%",
     "ticker": "PPD"
   },
   {
-    "current": "10.61",
+    "current": "10.60",
     "ipo_date_stockanalysis": "2021-01-06",
     "ipo_price": "10.00",
     "name": "Poema Global",
-    "return": "6.10%",
+    "return": "6.00%",
     "ticker": "PPGH"
   },
   {
-    "current": "54.19",
+    "current": "56.31",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "19.00",
     "name": "Praxis Precision Medicines",
-    "return": "185.21%",
+    "return": "196.34%",
     "ticker": "PRAX"
   },
   {
-    "current": "4.58",
+    "current": "4.47",
     "ipo_date_stockanalysis": "2020-09-01",
     "ipo_price": "8.00",
     "name": "PainReform",
-    "return": "-42.75%",
+    "return": "-44.13%",
     "ticker": "PRFX"
   },
   {
-    "current": "76.54",
+    "current": "74.07",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "19.00",
     "name": "Prelude Therapeutics",
-    "return": "302.84%",
+    "return": "289.84%",
     "ticker": "PRLD"
   },
   {
-    "current": "6.22",
+    "current": "6.24",
     "ipo_date_stockanalysis": "2020-06-19",
     "ipo_price": "15.00",
     "name": "Progenity",
-    "return": "-58.53%",
+    "return": "-58.40%",
     "ticker": "PROG"
   },
   {
-    "current": "12.61",
+    "current": "12.63",
     "ipo_date_stockanalysis": "2019-07-25",
     "ipo_price": "14.00",
     "name": "ProSight Global",
-    "return": "-9.93%",
+    "return": "-9.79%",
     "ticker": "PROS"
   },
   {
@@ -4623,15 +4681,15 @@
     "ipo_date_stockanalysis": "2020-07-31",
     "ipo_price": "10.00",
     "name": "CC Neuberger Principal Holdings II",
-    "return": "6.60%",
+    "return": "6.55%",
     "ticker": "PRPB"
   },
   {
-    "current": "11.46",
+    "current": "11.39",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Prospector Capital",
-    "return": "14.60%",
+    "return": "13.90%",
     "ticker": "PRSR"
   },
   {
@@ -4643,51 +4701,51 @@
     "ticker": "PRVL"
   },
   {
-    "current": "11.13",
+    "current": "11.06",
     "ipo_date_stockanalysis": "2020-07-22",
     "ipo_price": "10.00",
     "name": "Property Solutions Acquisition",
-    "return": "11.30%",
+    "return": "10.55%",
     "ticker": "PSAC"
   },
   {
-    "current": "38.22",
+    "current": "38.51",
     "ipo_date_stockanalysis": "2019-05-08",
     "ipo_price": "27.00",
     "name": "Parsons",
-    "return": "41.56%",
+    "return": "42.61%",
     "ticker": "PSN"
   },
   {
-    "current": "48.82",
+    "current": "48.14",
     "ipo_date_stockanalysis": "2019-06-20",
     "ipo_price": "17.00",
     "name": "Personalis",
-    "return": "187.18%",
+    "return": "183.18%",
     "ticker": "PSNL"
   },
   {
-    "current": "29.20",
+    "current": "29.19",
     "ipo_date_stockanalysis": "2020-07-22",
     "ipo_price": "20.00",
     "name": "Pershing Square Tontine Holdings",
-    "return": "46.00%",
+    "return": "45.95%",
     "ticker": "PSTH"
   },
   {
-    "current": "16.39",
+    "current": "16.24",
     "ipo_date_stockanalysis": "2019-05-15",
     "ipo_price": "17.00",
     "name": "Postal Realty Trust",
-    "return": "-3.59%",
+    "return": "-4.50%",
     "ticker": "PSTL"
   },
   {
-    "current": "9.83",
+    "current": "9.20",
     "ipo_date_stockanalysis": "2020-07-10",
     "ipo_price": "16.00",
     "name": "Poseida Therapeutics",
-    "return": "-38.56%",
+    "return": "-42.50%",
     "ticker": "PSTX"
   },
   {
@@ -4699,187 +4757,204 @@
     "ticker": "PTAC"
   },
   {
-    "current": "10.80",
+    "current": "10.81",
     "ipo_date_stockanalysis": "2020-12-04",
     "ipo_price": "10.00",
     "name": "Proptech Investment II",
-    "return": "8.00%",
+    "return": "8.10%",
     "ticker": "PTIC"
   },
   {
-    "current": "10.40",
+    "current": "10.35",
     "ipo_date_stockanalysis": "2020-07-13",
     "ipo_price": "10.00",
     "name": "PTK Acquisition",
-    "return": "4.00%",
+    "return": "3.50%",
     "ticker": "PTK"
   },
   {
-    "current": "158.13",
+    "current": "159.95",
     "ipo_date_stockanalysis": "2019-09-26",
     "ipo_price": "29.00",
     "name": "Peloton Interactive",
-    "return": "445.28%",
+    "return": "451.55%",
     "ticker": "PTON"
   },
   {
-    "current": "15.99",
+    "current": "15.98",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "14.00",
     "name": "Pactiv Evergreen",
-    "return": "14.21%",
+    "return": "14.11%",
     "ticker": "PTVE"
   },
   {
-    "current": "37.75",
+    "current": "37.69",
     "ipo_date_stockanalysis": "2020-12-09",
     "ipo_price": "20.00",
     "name": "PubMatic",
-    "return": "88.75%",
+    "return": "88.43%",
     "ticker": "PUBM"
   },
   {
-    "current": "6.09",
+    "current": "6.02",
     "ipo_date_stockanalysis": "2019-03-29",
     "ipo_price": "6.00",
     "name": "Puyi Inc.",
-    "return": "1.50%",
+    "return": "0.33%",
     "ticker": "PUYI"
   },
   {
-    "current": "10.41",
+    "current": "11.00",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "10.00",
+    "name": "Primavera Capital Acquisition",
+    "return": "10.00%",
+    "ticker": "PV",
+    "ticker_original": "PV"
+  },
+  {
+    "current": "9.98",
     "ipo_date_stockanalysis": "2020-06-26",
     "ipo_price": "16.00",
     "name": "PolyPid",
-    "return": "-34.94%",
+    "return": "-37.65%",
     "ticker": "PYPD"
   },
   {
-    "current": "14.35",
+    "current": "14.10",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "10.00",
     "name": "Qell Acquisition",
-    "return": "43.50%",
+    "return": "41.00%",
     "ticker": "QELL"
   },
   {
-    "current": "7.39",
+    "current": "7.60",
     "ipo_date_stockanalysis": "2020-07-10",
     "ipo_price": "10.00",
     "name": "Quhuo",
-    "return": "-26.10%",
+    "return": "-24.00%",
     "ticker": "QH"
   },
   {
-    "current": "2.63",
+    "current": "2.60",
     "ipo_date_stockanalysis": "2019-11-05",
     "ipo_price": "17.00",
     "name": "Q&K International Group",
-    "return": "-84.53%",
+    "return": "-84.74%",
     "ticker": "QK"
   },
   {
-    "current": "8.34",
+    "current": "8.10",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "5.00",
     "name": "Qilian International",
-    "return": "66.80%",
+    "return": "62.00%",
     "ticker": "QLI"
   },
   {
-    "current": "10.77",
+    "current": "10.83",
     "ipo_date_stockanalysis": "2020-12-08",
     "ipo_price": "10.00",
     "name": "Revolution Acceleration Acquisition",
-    "return": "7.70%",
+    "return": "8.25%",
     "ticker": "RAAC"
   },
   {
-    "current": "14.40",
+    "current": "14.12",
     "ipo_date_stockanalysis": "2020-07-08",
     "ipo_price": "10.00",
     "name": "Therapeutics Acquisition",
-    "return": "44.00%",
+    "return": "41.20%",
     "ticker": "RACA"
   },
   {
-    "current": "20.74",
+    "current": "20.82",
     "ipo_date_stockanalysis": "2019-10-31",
     "ipo_price": "12.00",
     "name": "Rapt Therapeutics",
-    "return": "72.83%",
+    "return": "73.50%",
     "ticker": "RAPT"
   },
   {
-    "current": "10.93",
+    "current": "10.86",
     "ipo_date_stockanalysis": "2020-08-13",
     "ipo_price": "10.00",
     "name": "Redball Acquisition",
-    "return": "9.30%",
+    "return": "8.55%",
     "ticker": "RBAC"
   },
   {
-    "current": "9.00",
+    "current": "8.95",
     "ipo_date_stockanalysis": "2019-01-17",
     "ipo_price": "10.00",
     "name": "Rhinebeck Bancorp",
-    "return": "-10.00%",
+    "return": "-10.50%",
     "ticker": "RBKB"
   },
   {
-    "current": "10.38",
+    "current": "10.48",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "10.00",
     "name": "Recharge Acquisition",
-    "return": "3.80%",
+    "return": "4.80%",
     "ticker": "RCHG"
   },
   {
-    "current": "27.76",
+    "current": "27.24",
     "ipo_date_stockanalysis": "2019-06-28",
     "ipo_price": "20.00",
     "name": "RealReal, Inc",
-    "return": "38.80%",
+    "return": "36.20%",
     "ticker": "REAL"
   },
   {
-    "current": "28.97",
+    "current": "29.47",
     "ipo_date_stockanalysis": "2020-01-31",
     "ipo_price": "26.00",
     "name": "Reynolds Consumer Products",
-    "return": "11.42%",
+    "return": "13.35%",
     "ticker": "REYN"
   },
   {
-    "current": "11.60",
+    "current": "12.40",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "10.00",
     "name": "Rice Acquisition",
-    "return": "16.00%",
+    "return": "24.00%",
     "ticker": "RICE"
   },
   {
-    "current": "19.97",
+    "current": "20.03",
     "ipo_date_stockanalysis": "2020-08-06",
     "ipo_price": "18.00",
     "name": "Rocket Companies",
-    "return": "10.94%",
+    "return": "11.25%",
     "ticker": "RKT"
   },
   {
-    "current": "56.69",
+    "current": "61.28",
     "ipo_date_stockanalysis": "2020-07-16",
     "ipo_price": "20.00",
     "name": "Relay Therapeutics",
-    "return": "183.45%",
+    "return": "206.40%",
     "ticker": "RLAY"
   },
   {
-    "current": "13.36",
+    "current": "30.01",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "12.00",
+    "name": "RLX Technology",
+    "return": "150.08%",
+    "ticker": "RLX"
+  },
+  {
+    "current": "13.52",
     "ipo_date_stockanalysis": "2019-07-02",
     "ipo_price": "10.00",
     "name": "Richmond Mutual Bancorporation",
-    "return": "33.60%",
+    "return": "35.20%",
     "ticker": "RMBI"
   },
   {
@@ -4891,51 +4966,51 @@
     "ticker": "RMG"
   },
   {
-    "current": "11.35",
+    "current": "11.69",
     "ipo_date_stockanalysis": "2020-12-10",
     "ipo_price": "10.00",
     "name": "RMG Acquisition II",
-    "return": "13.50%",
+    "return": "16.85%",
     "ticker": "RMGB"
   },
   {
-    "current": "26.75",
+    "current": "25.79",
     "ipo_date_stockanalysis": "2020-06-12",
     "ipo_price": "18.00",
     "name": "Avidity Biosciences",
-    "return": "48.61%",
+    "return": "43.28%",
     "ticker": "RNA"
   },
   {
-    "current": "24.30",
+    "current": "25.65",
     "ipo_date_stockanalysis": "2020-07-17",
     "ipo_price": "13.50",
     "name": "Renalytix AI",
-    "return": "80.00%",
+    "return": "90.00%",
     "ticker": "RNLX"
   },
   {
-    "current": "11.15",
+    "current": "11.29",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "Roth CH Acquisition II",
-    "return": "11.50%",
+    "return": "12.90%",
     "ticker": "ROCC"
   },
   {
-    "current": "18.53",
+    "current": "18.97",
     "ipo_date_stockanalysis": "2020-05-05",
     "ipo_price": "10.00",
     "name": "Roth CH Acquisition I",
-    "return": "85.30%",
+    "return": "89.70%",
     "ticker": "ROCH"
   },
   {
-    "current": "17.78",
+    "current": "19.52",
     "ipo_date_stockanalysis": "2020-10-28",
     "ipo_price": "27.00",
     "name": "Root, Inc.",
-    "return": "-34.15%",
+    "return": "-27.70%",
     "ticker": "ROOT"
   },
   {
@@ -4948,107 +5023,107 @@
     "ticker_original": "ROT"
   },
   {
-    "current": "10.26",
+    "current": "10.24",
     "ipo_date_stockanalysis": "2019-04-04",
     "ipo_price": "10.00",
     "name": "Replay Acquisition",
-    "return": "2.60%",
+    "return": "2.40%",
     "ticker": "RPLA"
   },
   {
-    "current": "50.42",
+    "current": "51.17",
     "ipo_date_stockanalysis": "2020-06-16",
     "ipo_price": "28.00",
     "name": "Royalty Pharma",
-    "return": "80.07%",
+    "return": "82.75%",
     "ticker": "RPRX"
   },
   {
-    "current": "39.14",
+    "current": "37.89",
     "ipo_date_stockanalysis": "2020-06-19",
     "ipo_price": "20.00",
     "name": "Repare Therapeutics",
-    "return": "95.70%",
+    "return": "89.45%",
     "ticker": "RPTX"
   },
   {
-    "current": "52.00",
+    "current": "52.13",
     "ipo_date_stockanalysis": "2019-05-03",
     "ipo_price": "45.00",
     "name": "Red River Bancshares",
-    "return": "15.56%",
+    "return": "15.83%",
     "ticker": "RRBI"
   },
   {
-    "current": "16.72",
+    "current": "17.06",
     "ipo_date_stockanalysis": "2020-12-02",
     "ipo_price": "10.00",
     "name": "Rodgers Silicon Valley Acquisition",
-    "return": "67.20%",
+    "return": "70.60%",
     "ticker": "RSVA"
   },
   {
-    "current": "9.54",
+    "current": "9.73",
     "ipo_date_stockanalysis": "2019-05-23",
     "ipo_price": "17.50",
     "name": "Rattler Midstream",
-    "return": "-45.49%",
+    "return": "-44.40%",
     "ticker": "RTLR"
   },
   {
-    "current": "13.71",
+    "current": "13.87",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "10.00",
     "name": "Reinvent Technology Partners",
-    "return": "37.10%",
+    "return": "38.70%",
     "ticker": "RTP"
   },
   {
-    "current": "12.30",
+    "current": "12.68",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "10.00",
     "name": "Reinvent Technology Partners Z",
-    "return": "23.00%",
+    "return": "26.80%",
     "ticker": "RTPZ"
   },
   {
-    "current": "3.28",
+    "current": "3.15",
     "ipo_date_stockanalysis": "2019-04-03",
     "ipo_price": "12.50",
     "name": "Ruhnn Holding",
-    "return": "-73.76%",
+    "return": "-74.80%",
     "ticker": "RUHN"
   },
   {
-    "current": "35.10",
+    "current": "36.22",
     "ipo_date_stockanalysis": "2019-06-07",
     "ipo_price": "18.00",
     "name": "Revolve Group",
-    "return": "95.00%",
+    "return": "101.22%",
     "ticker": "RVLV"
   },
   {
-    "current": "43.25",
+    "current": "42.99",
     "ipo_date_stockanalysis": "2020-02-13",
     "ipo_price": "17.00",
     "name": "Revolution Medicines",
-    "return": "154.41%",
+    "return": "152.85%",
     "ticker": "RVMD"
   },
   {
-    "current": "19.12",
+    "current": "19.08",
     "ipo_date_stockanalysis": "2020-08-05",
     "ipo_price": "21.00",
     "name": "Rackspace Technology",
-    "return": "-8.95%",
+    "return": "-9.14%",
     "ticker": "RXT"
   },
   {
-    "current": "10.61",
+    "current": "10.59",
     "ipo_date_stockanalysis": "2020-09-15",
     "ipo_price": "10.00",
     "name": "Software Acquisition Group II",
-    "return": "6.10%",
+    "return": "5.85%",
     "ticker": "SAII"
   },
   {
@@ -5060,59 +5135,59 @@
     "ticker": "SAQN"
   },
   {
-    "current": "40.30",
+    "current": "39.63",
     "ipo_date_stockanalysis": "2019-07-26",
     "ipo_price": "10.00",
     "name": "Switchback Energy Acquisition",
-    "return": "303.00%",
+    "return": "296.30%",
     "ticker": "SBE"
   },
   {
-    "current": "10.31",
+    "current": "10.35",
     "ipo_date_stockanalysis": "2020-09-15",
     "ipo_price": "10.00",
     "name": "Sandbridge Acquisition",
-    "return": "3.10%",
+    "return": "3.50%",
     "ticker": "SBG"
   },
   {
-    "current": "44.94",
+    "current": "45.66",
     "ipo_date_stockanalysis": "2020-12-04",
     "ipo_price": "21.00",
     "name": "Silverback Therapeutics",
-    "return": "114.00%",
+    "return": "117.40%",
     "ticker": "SBTX"
   },
   {
-    "current": "11.00",
+    "current": "10.95",
     "ipo_date_stockanalysis": "2020-12-17",
     "ipo_price": "10.00",
     "name": "ScION Tech Growth I",
-    "return": "10.00%",
+    "return": "9.50%",
     "ticker": "SCOA"
   },
   {
-    "current": "10.52",
+    "current": "10.45",
     "ipo_date_stockanalysis": "2019-07-12",
     "ipo_price": "10.00",
     "name": "SC Health",
-    "return": "5.20%",
+    "return": "4.50%",
     "ticker": "SCPE"
   },
   {
-    "current": "17.01",
+    "current": "17.45",
     "ipo_date_stockanalysis": "2019-05-03",
     "ipo_price": "16.00",
     "name": "SciPlay",
-    "return": "6.31%",
+    "return": "9.03%",
     "ticker": "SCPL"
   },
   {
-    "current": "12.92",
+    "current": "12.43",
     "ipo_date_stockanalysis": "2020-12-16",
     "ipo_price": "5.50",
     "name": "Scopus Biopharma",
-    "return": "134.91%",
+    "return": "126.00%",
     "ticker": "SCPS"
   },
   {
@@ -5124,67 +5199,75 @@
     "ticker": "SCVX"
   },
   {
-    "current": "10.81",
+    "current": "11.05",
     "ipo_date_stockanalysis": "2019-09-12",
     "ipo_price": "23.00",
     "name": "SmileDirectClub",
-    "return": "-53.02%",
+    "return": "-51.96%",
     "ticker": "SDC"
   },
   {
-    "current": "94.61",
+    "current": "95.74",
     "ipo_date_stockanalysis": "2020-02-06",
     "ipo_price": "17.00",
     "name": "Schrodinger",
-    "return": "456.53%",
+    "return": "463.18%",
     "ticker": "SDGR"
   },
   {
-    "current": "10.49",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "10.00",
     "name": "Sports Entertainment Acquisition",
-    "return": "4.90%",
+    "return": "5.00%",
     "ticker": "SEAH"
   },
   {
-    "current": "82.49",
+    "current": "78.04",
     "ipo_date_stockanalysis": "2020-12-04",
     "ipo_price": "19.00",
     "name": "Seer, Inc",
-    "return": "334.16%",
+    "return": "310.74%",
     "ticker": "SEER"
   },
   {
-    "current": "11.18",
+    "current": "11.24",
     "ipo_date_stockanalysis": "2019-11-01",
     "ipo_price": "10.00",
     "name": "Osprey Technology Acquisition",
-    "return": "11.80%",
+    "return": "12.40%",
     "ticker": "SFTW"
   },
   {
-    "current": "10.25",
+    "current": "10.19",
     "ipo_date_stockanalysis": "2020-11-30",
     "ipo_price": "10.00",
     "name": "Seaport Global Acquisition",
-    "return": "2.50%",
+    "return": "1.90%",
     "ticker": "SGAM"
   },
   {
-    "current": "34.50",
+    "current": "34.53",
     "ipo_date_stockanalysis": "2020-12-04",
     "ipo_price": "18.00",
     "name": "Sigilon Therapeutics",
-    "return": "91.67%",
+    "return": "91.81%",
     "ticker": "SGTX"
   },
   {
-    "current": "26.07",
+    "current": "10.43",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "10.00",
+    "name": "SCP & CO Healthcare Acquisition",
+    "return": "4.30%",
+    "ticker": "SHAC"
+  },
+  {
+    "current": "26.74",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "23.00",
     "name": "Sotera Health",
-    "return": "13.35%",
+    "return": "16.26%",
     "ticker": "SHC"
   },
   {
@@ -5196,52 +5279,52 @@
     "ticker": "SHLL"
   },
   {
-    "current": "67.59",
+    "current": "76.02",
     "ipo_date_stockanalysis": "2019-11-07",
     "ipo_price": "12.00",
     "name": "Silvergate Capital",
-    "return": "463.25%",
+    "return": "533.50%",
     "ticker": "SI"
   },
   {
-    "current": "62.17",
+    "current": "60.46",
     "ipo_date_stockanalysis": "2019-04-04",
     "ipo_price": "20.00",
     "name": "Silk Road Medical",
-    "return": "210.85%",
+    "return": "202.28%",
     "ticker": "SILK"
   },
   {
-    "current": "136.60",
+    "current": "138.04",
     "ipo_date_stockanalysis": "2019-11-21",
     "ipo_price": "13.00",
     "name": "SiTime",
-    "return": "950.77%",
+    "return": "961.81%",
     "ticker": "SITM"
   },
   {
-    "current": "10.48",
+    "current": "10.43",
     "ipo_date_stockanalysis": "2021-01-14",
     "ipo_price": "10.00",
     "name": "Silver Crest Acquisition",
-    "return": "4.80%",
+    "return": "4.30%",
     "ticker": "SLCRU",
     "ticker_original": "SLCR"
   },
   {
-    "current": "3.45",
+    "current": "3.46",
     "ipo_date_stockanalysis": "2019-02-26",
     "ipo_price": "11.00",
     "name": "Super League Gaming",
-    "return": "-68.64%",
+    "return": "-68.52%",
     "ticker": "SLGG"
   },
   {
-    "current": "24.99",
+    "current": "25.00",
     "ipo_date_stockanalysis": "2020-05-21",
     "ipo_price": "20.00",
     "name": "SelectQuote",
-    "return": "24.95%",
+    "return": "25.00%",
     "ticker": "SLQT"
   },
   {
@@ -5253,51 +5336,51 @@
     "ticker": "SMMC"
   },
   {
-    "current": "0.661",
+    "current": "0.638",
     "ipo_date_stockanalysis": "2019-08-01",
     "ipo_price": "13.00",
     "name": "Sundial Growers",
-    "return": "-94.91%",
+    "return": "-95.09%",
     "ticker": "SNDL"
   },
   {
-    "current": "286.32",
+    "current": "285.79",
     "ipo_date_stockanalysis": "2020-09-16",
     "ipo_price": "120.00",
     "name": "Snowflake",
-    "return": "138.60%",
+    "return": "138.16%",
     "ticker": "SNOW"
   },
   {
-    "current": "12.77",
+    "current": "13.30",
     "ipo_date_stockanalysis": "2020-09-11",
     "ipo_price": "10.00",
     "name": "Tortoise Acquisition II",
-    "return": "27.70%",
+    "return": "33.00%",
     "ticker": "SNPR"
   },
   {
-    "current": "10.95",
+    "current": "10.90",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "Senior Connect Acquisition I",
-    "return": "9.50%",
+    "return": "9.00%",
     "ticker": "SNRH"
   },
   {
-    "current": "11.35",
+    "current": "11.74",
     "ipo_date_stockanalysis": "2020-05-06",
     "ipo_price": "10.00",
     "name": "Sustainable Opportunities Acquisition",
-    "return": "13.50%",
+    "return": "17.40%",
     "ticker": "SOAC"
   },
   {
-    "current": "9.74",
+    "current": "10.41",
     "ipo_date_stockanalysis": "2019-02-19",
     "ipo_price": "5.00",
     "name": "Soliton",
-    "return": "94.80%",
+    "return": "108.20%",
     "ticker": "SOLY"
   },
   {
@@ -5309,284 +5392,284 @@
     "ticker": "SONG"
   },
   {
-    "current": "0.923",
+    "current": "0.936",
     "ipo_date_stockanalysis": "2019-05-10",
     "ipo_price": "11.00",
     "name": "Sonim Technologies",
-    "return": "-91.61%",
+    "return": "-91.49%",
     "ticker": "SONM"
   },
   {
-    "current": "19.79",
+    "current": "19.72",
     "ipo_date_stockanalysis": "2019-05-09",
     "ipo_price": "17.50",
     "name": "South Plains Financial",
-    "return": "13.09%",
+    "return": "12.69%",
     "ticker": "SPFI"
   },
   {
-    "current": "11.68",
+    "current": "11.80",
     "ipo_date_stockanalysis": "2020-12-03",
     "ipo_price": "10.00",
     "name": "Jaws Spitfire Acquisition",
-    "return": "16.75%",
+    "return": "18.00%",
     "ticker": "SPFR"
   },
   {
-    "current": "11.33",
+    "current": "11.51",
     "ipo_date_stockanalysis": "2020-10-21",
     "ipo_price": "10.00",
     "name": "Supernova Partners Acquisition",
-    "return": "13.30%",
+    "return": "15.05%",
     "ticker": "SPNV"
   },
   {
-    "current": "20.89",
+    "current": "21.71",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "15.00",
     "name": "Spruce Biosciences",
-    "return": "39.27%",
+    "return": "44.73%",
     "ticker": "SPRB"
   },
   {
-    "current": "12.65",
+    "current": "12.84",
     "ipo_date_stockanalysis": "2020-11-25",
     "ipo_price": "10.00",
     "name": "Spartan Acquisition II",
-    "return": "26.50%",
+    "return": "28.35%",
     "ticker": "SPRQ"
   },
   {
-    "current": "63.29",
+    "current": "65.05",
     "ipo_date_stockanalysis": "2019-12-13",
     "ipo_price": "17.00",
     "name": "Sprout Social",
-    "return": "272.29%",
+    "return": "282.65%",
     "ticker": "SPT"
   },
   {
-    "current": "4.00",
+    "current": "3.78",
     "ipo_date_stockanalysis": "2020-10-07",
     "ipo_price": "5.00",
     "name": "Presidio Property Trust",
-    "return": "-20.00%",
+    "return": "-24.40%",
     "ticker": "SQFT"
   },
   {
-    "current": "24.89",
+    "current": "25.90",
     "ipo_date_stockanalysis": "2020-10-30",
     "ipo_price": "16.00",
     "name": "SQZ Biotechnologies",
-    "return": "55.56%",
+    "return": "61.88%",
     "ticker": "SQZ"
   },
   {
-    "current": "26.26",
+    "current": "24.87",
     "ipo_date_stockanalysis": "2019-11-08",
     "ipo_price": "10.00",
     "name": "Stable Road Acquisition",
-    "return": "162.60%",
+    "return": "148.70%",
     "ticker": "SRAC"
   },
   {
-    "current": "10.44",
+    "current": "10.37",
     "ipo_date_stockanalysis": "2020-10-21",
     "ipo_price": "10.00",
     "name": "Sarissa Capital Acquisition",
-    "return": "4.40%",
+    "return": "3.70%",
     "ticker": "SRSA"
   },
   {
-    "current": "25.45",
+    "current": "23.65",
     "ipo_date_stockanalysis": "2019-08-08",
     "ipo_price": "10.00",
     "name": "Silver Spike Acquisition",
-    "return": "154.50%",
+    "return": "136.45%",
     "ticker": "SSPK"
   },
   {
-    "current": "37.91",
+    "current": "37.40",
     "ipo_date_stockanalysis": "2020-09-16",
     "ipo_price": "18.00",
     "name": "StepStone Group",
-    "return": "110.61%",
+    "return": "107.78%",
     "ticker": "STEP"
   },
   {
-    "current": "14.72",
+    "current": "14.73",
     "ipo_date_stockanalysis": "2020-11-11",
     "ipo_price": "10.00",
     "name": "Northern Star Acquisition",
-    "return": "47.20%",
+    "return": "47.30%",
     "ticker": "STIC"
   },
   {
-    "current": "67.53",
+    "current": "67.38",
     "ipo_date_stockanalysis": "2019-06-19",
     "ipo_price": "18.00",
     "name": "Stoke Therapeutics",
-    "return": "275.17%",
+    "return": "274.33%",
     "ticker": "STOK"
   },
   {
-    "current": "12.13",
+    "current": "12.23",
     "ipo_date_stockanalysis": "2021-01-06",
     "ipo_price": "10.00",
     "name": "Star Peak II",
-    "return": "21.30%",
+    "return": "22.25%",
     "ticker": "STPC"
   },
   {
-    "current": "33.31",
+    "current": "34.38",
     "ipo_date_stockanalysis": "2020-08-18",
     "ipo_price": "10.00",
     "name": "Star Peak Energy Transition",
-    "return": "233.10%",
+    "return": "243.80%",
     "ticker": "STPK"
   },
   {
-    "current": "5.50",
+    "current": "6.21",
     "ipo_date_stockanalysis": "2019-09-13",
     "ipo_price": "15.00",
     "name": "Satsuma Pharmaceuticals",
-    "return": "-63.33%",
+    "return": "-58.60%",
     "ticker": "STSA"
   },
   {
-    "current": "47.23",
+    "current": "50.36",
     "ipo_date_stockanalysis": "2020-10-09",
     "ipo_price": "17.00",
     "name": "Shattuck Labs",
-    "return": "177.82%",
+    "return": "196.24%",
     "ticker": "STTK"
   },
   {
-    "current": "10.61",
+    "current": "10.72",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "10.00",
     "name": "ACON S2 Acquisition",
-    "return": "6.10%",
+    "return": "7.20%",
     "ticker": "STWO"
   },
   {
-    "current": "30.34",
+    "current": "34.13",
     "ipo_date_stockanalysis": "2020-09-17",
     "ipo_price": "22.00",
     "name": "Sumo Logic",
-    "return": "37.91%",
+    "return": "55.11%",
     "ticker": "SUMO"
   },
   {
-    "current": "10.78",
+    "current": "11.04",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "10.00",
     "name": "Spring Valley Acquisition",
-    "return": "7.80%",
+    "return": "10.40%",
     "ticker": "SV"
   },
   {
-    "current": "11.00",
+    "current": "10.99",
     "ipo_date_stockanalysis": "2020-09-10",
     "ipo_price": "10.00",
     "name": "Starboard Value Acquisition",
-    "return": "10.00%",
+    "return": "9.90%",
     "ticker": "SVAC"
   },
   {
-    "current": "13.25",
+    "current": "13.06",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "SVF Investment",
-    "return": "32.50%",
+    "return": "30.55%",
     "ticker": "SVFA"
   },
   {
-    "current": "10.78",
+    "current": "10.73",
     "ipo_date_stockanalysis": "2020-12-18",
     "ipo_price": "10.00",
     "name": "Seven Oaks Acquisition",
-    "return": "7.75%",
+    "return": "7.30%",
     "ticker": "SVOK"
   },
   {
-    "current": "131.49",
+    "current": "129.94",
     "ipo_date_stockanalysis": "2019-03-07",
     "ipo_price": "17.00",
     "name": "ShockWave Medical",
-    "return": "673.47%",
+    "return": "664.35%",
     "ticker": "SWAV"
   },
   {
-    "current": "12.25",
+    "current": "12.37",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Switchback II",
-    "return": "22.50%",
+    "return": "23.70%",
     "ticker": "SWBK"
   },
   {
-    "current": "10.46",
+    "current": "10.47",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "Athlon Acquisition",
-    "return": "4.60%",
+    "return": "4.65%",
     "ticker": "SWETU",
     "ticker_original": "SWET"
   },
   {
-    "current": "79.89",
+    "current": "85.07",
     "ipo_date_stockanalysis": "2019-09-13",
     "ipo_price": "18.00",
     "name": "Springworks Therapeutics",
-    "return": "343.83%",
+    "return": "372.61%",
     "ticker": "SWTX"
   },
   {
-    "current": "0.700",
+    "current": "0.674",
     "ipo_date_stockanalysis": "2019-01-04",
     "ipo_price": "4.00",
     "name": "China SXT Pharmaceuticals",
-    "return": "-82.50%",
+    "return": "-83.15%",
     "ticker": "SXTC"
   },
   {
-    "current": "12.07",
+    "current": "13.24",
     "ipo_date_stockanalysis": "2019-05-02",
     "ipo_price": "13.80",
     "name": "So-Young International",
-    "return": "-12.54%",
+    "return": "-4.09%",
     "ticker": "SY"
   },
   {
-    "current": "10.38",
+    "current": "10.15",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "7.25",
     "name": "Siyata Mobile",
-    "return": "43.17%",
+    "return": "40.00%",
     "ticker": "SYTA"
   },
   {
-    "current": "10.96",
+    "current": "11.05",
     "ipo_date_stockanalysis": "2020-12-02",
     "ipo_price": "10.00",
     "name": "Trepont Acquisition I",
-    "return": "9.55%",
+    "return": "10.50%",
     "ticker": "TACA"
   },
   {
-    "current": "42.02",
+    "current": "40.44",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "16.00",
     "name": "Tarsus Pharmaceuticals",
-    "return": "162.63%",
+    "return": "152.75%",
     "ticker": "TARS"
   },
   {
-    "current": "12.92",
+    "current": "13.00",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "Thoma Bravo Advantage",
-    "return": "29.20%",
+    "return": "29.95%",
     "ticker": "TBA",
     "ticker_original": "TBA"
   },
@@ -5599,67 +5682,67 @@
     "ticker": "TBBA"
   },
   {
-    "current": "29.02",
+    "current": "29.00",
     "ipo_date_stockanalysis": "2019-02-14",
     "ipo_price": "15.00",
     "name": "TCR2 Therapeutics",
-    "return": "93.47%",
+    "return": "93.33%",
     "ticker": "TCRR"
   },
   {
-    "current": "10.39",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "10.00",
     "name": "Tekkorp Digital Acquisition",
-    "return": "3.90%",
+    "return": "4.95%",
     "ticker": "TEKK"
   },
   {
-    "current": "14.57",
+    "current": "14.61",
     "ipo_date_stockanalysis": "2019-11-08",
     "ipo_price": "13.00",
     "name": "TELA Bio",
-    "return": "12.08%",
+    "return": "12.35%",
     "ticker": "TELA"
   },
   {
-    "current": "18.65",
+    "current": "17.78",
     "ipo_date_stockanalysis": "2019-10-25",
     "ipo_price": "5.00",
     "name": "TFF Pharmaceuticals",
-    "return": "273.00%",
+    "return": "255.60%",
     "ticker": "TFFP"
   },
   {
-    "current": "12.86",
+    "current": "12.66",
     "ipo_date_stockanalysis": "2019-08-09",
     "ipo_price": "10.00",
     "name": "Thunder Bridge Acquisition II",
-    "return": "28.60%",
+    "return": "26.60%",
     "ticker": "THBR"
   },
   {
-    "current": "11.00",
+    "current": "10.89",
     "ipo_date_stockanalysis": "2019-07-12",
     "ipo_price": "10.00",
     "name": "Tuscan Holdings Corp. II",
-    "return": "10.00%",
+    "return": "8.90%",
     "ticker": "THCA"
   },
   {
-    "current": "14.91",
+    "current": "14.99",
     "ipo_date_stockanalysis": "2019-03-05",
     "ipo_price": "10.00",
     "name": "Tuscan Holdings",
-    "return": "49.10%",
+    "return": "49.85%",
     "ticker": "THCB"
   },
   {
-    "current": "18.76",
+    "current": "19.00",
     "ipo_date_stockanalysis": "2020-10-01",
     "ipo_price": "10.17",
     "name": "Thryv Holdings",
-    "return": "84.46%",
+    "return": "86.82%",
     "ticker": "THRY"
   },
   {
@@ -5671,83 +5754,83 @@
     "ticker": "TIG"
   },
   {
-    "current": "18.41",
+    "current": "17.76",
     "ipo_date_stockanalysis": "2019-03-20",
     "ipo_price": "8.00",
     "name": "UP Fintech Holding",
-    "return": "130.13%",
+    "return": "122.00%",
     "ticker": "TIGR"
   },
   {
-    "current": "10.55",
+    "current": "10.46",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "10.00",
     "name": "Tiga Acquisition",
-    "return": "5.50%",
+    "return": "4.60%",
     "ticker": "TINV"
   },
   {
-    "current": "39.38",
+    "current": "39.83",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "17.00",
     "name": "Telos",
-    "return": "131.65%",
+    "return": "134.29%",
     "ticker": "TLS"
   },
   {
-    "current": "24.00",
+    "current": "23.59",
     "ipo_date_stockanalysis": "2019-05-02",
     "ipo_price": "16.00",
     "name": "TransMedics Group",
-    "return": "50.00%",
+    "return": "47.44%",
     "ticker": "TMDX"
   },
   {
-    "current": "10.37",
+    "current": "10.40",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Tastemaker Acquisition",
-    "return": "3.70%",
+    "return": "3.95%",
     "ticker": "TMKR"
   },
   {
-    "current": "10.19",
+    "current": "10.23",
     "ipo_date_stockanalysis": "2020-10-16",
     "ipo_price": "10.00",
     "name": "Turmeric Acquisition",
-    "return": "1.90%",
+    "return": "2.30%",
     "ticker": "TMPM"
   },
   {
-    "current": "10.29",
+    "current": "10.22",
     "ipo_date_stockanalysis": "2020-10-15",
     "ipo_price": "10.00",
     "name": "Spartacus Acquisition",
-    "return": "2.90%",
+    "return": "2.20%",
     "ticker": "TMTS"
   },
   {
-    "current": "25.03",
+    "current": "26.00",
     "ipo_date_stockanalysis": "2020-10-07",
     "ipo_price": "10.00",
     "name": "TPG Pace Beneficial Finance",
-    "return": "150.30%",
+    "return": "160.00%",
     "ticker": "TPGY"
   },
   {
-    "current": "129.52",
+    "current": "131.67",
     "ipo_date_stockanalysis": "2019-04-17",
     "ipo_price": "18.00",
     "name": "Turning Point Therapeutics",
-    "return": "619.56%",
+    "return": "631.50%",
     "ticker": "TPTX"
   },
   {
-    "current": "10.91",
+    "current": "11.01",
     "ipo_date_stockanalysis": "2020-06-17",
     "ipo_price": "10.00",
     "name": "Trebia Acquisition",
-    "return": "9.10%",
+    "return": "10.10%",
     "ticker": "TREB"
   },
   {
@@ -5759,67 +5842,67 @@
     "ticker": "TRNE"
   },
   {
-    "current": "3.01",
+    "current": "2.95",
     "ipo_date_stockanalysis": "2019-05-07",
     "ipo_price": "10.00",
     "name": "Trevi Therapeutics",
-    "return": "-69.90%",
+    "return": "-70.50%",
     "ticker": "TRVI"
   },
   {
-    "current": "30.87",
+    "current": "30.47",
     "ipo_date_stockanalysis": "2020-09-24",
     "ipo_price": "20.00",
     "name": "Taysha Gene Therapies",
-    "return": "54.35%",
+    "return": "52.35%",
     "ticker": "TSHA"
   },
   {
-    "current": "10.39",
+    "current": "10.40",
     "ipo_date_stockanalysis": "2020-11-10",
     "ipo_price": "10.00",
     "name": "TS Innovation Acquisitions",
-    "return": "3.90%",
+    "return": "4.00%",
     "ticker": "TSIA"
   },
   {
-    "current": "17.86",
+    "current": "18.24",
     "ipo_date_stockanalysis": "2019-04-11",
     "ipo_price": "14.00",
     "name": "Tufin Software Technologies",
-    "return": "27.57%",
+    "return": "30.29%",
     "ticker": "TUFN"
   },
   {
-    "current": "10.65",
+    "current": "10.70",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "Thayer Ventures Acquisition",
-    "return": "6.50%",
+    "return": "7.00%",
     "ticker": "TVAC"
   },
   {
-    "current": "64.96",
+    "current": "64.36",
     "ipo_date_stockanalysis": "2019-04-04",
     "ipo_price": "27.00",
     "name": "Tradeweb Markets",
-    "return": "140.59%",
+    "return": "138.37%",
     "ticker": "TW"
   },
   {
-    "current": "10.90",
+    "current": "10.97",
     "ipo_date_stockanalysis": "2020-09-11",
     "ipo_price": "10.00",
     "name": "TWC Tech Holdings II",
-    "return": "9.00%",
+    "return": "9.65%",
     "ticker": "TWCT"
   },
   {
-    "current": "10.39",
+    "current": "10.44",
     "ipo_date_stockanalysis": "2020-09-04",
     "ipo_price": "10.00",
     "name": "Tailwind Acquisition",
-    "return": "3.90%",
+    "return": "4.40%",
     "ticker": "TWND"
   },
   {
@@ -5831,60 +5914,60 @@
     "ticker": "TXAC"
   },
   {
-    "current": "185.53",
+    "current": "186.90",
     "ipo_date_stockanalysis": "2019-09-12",
     "ipo_price": "39.00",
     "name": "10X Genomics",
-    "return": "375.72%",
+    "return": "379.22%",
     "ticker": "TXG"
   },
   {
-    "current": "10.30",
+    "current": "10.33",
     "ipo_date_stockanalysis": "2021-01-20",
     "ipo_price": "10.00",
     "name": "TZP Strategies Acquisition",
-    "return": "3.00%",
+    "return": "3.30%",
     "ticker": "TZPSU",
     "ticker_original": "TZPS"
   },
   {
-    "current": "146.96",
+    "current": "154.53",
     "ipo_date_stockanalysis": "2020-09-18",
     "ipo_price": "52.00",
     "name": "Unity Software",
-    "return": "182.62%",
+    "return": "197.17%",
     "ticker": "U"
   },
   {
-    "current": "55.79",
+    "current": "54.32",
     "ipo_date_stockanalysis": "2019-05-10",
     "ipo_price": "45.00",
     "name": "Uber Technologies",
-    "return": "23.98%",
+    "return": "20.71%",
     "ticker": "UBER"
   },
   {
-    "current": "10.27",
+    "current": "10.37",
     "ipo_date_stockanalysis": "2020-06-10",
     "ipo_price": "18.00",
     "name": "uCloudlink Group",
-    "return": "-42.94%",
+    "return": "-42.39%",
     "ticker": "UCL"
   },
   {
-    "current": "63.77",
+    "current": "64.26",
     "ipo_date_stockanalysis": "2020-12-16",
     "ipo_price": "20.00",
     "name": "Upstart Holdings",
-    "return": "218.85%",
+    "return": "221.30%",
     "ticker": "UPST"
   },
   {
-    "current": "10.42",
+    "current": "10.56",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "10.00",
     "name": "Vector Acquisition",
-    "return": "4.20%",
+    "return": "5.60%",
     "ticker": "VACQ"
   },
   {
@@ -5896,251 +5979,260 @@
     "ticker": "VCKA"
   },
   {
-    "current": "11.55",
+    "current": "11.65",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "10.00",
     "name": "10X Capital Venture Acquisition",
-    "return": "15.50%",
+    "return": "16.50%",
     "ticker": "VCVC"
   },
   {
-    "current": "7.20",
+    "current": "7.23",
     "ipo_date_stockanalysis": "2020-01-17",
     "ipo_price": "13.00",
     "name": "Velocity Financial",
-    "return": "-44.62%",
+    "return": "-44.38%",
     "ticker": "VEL"
   },
   {
-    "current": "31.69",
+    "current": "33.53",
     "ipo_date_stockanalysis": "2020-07-29",
     "ipo_price": "19.00",
     "name": "Vertex",
-    "return": "66.79%",
+    "return": "76.47%",
     "ticker": "VERX"
   },
   {
-    "current": "13.90",
+    "current": "13.95",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "10.00",
     "name": "VG Acquisition",
-    "return": "39.00%",
+    "return": "39.50%",
     "ticker": "VGAC"
   },
   {
-    "current": "10.48",
+    "current": "10.50",
     "ipo_date_stockanalysis": "2020-12-23",
     "ipo_price": "10.00",
     "name": "Viveon Health Acquisition",
-    "return": "4.80%",
+    "return": "5.00%",
     "ticker": "VHAQ"
   },
   {
-    "current": "14.50",
+    "current": "15.02",
     "ipo_date_stockanalysis": "2020-09-25",
     "ipo_price": "15.00",
     "name": "VIA optronics AG",
-    "return": "-3.33%",
+    "return": "0.13%",
     "ticker": "VIAO"
   },
   {
-    "current": "33.94",
+    "current": "34.89",
     "ipo_date_stockanalysis": "2019-10-03",
     "ipo_price": "19.00",
     "name": "Viela Bio",
-    "return": "78.63%",
+    "return": "83.61%",
     "ticker": "VIE"
   },
   {
-    "current": "14.89",
+    "current": "15.00",
     "ipo_date_stockanalysis": "2020-09-23",
     "ipo_price": "10.00",
     "name": "VPC Impact Acquisition",
-    "return": "48.90%",
+    "return": "49.95%",
     "ticker": "VIH"
   },
   {
-    "current": "10.49",
+    "current": "10.60",
     "ipo_date_stockanalysis": "2020-12-23",
     "ipo_price": "10.00",
     "name": "7GC & Co. Holdings",
-    "return": "4.90%",
+    "return": "6.00%",
     "ticker": "VII"
   },
   {
-    "current": "42.40",
+    "current": "40.62",
     "ipo_date_stockanalysis": "2019-10-11",
     "ipo_price": "20.00",
     "name": "Vir Biotechnology",
-    "return": "112.00%",
+    "return": "103.10%",
     "ticker": "VIR"
   },
   {
-    "current": "7.74",
+    "current": "7.78",
     "ipo_date_stockanalysis": "2020-12-17",
     "ipo_price": "10.00",
     "name": "Virios Therapeutics",
-    "return": "-22.60%",
+    "return": "-22.19%",
     "ticker": "VIRI"
   },
   {
-    "current": "2.71",
+    "current": "2.70",
     "ipo_date_stockanalysis": "2019-07-26",
     "ipo_price": "9.00",
     "name": "Vista Oil & Gas",
-    "return": "-69.89%",
+    "return": "-70.00%",
     "ticker": "VIST"
   },
   {
-    "current": "24.72",
+    "current": "26.31",
     "ipo_date_stockanalysis": "2020-07-31",
     "ipo_price": "22.00",
     "name": "Vital Farms",
-    "return": "12.36%",
+    "return": "19.59%",
     "ticker": "VITL"
   },
   {
-    "current": "10.25",
+    "current": "10.21",
     "ipo_date_stockanalysis": "2020-08-07",
     "ipo_price": "10.00",
     "name": "Vistas Media Acquisition",
-    "return": "2.50%",
+    "return": "2.05%",
     "ticker": "VMAC"
   },
   {
-    "current": "15.60",
+    "current": "15.59",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "10.00",
     "name": "Vision Marine Technologies",
-    "return": "56.00%",
+    "return": "55.85%",
     "ticker": "VMAR"
   },
   {
-    "current": "36.74",
+    "current": "10.31",
+    "ipo_date_stockanalysis": "2021-01-22",
+    "ipo_price": "10.00",
+    "name": "Virtuoso Acquisition",
+    "return": "3.05%",
+    "ticker": "VOSOU",
+    "ticker_original": "VOSO"
+  },
+  {
+    "current": "36.67",
     "ipo_date_stockanalysis": "2020-06-09",
     "ipo_price": "22.00",
     "name": "Vroom",
-    "return": "67.00%",
+    "return": "66.68%",
     "ticker": "VRM"
   },
   {
-    "current": "11.18",
+    "current": "11.20",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "10.00",
     "name": "Vesper Healthcare Acquisition",
-    "return": "11.80%",
+    "return": "12.00%",
     "ticker": "VSPR"
   },
   {
-    "current": "13.76",
+    "current": "13.75",
     "ipo_date_stockanalysis": "2020-07-31",
     "ipo_price": "19.00",
     "name": "Vasta Platform",
-    "return": "-27.58%",
+    "return": "-27.63%",
     "ticker": "VSTA"
   },
   {
-    "current": "10.50",
+    "current": "10.58",
     "ipo_date_stockanalysis": "2020-12-24",
     "ipo_price": "10.00",
     "name": "Ventoux CCM Acquisition",
-    "return": "5.00%",
+    "return": "5.80%",
     "ticker": "VTAQ"
   },
   {
-    "current": "11.51",
+    "current": "11.61",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "VectoIQ Acquisition II",
-    "return": "15.10%",
+    "return": "16.05%",
     "ticker": "VTIQ"
   },
   {
-    "current": "15.60",
+    "current": "15.04",
     "ipo_date_stockanalysis": "2020-09-18",
     "ipo_price": "16.00",
     "name": "Vitru",
-    "return": "-2.50%",
+    "return": "-6.03%",
     "ticker": "VTRU"
   },
   {
-    "current": "7.07",
+    "current": "6.70",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "6.00",
     "name": "Vivos Therapeutics",
-    "return": "17.83%",
+    "return": "11.67%",
     "ticker": "VVOS"
   },
   {
-    "current": "11.05",
+    "current": "11.24",
     "ipo_date_stockanalysis": "2020-10-02",
     "ipo_price": "10.00",
     "name": "Vy Global Growth",
-    "return": "10.50%",
+    "return": "12.40%",
     "ticker": "VYGG"
   },
   {
-    "current": "4.44",
+    "current": "4.63",
     "ipo_date_stockanalysis": "2019-04-30",
     "ipo_price": "5.00",
     "name": "Wah Fu Education Group",
-    "return": "-11.20%",
+    "return": "-7.40%",
     "ticker": "WAFU"
   },
   {
-    "current": "8.58",
+    "current": "8.59",
     "ipo_date_stockanalysis": "2020-04-01",
     "ipo_price": "5.50",
     "name": "WiMi Hologram Cloud",
-    "return": "56.00%",
+    "return": "56.18%",
     "ticker": "WIMI"
   },
   {
-    "current": "24.84",
+    "current": "24.74",
     "ipo_date_stockanalysis": "2020-12-16",
     "ipo_price": "24.00",
     "name": "ContextLogic",
-    "return": "3.50%",
+    "return": "3.08%",
     "ticker": "WISH"
   },
   {
-    "current": "38.58",
+    "current": "38.73",
     "ipo_date_stockanalysis": "2020-06-03",
     "ipo_price": "25.00",
     "name": "Warner Music Group",
-    "return": "54.32%",
+    "return": "54.92%",
     "ticker": "WMG"
   },
   {
-    "current": "22.45",
+    "current": "21.95",
     "ipo_date_stockanalysis": "2020-12-15",
     "ipo_price": "5.00",
     "name": "Wunong Net Technology",
-    "return": "349.00%",
+    "return": "339.00%",
     "ticker": "WNW"
   },
   {
-    "current": "27.24",
+    "current": "26.06",
     "ipo_date_stockanalysis": "2021-01-14",
     "ipo_price": "18.00",
     "name": "Petco",
-    "return": "51.33%",
+    "return": "44.78%",
     "ticker": "WOOF"
   },
   {
-    "current": "42.42",
+    "current": "42.73",
     "ipo_date_stockanalysis": "2019-06-20",
     "ipo_price": "26.00",
     "name": "Slack Technologies",
-    "return": "63.15%",
+    "return": "64.35%",
     "ticker": "WORK"
   },
   {
-    "current": "11.94",
+    "current": "12.58",
     "ipo_date_stockanalysis": "2020-05-27",
     "ipo_price": "10.00",
     "name": "Foley Trasimene Acquisition",
-    "return": "19.40%",
+    "return": "25.80%",
     "ticker": "WPF"
   },
   {
@@ -6148,15 +6240,15 @@
     "ipo_date_stockanalysis": "2019-07-26",
     "ipo_price": "8.00",
     "name": "Wanda Sports Group",
-    "return": "-68.75%",
+    "return": "-68.81%",
     "ticker": "WSG"
   },
   {
-    "current": "34.66",
+    "current": "34.70",
     "ipo_date_stockanalysis": "2019-03-28",
     "ipo_price": "25.26",
     "name": "Watford Holdings",
-    "return": "37.21%",
+    "return": "37.35%",
     "ticker": "WTRE"
   },
   {
@@ -6168,139 +6260,139 @@
     "ticker": "XGN"
   },
   {
-    "current": "42.83",
+    "current": "42.19",
     "ipo_date_stockanalysis": "2019-12-11",
     "ipo_price": "27.00",
     "name": "XP Inc.",
-    "return": "58.63%",
+    "return": "56.26%",
     "ticker": "XP"
   },
   {
-    "current": "54.31",
+    "current": "56.26",
     "ipo_date_stockanalysis": "2020-08-27",
     "ipo_price": "15.00",
     "name": "XPeng",
-    "return": "262.07%",
+    "return": "275.03%",
     "ticker": "XPEV"
   },
   {
-    "current": "10.84",
+    "current": "10.77",
     "ipo_date_stockanalysis": "2020-10-21",
     "ipo_price": "10.00",
     "name": "DPCM Capital",
-    "return": "8.40%",
+    "return": "7.70%",
     "ticker": "XPOA"
   },
   {
-    "current": "10.56",
+    "current": "10.54",
     "ipo_date_stockanalysis": "2020-08-04",
     "ipo_price": "10.00",
     "name": "Yucaipa Acquisition",
-    "return": "5.60%",
+    "return": "5.35%",
     "ticker": "YAC"
   },
   {
-    "current": "18.01",
+    "current": "18.55",
     "ipo_date_stockanalysis": "2020-09-30",
     "ipo_price": "7.50",
     "name": "Yalla Group",
-    "return": "140.13%",
+    "return": "147.33%",
     "ticker": "YALA"
   },
   {
-    "current": "2.44",
+    "current": "2.09",
     "ipo_date_stockanalysis": "2019-11-13",
     "ipo_price": "4.00",
     "name": "Rideshare Rental",
-    "return": "-39.00%",
+    "return": "-47.75%",
     "ticker": "YAYO"
   },
   {
-    "current": "12.77",
+    "current": "17.50",
     "ipo_date_stockanalysis": "2020-10-21",
     "ipo_price": "4.00",
     "name": "MingZhu Logistics",
-    "return": "219.25%",
+    "return": "337.50%",
     "ticker": "YGMZ"
   },
   {
-    "current": "2.54",
+    "current": "2.55",
     "ipo_date_stockanalysis": "2019-05-03",
     "ipo_price": "11.00",
     "name": "Yunji",
-    "return": "-76.91%",
+    "return": "-76.82%",
     "ticker": "YJ"
   },
   {
-    "current": "17.21",
+    "current": "16.98",
     "ipo_date_stockanalysis": "2020-12-04",
     "ipo_price": "10.50",
     "name": "17 Education & Technology",
-    "return": "63.90%",
+    "return": "61.71%",
     "ticker": "YQ"
   },
   {
-    "current": "10.28",
+    "current": "10.23",
     "ipo_date_stockanalysis": "2020-10-22",
     "ipo_price": "10.00",
     "name": "Yellowstone Acquisition",
-    "return": "2.75%",
+    "return": "2.30%",
     "ticker": "YSAC"
   },
   {
-    "current": "18.75",
+    "current": "19.38",
     "ipo_date_stockanalysis": "2020-11-19",
     "ipo_price": "10.50",
     "name": "Yatsen Holding",
-    "return": "78.57%",
+    "return": "84.52%",
     "ticker": "YSG"
   },
   {
-    "current": "1.93",
+    "current": "1.97",
     "ipo_date_stockanalysis": "2020-02-24",
     "ipo_price": "4.00",
     "name": "Zhongchao",
-    "return": "-51.75%",
+    "return": "-50.73%",
     "ticker": "ZCMD"
   },
   {
-    "current": "10.12",
+    "current": "10.14",
     "ipo_date_stockanalysis": "2020-02-13",
     "ipo_price": "10.00",
     "name": "Yunhong International",
-    "return": "1.20%",
+    "return": "1.40%",
     "ticker": "ZGYH"
   },
   {
-    "current": "46.25",
+    "current": "46.29",
     "ipo_date_stockanalysis": "2020-06-04",
     "ipo_price": "21.00",
     "name": "ZoomInfo Technologies",
-    "return": "120.24%",
+    "return": "120.43%",
     "ticker": "ZI"
   },
   {
-    "current": "382.81",
+    "current": "383.33",
     "ipo_date_stockanalysis": "2019-04-18",
     "ipo_price": "36.00",
     "name": "Zoom Video Communications",
-    "return": "963.36%",
+    "return": "964.81%",
     "ticker": "ZM"
   },
   {
-    "current": "12.57",
+    "current": "13.06",
     "ipo_date_stockanalysis": "2020-11-17",
     "ipo_price": "10.00",
     "name": "Zanite Acquisition",
-    "return": "25.70%",
+    "return": "30.55%",
     "ticker": "ZNTE"
   },
   {
-    "current": "42.91",
+    "current": "43.25",
     "ipo_date_stockanalysis": "2020-04-03",
     "ipo_price": "18.00",
     "name": "Zentalis Pharmaceuticals",
-    "return": "138.39%",
+    "return": "140.28%",
     "ticker": "ZNTL"
   }
 ]
