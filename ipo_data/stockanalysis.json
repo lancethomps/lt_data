@@ -251,11 +251,11 @@
     "ticker": "AJAX"
   },
   {
-    "current": "10.50",
+    "current": "10.51",
     "ipo_date_stockanalysis": "2021-01-06",
     "ipo_price": "10.00",
     "name": "Sports Ventures Acquisition",
-    "return": "5.00%",
+    "return": "5.10%",
     "ticker": "AKIC"
   },
   {
@@ -707,11 +707,11 @@
     "ticker": "BCYC"
   },
   {
-    "current": "10.40",
+    "current": "10.37",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "Big Cypress Acquisition",
-    "return": "3.95%",
+    "return": "3.70%",
     "ticker": "BCYPU",
     "ticker_original": "BCYP"
   },
@@ -820,11 +820,11 @@
     "ticker": "BLSA"
   },
   {
-    "current": "10.55",
+    "current": "10.53",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "Bright Lights Acquisition",
-    "return": "5.50%",
+    "return": "5.30%",
     "ticker": "BLTS"
   },
   {
@@ -1068,11 +1068,11 @@
     "ticker": "CCIV"
   },
   {
-    "current": "11.35",
+    "current": "11.27",
     "ipo_date_stockanalysis": "2020-12-16",
     "ipo_price": "10.00",
     "name": "Churchill Capital V",
-    "return": "13.50%",
+    "return": "12.70%",
     "ticker": "CCV"
   },
   {
@@ -1281,7 +1281,7 @@
     "ipo_date_stockanalysis": "2020-12-08",
     "ipo_price": "10.00",
     "name": "Concord Acquisition",
-    "return": "7.35%",
+    "return": "7.40%",
     "ticker": "CND"
   },
   {
@@ -1662,11 +1662,11 @@
     "ticker": "DUO"
   },
   {
-    "current": "10.40",
+    "current": "10.38",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "Delwinds Insurance Acquisition",
-    "return": "4.00%",
+    "return": "3.80%",
     "ticker": "DWIN"
   },
   {
@@ -1751,11 +1751,11 @@
     "ticker": "EMPW"
   },
   {
-    "current": "10.43",
+    "current": "10.37",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "890 5th Avenue Partners",
-    "return": "4.30%",
+    "return": "3.70%",
     "ticker": "ENFAU",
     "ticker_original": "ENFA"
   },
@@ -1790,8 +1790,7 @@
     "ipo_price": "10.00",
     "name": "Empowerment & Inclusion Capital I",
     "return": "3.60%",
-    "ticker": "EPWR",
-    "ticker_original": "EPWR"
+    "ticker": "EPWR"
   },
   {
     "current": "10.66",
@@ -1866,11 +1865,11 @@
     "ticker": "FCAC"
   },
   {
-    "current": "10.83",
+    "current": "10.92",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Fortress Capital Acquisition",
-    "return": "8.30%",
+    "return": "9.20%",
     "ticker": "FCAX",
     "ticker_original": "FCAX"
   },
@@ -1915,11 +1914,11 @@
     "ticker": "FIII"
   },
   {
-    "current": "10.50",
+    "current": "10.55",
     "ipo_date_stockanalysis": "2021-01-13",
     "ipo_price": "10.00",
     "name": "Marlin Technology",
-    "return": "5.00%",
+    "return": "5.50%",
     "ticker": "FINMU",
     "ticker_original": "FINM"
   },
@@ -2141,11 +2140,11 @@
     "ticker": "FVRR"
   },
   {
-    "current": "10.99",
+    "current": "11.00",
     "ipo_date_stockanalysis": "2021-01-05",
     "ipo_price": "10.00",
     "name": "Fortress Value Acquisition III",
-    "return": "9.90%",
+    "return": "10.00%",
     "ticker": "FVT"
   },
   {
@@ -2253,11 +2252,11 @@
     "ticker": "GIX"
   },
   {
-    "current": "10.85",
+    "current": "10.71",
     "ipo_date_stockanalysis": "2020-12-11",
     "ipo_price": "10.00",
     "name": "Globis Acquisition",
-    "return": "8.50%",
+    "return": "7.10%",
     "ticker": "GLAQ"
   },
   {
@@ -2311,11 +2310,11 @@
     "ticker_original": "GMII"
   },
   {
-    "current": "10.56",
+    "current": "10.62",
     "ipo_date_stockanalysis": "2021-01-15",
     "ipo_price": "10.00",
     "name": "Group Nine Acquisition",
-    "return": "5.60%",
+    "return": "6.20%",
     "ticker": "GNACU",
     "ticker_original": "GNAC"
   },
@@ -2473,11 +2472,11 @@
     "ticker": "GSAH"
   },
   {
-    "current": "10.42",
+    "current": "10.44",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Global Synergy Acquisition",
-    "return": "4.15%",
+    "return": "4.40%",
     "ticker": "GSAQ"
   },
   {
@@ -2916,11 +2915,11 @@
     "ticker": "INDO"
   },
   {
-    "current": "10.50",
+    "current": "10.55",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "KludeIn I Acquisition",
-    "return": "5.00%",
+    "return": "5.50%",
     "ticker": "INKA"
   },
   {
@@ -3164,11 +3163,11 @@
     "ticker": "KINZ"
   },
   {
-    "current": "10.36",
+    "current": "10.40",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "KL Acquisition",
-    "return": "3.60%",
+    "return": "4.00%",
     "ticker": "KLAQ"
   },
   {
@@ -3252,11 +3251,11 @@
     "ticker": "KUKE"
   },
   {
-    "current": "10.60",
+    "current": "10.57",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "10.00",
     "name": "Kingswood Acquisition",
-    "return": "6.00%",
+    "return": "5.72%",
     "ticker": "KWAC"
   },
   {
@@ -3446,11 +3445,11 @@
     "ticker": "LOAK"
   },
   {
-    "current": "11.15",
+    "current": "11.25",
     "ipo_date_stockanalysis": "2020-12-03",
     "ipo_price": "10.00",
     "name": "Live Oak Acquisition II",
-    "return": "11.50%",
+    "return": "12.50%",
     "ticker": "LOKB"
   },
   {
@@ -3598,11 +3597,11 @@
     "ticker": "MCAC"
   },
   {
-    "current": "10.49",
+    "current": "10.56",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Mountain Crest Acquisition II",
-    "return": "4.90%",
+    "return": "5.55%",
     "ticker": "MCAD"
   },
   {
@@ -4120,11 +4119,11 @@
     "ticker": "OACB"
   },
   {
-    "current": "10.98",
+    "current": "11.20",
     "ipo_date_stockanalysis": "2020-11-20",
     "ipo_price": "10.00",
     "name": "Omnichannel Acquisition",
-    "return": "9.80%",
+    "return": "12.00%",
     "ticker": "OCA"
   },
   {
@@ -4330,11 +4329,11 @@
     "ticker": "PAND"
   },
   {
-    "current": "11.72",
+    "current": "11.69",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Provident Acquisition",
-    "return": "17.15%",
+    "return": "16.90%",
     "ticker": "PAQCU",
     "ticker_original": "PAQC"
   },
@@ -4556,13 +4555,12 @@
     "ticker": "POSH"
   },
   {
-    "current": "10.50",
+    "current": "10.68",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Powered Brands",
-    "return": "5.00%",
-    "ticker": "POWRU",
-    "ticker_original": "POW"
+    "return": "6.80%",
+    "ticker": "POW"
   },
   {
     "current": "35.06",
@@ -4573,11 +4571,11 @@
     "ticker": "PPD"
   },
   {
-    "current": "10.60",
+    "current": "10.61",
     "ipo_date_stockanalysis": "2021-01-06",
     "ipo_price": "10.00",
     "name": "Poema Global",
-    "return": "6.00%",
+    "return": "6.10%",
     "ticker": "PPGH"
   },
   {
@@ -4629,11 +4627,11 @@
     "ticker": "PRPB"
   },
   {
-    "current": "11.48",
+    "current": "11.46",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Prospector Capital",
-    "return": "14.80%",
+    "return": "14.60%",
     "ticker": "PRSR"
   },
   {
@@ -4701,11 +4699,11 @@
     "ticker": "PTAC"
   },
   {
-    "current": "10.59",
+    "current": "10.80",
     "ipo_date_stockanalysis": "2020-12-04",
     "ipo_price": "10.00",
     "name": "Proptech Investment II",
-    "return": "5.85%",
+    "return": "8.00%",
     "ticker": "PTIC"
   },
   {
@@ -4789,11 +4787,11 @@
     "ticker": "QLI"
   },
   {
-    "current": "10.85",
+    "current": "10.77",
     "ipo_date_stockanalysis": "2020-12-08",
     "ipo_price": "10.00",
     "name": "Revolution Acceleration Acquisition",
-    "return": "8.50%",
+    "return": "7.70%",
     "ticker": "RAAC"
   },
   {
@@ -4893,11 +4891,11 @@
     "ticker": "RMG"
   },
   {
-    "current": "11.23",
+    "current": "11.35",
     "ipo_date_stockanalysis": "2020-12-10",
     "ipo_price": "10.00",
     "name": "RMG Acquisition II",
-    "return": "12.25%",
+    "return": "13.50%",
     "ticker": "RMGB"
   },
   {
@@ -4982,11 +4980,11 @@
     "ticker": "RRBI"
   },
   {
-    "current": "16.78",
+    "current": "16.72",
     "ipo_date_stockanalysis": "2020-12-02",
     "ipo_price": "10.00",
     "name": "Rodgers Silicon Valley Acquisition",
-    "return": "67.80%",
+    "return": "67.20%",
     "ticker": "RSVA"
   },
   {
@@ -5086,11 +5084,11 @@
     "ticker": "SBTX"
   },
   {
-    "current": "10.97",
+    "current": "11.00",
     "ipo_date_stockanalysis": "2020-12-17",
     "ipo_price": "10.00",
     "name": "ScION Tech Growth I",
-    "return": "9.65%",
+    "return": "10.00%",
     "ticker": "SCOA"
   },
   {
@@ -5222,11 +5220,11 @@
     "ticker": "SITM"
   },
   {
-    "current": "10.41",
+    "current": "10.48",
     "ipo_date_stockanalysis": "2021-01-14",
     "ipo_price": "10.00",
     "name": "Silver Crest Acquisition",
-    "return": "4.10%",
+    "return": "4.80%",
     "ticker": "SLCRU",
     "ticker_original": "SLCR"
   },
@@ -5500,8 +5498,7 @@
     "ipo_price": "10.00",
     "name": "SVF Investment",
     "return": "32.50%",
-    "ticker": "SVFAU",
-    "ticker_original": "SVFA"
+    "ticker": "SVFA"
   },
   {
     "current": "10.78",
@@ -5528,11 +5525,11 @@
     "ticker": "SWBK"
   },
   {
-    "current": "10.47",
+    "current": "10.46",
     "ipo_date_stockanalysis": "2021-01-12",
     "ipo_price": "10.00",
     "name": "Athlon Acquisition",
-    "return": "4.70%",
+    "return": "4.60%",
     "ticker": "SWETU",
     "ticker_original": "SWET"
   },
@@ -5706,11 +5703,11 @@
     "ticker": "TMDX"
   },
   {
-    "current": "10.39",
+    "current": "10.37",
     "ipo_date_stockanalysis": "2021-01-08",
     "ipo_price": "10.00",
     "name": "Tastemaker Acquisition",
-    "return": "3.85%",
+    "return": "3.70%",
     "ticker": "TMKR"
   },
   {
@@ -5891,19 +5888,19 @@
     "ticker": "VACQ"
   },
   {
-    "current": "10.32",
+    "current": "10.33",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "Vickers Vantage I",
-    "return": "3.20%",
+    "return": "3.30%",
     "ticker": "VCKA"
   },
   {
-    "current": "11.65",
+    "current": "11.55",
     "ipo_date_stockanalysis": "2020-11-24",
     "ipo_price": "10.00",
     "name": "10X Capital Venture Acquisition",
-    "return": "16.50%",
+    "return": "15.50%",
     "ticker": "VCVC"
   },
   {
@@ -6051,11 +6048,11 @@
     "ticker": "VTAQ"
   },
   {
-    "current": "11.60",
+    "current": "11.51",
     "ipo_date_stockanalysis": "2021-01-07",
     "ipo_price": "10.00",
     "name": "VectoIQ Acquisition II",
-    "return": "16.00%",
+    "return": "15.10%",
     "ticker": "VTIQ"
   },
   {
